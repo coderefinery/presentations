@@ -431,6 +431,7 @@ template: inverse
 - Administrative overhead for a relatively small project
 - Stakeholders and funding bodies like numbers and success stories but these can be difficult to quantify in workshops
 - We have team members with 25% or less involvement: tricky both for management and the team member
+- Team members have to report to partially disjoint stakeholders
 
 ---
 
