@@ -50,7 +50,7 @@ class: split-60-40
 ---
 
 .left-column[
-<img src="img/neic.png" style="height: 50px;"/>
+<img src="img/neic.png" style="height: 40px;"/>
 
 <img src="img/csc.png" style="height: 90px;"/>
 
