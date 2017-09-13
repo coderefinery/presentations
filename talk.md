@@ -163,6 +163,7 @@ template: inverse
 - May 2017 - Stockholm (afternoon meetup, 20 participants)
 - May 2017 - Umeå (workshop at NeIC 2017, 10 participants)
 - Jun 2017 - Tromsø (3-day workshop, 20 participants)
+- Sep 2017 - Manchester (1.5 h workshop, 20 participants)
 
 ### Typical course website and schedule: http://coderefinery.org/workshops/2017-06-19-tromso/
 
@@ -185,11 +186,9 @@ template: inverse
 - [Integrated development environments](https://coderefinery.github.io/IDEs/)
 - [Archaeology with Git](https://coderefinery.github.io/git-archaeology/)
 - [Git branch design](https://coderefinery.github.io/git-branch-design/)
-- [Mixed Martial Arts: Interfacing Fortran, C, C++, and Python for Great Good!](https://coderefinery.github.io/mma/)
+- [Mixed Martial Arts: Interfacing Fortran, C, C++, and Python](https://coderefinery.github.io/mma/)
 
----
-
-## Suggestions for future topics
+### Suggestions for future topics
 
 - Contribution guides
 - How to open-source a project
@@ -224,7 +223,7 @@ template: inverse
 - Meet-ups are great for community building
 - *Only confuse people with one new idea at a time - make examples that illustrate only one new point.* [Joe Armstrong]
 - Room quality very important (two projectors)
-- Local contact for room reservation, catering contact and practical questions is important
+- Local contact for room reservation, **email lists**, catering contact and practical questions is important
 
 ---
 
@@ -357,15 +356,15 @@ template: inverse
 - http://coderefinery.org
 - https://neic.no/coderefinery/
 
-### Twitter
+### Twitter (72 followers)
 
 - [@coderefine](https://twitter.com/coderefine)
 
-### GitHub
+### GitHub (37 repositories)
 
 - [github.com/coderefinery](https://github.com/coderefinery)
 
-### Mailing list
+### Mailing list (55 members, all opt-in)
 
 - [coderefinery@googlegroups.com](https://groups.google.com/group/coderefinery)
 
@@ -384,30 +383,6 @@ template: inverse
 ## Logo: *Complexity expressed with simplicity*
 
 <img src="img/logo.jpg" style="height: 250px;"/>
-
----
-
-## Outreach
-
-### What works well
-
-- Website
-- Information channels in Sweden
-
-### Lessons learned
-
-- Support line is needed to decentralize support questions
-- Different efficiency of information channels in different countries
-- We need and now have a form where researchers subscribe to notifications about workshops
-
-### What we need to improve
-
-- More Twitter activity
-- Blog posts would be nice
-- Optimize information channels NeIC -> research groups
-- Proactively approach research groups
-- Make association to NeIC more clear
-- Distribute stickers
 
 ---
 
