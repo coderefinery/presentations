@@ -104,13 +104,10 @@ class: split-60-40
 
 ---
 
-class: split-60-40
+class: split-40-60
 
 ## Workshop roadshow
 
-.column[
-<img src="img/map.jpg" style="height: 380px;"/>
-]
 .column[
 - Dec 2016 - Helsinki
 - Feb 2017 - Stockholm
@@ -119,6 +116,7 @@ class: split-60-40
 - May 2017 - Umeå (NeIC 2017)
 - Jun 2017 - Tromsø
 - Sep 2017 - Manchester (RSE)
+- Oct 2017 - Umeå
 - Oct 2017 - Aarhus
 - Nov 2017 - Linköping
 - Dec 2017 - Helsinki
@@ -129,70 +127,9 @@ class: split-60-40
 - Jun 2018 - Oslo
 - Aug 2018 - Reykjavík
 ]
-
----
-
-class: split-50-50
-
 .column[
-## E-mail workflow
-
-<img src="img/email.svg" style="height: 400px;"/>
+<img src="img/map.jpg" style="height: 380px;"/>
 ]
-.column[
-## Version control
-
-<img src="img/centralized.svg" style="height: 400px;"/>
-]
-
----
-
-class: split-50-50
-
-.column[
-## Centralized workflow
-
-<img src="img/centralized.svg" style="height: 400px;"/>
-]
-.column[
-## Code review workflow
-
-<img src="img/forking-overview.svg" style="height: 400px;"/>
-]
-
----
-
-## .blue[2017: Are you using peer review in publishing?]
-
-### *Of course! What else?*
-
----
-
-## .blue[2017: Are you using peer review in publishing?]
-
-### *Of course! What else?*
-
-## .blue[2017: Are you using code review in code development?]
-
-### *I don't know what it is.*
-### *I don't know how to do it.*
-### *I don't have time to do it.*
-
----
-
-## .blue[2017: Are you using peer review in publishing?]
-
-### *Of course! What else?*
-
-## .blue[2017: Are you using code review in code development?]
-
-### *I don't know what it is.*
-### *I don't know how to do it.*
-### *I don't have time to do it.*
-
-## .blue[202X: Are you using code review in code development?]
-
-### *Of course! What else?*
 
 ---
 
