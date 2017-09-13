@@ -31,23 +31,9 @@ layout: false
 
 ---
 
-## Software is transforming research
-
-.column[
-<img src="img/complex-machine.jpg" style="height: 500px;"/>
-]
-.column[
-- Quality of scientific software is **critical to modern research**
-
-- Scientists often **lack the necessary training** in practices to
-  enable them to collaboratively write high-quality scientific software
-]
-
----
-
 class: split-60-40
 
-## Goals: Better science with better software
+## Motivation: Better science with better software
 
 .column[
 <img src="img/bromance.jpg" style="height: 360px;"/>
@@ -60,25 +46,6 @@ class: split-60-40
   software
 - Build **strong partnerships** with related initiatives
 ]
-
----
-
-## FAQ: How do we differ?
-
-### [Software Carpentry](https://software-carpentry.org)
-
-- Teaching basic lab skills for research computing.
-
-### [The Software Sustainability Institute](https://www.software.ac.uk)
-
-- Cultivate better, more sustainable, research software to enable world-class
-  research (better software, better research).
-
-### [CodeRefinery](https://www.software.ac.uk)
-
-- Training in skills and tools for students/researchers who write code.
-- Managing complexity and collaborative modular development.
-- Provide infrastructure services.
 
 ---
 
