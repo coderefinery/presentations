@@ -323,7 +323,7 @@ template: inverse
 
 - Excellent team
 - Good team spirit
-- Monday morning hello in the chat
+- Chat: we have good routines
 
 ### Lessons learned
 
@@ -347,6 +347,7 @@ template: inverse
 - Stakeholders and funding bodies like numbers and success stories but these can be difficult to quantify in workshops
 - We have team members with 25% or less involvement: tricky both for management and the team member
 - Team members have to report to partially disjoint stakeholders
+- With all the firefighting that we have to do in many projects there is no time left to do long-term lesson development
 
 ---
 
@@ -399,7 +400,7 @@ template: inverse
 ## Outlook
 
 - Courses are and will be needed
-- Courses need to be maintained after this project has ended
+- Courses will hopefully be maintained after this project has ended
 - Services will be needed and used but need to be better advertised
 - Maintaining services is and probably will be cheap compared to salary costs
 
@@ -407,7 +408,7 @@ template: inverse
 
 ## Recommendations for follow-up project
 
-- Support continuation of a GitLab service for 2 subsequent years and observe growth
+- Support continuation of a GitLab service for 3 subsequent years and observe growth
 - Closer collaboration with Software Carpentry
 - Transfer course maintenance to the community (to volunteers)
 - Recruit instructors from the research community
