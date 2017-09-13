@@ -117,16 +117,16 @@ class: split-60-40
 
 class: split-40-60
 
-## Workshop roadshow
+## Workshops and events
 
 .column[
 - Dec 2016 - Helsinki
 - Feb 2017 - Stockholm
 - May 2017 - Copenhagen
-- May 2017 - Stockholm (meetup)
-- May 2017 - Umeå (NeIC 2017)
+- May 2017 - Stockholm
+- May 2017 - Umeå
 - Jun 2017 - Tromsø
-- Sep 2017 - Manchester (RSE)
+- Sep 2017 - Manchester
 - Oct 2017 - Umeå
 - Oct 2017 - Aarhus
 - Nov 2017 - Linköping
@@ -197,24 +197,12 @@ template: inverse
 
 ---
 
-## Lesson format
-
-- Interactive
-- Type-along
-- Hands-on
-- Minimize slides
-- Alternate 10-15 minute demonstrations with exercises
-- Progress feedback with green/red sticky notes (inspired by Software Carpentry)
-- Collect feedback after each lesson
-- Software carpentry style format for online material to encourage/simplify transferral
-
----
-
 ## Workshops
 
 ### What works well
 
 - We fill the rooms
+- Interactive hands-on lesson format
 - Most participants return second and third day
 - Feedback is very useful
 
@@ -372,6 +360,8 @@ template: inverse
 
 ---
 
+<img src="img/logo.jpg" style="height: 250px;"/>
+
 ## CodeRefinery in the press
 
 - https://neic.no/news/2017/03/15/better-software-leads-to-better-science/
@@ -379,12 +369,6 @@ template: inverse
 - https://www.pdc.kth.se/news/news-repository/coderefinery-workshop-in-espoo
 - https://www.pdc.kth.se/newsletter/2017-1/pdc-newsletter-2017-no.-1
 - https://csc.fi/de/web/blog/post/-/blogs/coderefinery-and-the-red-queen-s-race
-
----
-
-## Logo: *Complexity expressed with simplicity*
-
-<img src="img/logo.jpg" style="height: 250px;"/>
 
 ---
 
@@ -400,13 +384,13 @@ template: inverse
 ## Outlook
 
 - Courses are and will be needed
-- Courses will hopefully be maintained after this project has ended
+- Courses need to be maintained to remain useful
 - Services will be needed and used but need to be better advertised
 - Maintaining services is and probably will be cheap compared to salary costs
 
 ---
 
-## Recommendations for follow-up project
+## Recommendations for follow-up project from PM
 
 - Support continuation of a GitLab service for 3 subsequent years and observe growth
 - Closer collaboration with Software Carpentry
@@ -416,3 +400,36 @@ template: inverse
 - Strike balance between discipline generality and discipline specificity to include humanities
 - Consider shifting budget from instructor salaries to instructor mobility
 - Consider more lightweight management structure if the overall budget is small
+
+---
+
+## Recommendations and ideas from the steering group
+
+- Follow-up with longer term perspective is recommended but several possible paths exist.
+
+### Lightweight path
+
+- Split into training part and infrastructure part.
+- Updating workshops and developing
+  a long-term operational plan for the services.
+
+### Bigger picture path
+
+- Interlinking with other projects and provide a
+  vision for software sharing interlinked with FAIR initiatives.
+- Nordic platform engaging in an European platform.
+- Certification routines for trainers in all Nordic countries.
+- Establishing and strengthen the career paths of Research Software Engineers (RSEs).
+- Closer collaboration with use cases and follow them closer?
+- More discipline-specific targeted workshops + acting on requests.
+
+---
+
+## Recommendations from the steering group
+
+- The steering group sees a stronger need for teaching and courses compared to
+  the services.
+- Teaching activity should be the core mission.
+- Increased focus on
+  train-the-trainers, maybe even with a certification to motivate people.
+- Increase the reach and scale with material that can be consumed online.
