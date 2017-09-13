@@ -290,13 +290,13 @@ template: inverse
 
 ## Metrics
 
-- Current: 49 projects, 45 users, 13 groups
-- Goal: 1000 projects, 500 users
+- Current: 52 projects, 49 users, 13 groups
+- Goal: 500-1000 users and projects
 
 ### Plans
 
 - Migrate service to DeIC infrastructure
-- Migrate users from https://source.uit.no (1249 projects, 586 users, 61 groups)
+- Migrate users from https://source.uit.no (1249 projects, 187 public projects, 586 users, 61 groups)
 - Advertise service
 
 ### Risks
