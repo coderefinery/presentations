@@ -87,6 +87,17 @@ class: split-60-40
 
 ---
 
+## Steering group members
+
+- Gerd Behrmann, DK, Technical advisor
+- Hans A. Eide, NO
+- Lene Krøl Andersen, DK
+- Marti Louhivuori, DK
+- Michaela Barth, SE, Chair
+- Rossen Apostolov, SE
+
+---
+
 ## [Ten simple rules for making research software more robust](https://doi.org/10.1371/journal.pcbi.1005412)
 
 **M. Taschuk, G. Wilson** (2017). PLoS Comput Biol 13(4): e1005412.
