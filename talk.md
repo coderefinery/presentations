@@ -285,6 +285,7 @@ template: inverse
 - http://coderefinery.org/repository/
 - https://source.coderefinery.org
 - Temporary service is excellently maintained by CSC staff
+- Ansible playbooks are public: encourage other centers to contribute/reuse
 
 ---
 
