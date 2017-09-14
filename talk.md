@@ -120,23 +120,23 @@ class: split-40-60
 ## Workshops and events
 
 .column[
-- Dec 2016 - Helsinki
-- Feb 2017 - Stockholm
-- May 2017 - Copenhagen
+- Dec 2016 - **Helsinki**
+- Feb 2017 - **Stockholm**
+- May 2017 - **Copenhagen**
 - May 2017 - Stockholm
 - May 2017 - Umeå
-- Jun 2017 - Tromsø
+- Jun 2017 - **Tromsø**
 - Sep 2017 - Manchester
 - Oct 2017 - Umeå
-- Oct 2017 - Aarhus
-- Nov 2017 - Linköping
-- Dec 2017 - Helsinki
-- Feb 2018 - Trondheim
-- Mar 2018 - Turku
-- Apr 2018 - Odense
-- May 2018 - Uppsala
-- Jun 2018 - Oslo
-- Aug 2018 - Reykjavík
+- Oct 2017 - **Aarhus**
+- Nov 2017 - **Linköping**
+- Dec 2017 - **Helsinki**
+- Feb 2018 - **Trondheim**
+- Mar 2018 - **Turku**
+- Apr 2018 - **Odense**
+- May 2018 - **Uppsala**
+- Jun 2018 - **Oslo**
+- Aug 2018 - **Reykjavík**
 ]
 .column[
 <img src="img/map.jpg" style="height: 380px;"/>
