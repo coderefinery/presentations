@@ -92,7 +92,7 @@ class: split-60-40
 - Gerd Behrmann, DK, Technical advisor
 - Hans A. Eide, NO
 - Lene Krøl Andersen, DK
-- Marti Louhivuori, DK
+- Marti Louhivuori, FI
 - Michaela Barth, SE, Chair
 - Rossen Apostolov, SE
 
@@ -194,6 +194,7 @@ template: inverse
 - How to open-source a project
 - Software licenses
 - Reproducible science
+- Modular code development
 
 ---
 
@@ -211,7 +212,7 @@ template: inverse
 - Meet-ups are great for community building
 - *Only confuse people with one new idea at a time - make examples that illustrate only one new point.* [Joe Armstrong]
 - Room quality very important (two projectors)
-- Local contact for room reservation, **email lists**, catering contact and practical questions is important
+- **Local contact** for room reservation, email lists, catering, and practical questions is important
 
 ---
 
@@ -238,14 +239,10 @@ template: inverse
 
 ### Examples
 
-- Espoo: https://docs.google.com/document/d/1rSSe5CEm8piVrusXzyjUG0xeCAKh2rPbHthi7CKbk7o/
-- Stockholm: https://docs.google.com/document/d/1Zc_P1CsW5ni0ubQQ2brD397qcRZmr32csWh8QoYcs_k/
-- Copenhagen: https://docs.google.com/document/d/1vesWPNZIymNZxk7imoLGzekQtaCUZvQpCyOOYiZiKWY/
-- Tromsø: https://docs.google.com/document/d/1Xn5cSRbvP618_FoFhEwIK9eZL6AMXs---A1x2xFo9gY/
-
----
-
-## Workshop feedback
+- [Espoo](https://docs.google.com/document/d/1rSSe5CEm8piVrusXzyjUG0xeCAKh2rPbHthi7CKbk7o/)
+- [Stockholm](https://docs.google.com/document/d/1Zc_P1CsW5ni0ubQQ2brD397qcRZmr32csWh8QoYcs_k/)
+- [Copenhagen](https://docs.google.com/document/d/1vesWPNZIymNZxk7imoLGzekQtaCUZvQpCyOOYiZiKWY/)
+- [Tromsø](https://docs.google.com/document/d/1Xn5cSRbvP618_FoFhEwIK9eZL6AMXs---A1x2xFo9gY/)
 
 ### What we need to improve
 
@@ -279,7 +276,7 @@ template: inverse
 
 ## Metrics
 
-- Current: 52 projects, 49 users, 13 groups
+- Current: 54 projects, 49 users, 14 groups
 - Goal: 500-1000 users and projects
 
 ### Plans
@@ -292,6 +289,10 @@ template: inverse
 
 - We migrate the service away from CSC staff
 - We migrate from a known solution to an unknown
+
+### Opportunities
+
+- Long-term support
 
 ---
 
@@ -328,14 +329,14 @@ template: inverse
 
 ### Challenges
 
-- Team is generally not recruited from research groups
+- Team is generally .blue[not recruited from research groups]
   (advantage: new perspective and experience in programming, disadvantage: sometimes creates gap)
-- NeIC seems optimized for infrastructure services but course development falls outside
-- Administrative overhead for a relatively small project
+- NeIC seems .blue[optimized for infrastructure services] but course development falls outside
+- .blue[Administrative overhead] for a relatively small project
 - Stakeholders and funding bodies like numbers and success stories but these can be difficult to quantify in workshops
 - We have team members with 25% or less involvement: tricky both for management and the team member
-- Team members have to report to partially disjoint stakeholders
-- With all the firefighting that we have to do in many projects there is no time left to do long-term lesson development
+- Team members have to report to partially .blue[disjoint stakeholders]
+- With all the firefighting that we have to do in many projects there is .blue[no time left to do long-term lesson development]
 
 ---
 
@@ -386,6 +387,7 @@ template: inverse
 - Courses are and will be needed
 - Courses need to be maintained to remain useful
 - Services will be needed and used but need to be better advertised
+- Users of services care most about long-term perspective
 - Maintaining services is and probably will be cheap compared to salary costs
 
 ---
@@ -395,11 +397,11 @@ template: inverse
 - Support continuation of a GitLab service for 3 subsequent years and observe growth
 - Closer collaboration with Software Carpentry
 - Transfer course maintenance to the community (to volunteers)
-- Recruit instructors from the research community
-- Allocate administrative support for the project for training coordination and reporting
+- Recruit instructors from the .blue[research community]
+- Allocate .blue[administrative support] for the project for training coordination and reporting
 - Strike balance between discipline generality and discipline specificity to include humanities
 - Consider shifting budget from instructor salaries to instructor mobility
-- Consider more lightweight management structure if the overall budget is small
+- Consider more .blue[lightweight management structure] if the overall budget is small
 
 ---
 
@@ -429,7 +431,7 @@ template: inverse
 
 - The steering group sees a stronger need for teaching and courses compared to
   the services.
-- Teaching activity should be the core mission.
+- .blue[Teaching activity should be the core mission.]
 - Increased focus on
   train-the-trainers, maybe even with a certification to motivate people.
 - Increase the reach and scale with material that can be consumed online.
