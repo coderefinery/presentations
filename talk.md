@@ -312,14 +312,14 @@ template: inverse
 
 - Excellent team
 - Good team spirit
-- Chat: we have good routines
+- Team chat: we have good routines
 
 ### Lessons learned
 
 - Project website is important
 - Maximize transparency
 - Minimize tool-set
-- Google Drive
+- Google Drive works
 - Weekly video meetings with max. 60 minutes
 - Minimize communication overhead (both towards team and towards NeIC) with an efficient website
 
@@ -347,7 +347,7 @@ template: inverse
 - http://coderefinery.org
 - https://neic.no/coderefinery/
 
-### Twitter (72 followers)
+### Twitter (79 followers)
 
 - [@coderefine](https://twitter.com/coderefine)
 
@@ -355,7 +355,7 @@ template: inverse
 
 - [github.com/coderefinery](https://github.com/coderefinery)
 
-### Mailing list (55 members, all opt-in)
+### Mailing list (56 members, all opt-in)
 
 - [coderefinery@googlegroups.com](https://groups.google.com/group/coderefinery)
 
@@ -387,7 +387,7 @@ template: inverse
 - Courses are and will be needed
 - Courses need to be maintained to remain useful
 - Services will be needed and used but need to be better advertised
-- Users of services care most about long-term perspective
+- .blue[Users of services care most about long-term perspective]
 - Maintaining services is and probably will be cheap compared to salary costs
 
 ---
@@ -395,7 +395,7 @@ template: inverse
 ## Recommendations for follow-up project from PM
 
 - Support continuation of a GitLab service for 3 subsequent years and observe growth
-- Closer collaboration with Software Carpentry
+- Closer collaboration with Software Carpentry (fund a coordinator)
 - Transfer course maintenance to the community (to volunteers)
 - Recruit instructors from the .blue[research community]
 - Allocate .blue[administrative support] for the project for training coordination and reporting
@@ -407,11 +407,11 @@ template: inverse
 
 ## Recommendations and ideas from the steering group
 
-- Follow-up with longer term perspective is recommended but several possible paths exist.
+- Follow-up with longer term perspective is recommended but several possible paths exist:
 
 ### Lightweight path
 
-- Split into training part and infrastructure part.
+- .blue[Split into training part and infrastructure part].
 - Updating workshops and developing
   a long-term operational plan for the services.
 
@@ -419,7 +419,7 @@ template: inverse
 
 - Interlinking with other projects and provide a
   vision for software sharing interlinked with FAIR initiatives.
-- Nordic platform engaging in an European platform.
+- Nordic platform .blue[engaging in an European platform].
 - Certification routines for trainers in all Nordic countries.
 - Establishing and strengthen the career paths of Research Software Engineers (RSEs).
 - Closer collaboration with use cases and follow them closer?
