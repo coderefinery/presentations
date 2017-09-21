@@ -69,20 +69,20 @@ class: split-60-40
 
 ### Team
 
-- Bjørn Lindi
-- Erik Edelmann
-- Jyry Suvilehto
-- Lukasz Bartosz Berger
-- Nikolai Denissov
-- Radovan Bast
-- Risto Laurikainen
-- Sabry Razick
-- Sri Harsha Vathsavayi
-- Thor Wikfeldt
+- Bjørn Lindi, NO
+- Erik Edelmann, FI
+- Jyry Suvilehto, FI
+- Lukasz Bartosz Berger, DK
+- Nikolai Denissov, FI
+- Radovan Bast, NO
+- Risto Laurikainen, FI
+- Sabry Razick, NO
+- Sri Harsha Vathsavayi, FI
+- Thor Wikfeldt, SE
 
 ### Alumni
 
-- Pinja Koskinen
+- Pinja Koskinen, FI
 ]
 
 ---
