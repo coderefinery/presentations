@@ -96,6 +96,8 @@ class: split-60-40
 - Michaela Barth, SE, Chair
 - Rossen Apostolov, SE
 
+### Excellent input, busy, yet very responsive
+
 ---
 
 ## [Ten simple rules for making research software more robust](https://doi.org/10.1371/journal.pcbi.1005412)
