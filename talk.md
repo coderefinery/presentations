@@ -278,7 +278,7 @@ template: inverse
 
 ## Metrics
 
-- Current: 54 projects, 49 users, 14 groups
+- Current: 54 projects, 50 users, 14 groups
 - Goal: 500-1000 users and projects
 
 ### Plans
