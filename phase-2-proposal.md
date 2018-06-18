@@ -12,7 +12,9 @@ layout: false
 
 # CodeRefinery project phase 2 proposal
 
-Impact and goals in one slide ...
+### 1) Why this project is needed
+### 2) What we want to keep and what we need to change
+### 3) How to become sustainable
 
 ---
 
@@ -20,7 +22,7 @@ Impact and goals in one slide ...
 
 ---
 
-# Scientific disciplines of workshop participants
+# Scientific disciplines of participants
 
 ---
 
