@@ -1,6 +1,9 @@
-## Presentations/reports
 
-- [CodeRefinery Project mid-term report](http://cicero.xyz/v2/remark/github/coderefinery/report/master/mid-term.md/).
+
+## CodeRefinery project presentations/reports
+
+- [Mid-term report](http://cicero.xyz/v2/remark/github/coderefinery/report/master/mid-term.md/)
+- [Phase 2 proposal](http://cicero.xyz/v2/remark/github/coderefinery/report/master/phase-2-proposal.md/)
 
 
 ### Copyright information
