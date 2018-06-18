@@ -68,7 +68,10 @@ layout: false
 
 ---
 
-# GitLab service statistics
+# GitLab repository hosting for the Nordics
+
+
+### Service statistics
 
 - 121 users
 - 156 projects
@@ -83,18 +86,39 @@ layout: false
 - [Earth Observation Laboratory](https://eo.uit.no) - Remote Sensing Research at UiT - The Arctic University of Norway
 - [Centre for Integrated Remote Sensing and Forecasting for Arctic Operations](https://cirfa.uit.no)
 
+
+Cost: 50k NOK/year
+
 ---
 
 # Automated testing use cases
+
+(list CI use cases)
 
 ---
 
 # Goals for follow-up project
 
+(goals on 1-2 slides)
+
 ---
 
-# Transition to call for workshops
+# Network
+
+(Mention Aalto Science-IT)
+
+(Nordic RSE)
+
+(Possible future Carpentries partnership)
 
 ---
 
 # How to become sustainable in 3 years
+
+- Grow the number of instructors
+- After phase 2 we will have certified "CodeRefinery instructors" distributed over the Nordics
+- NeIC partners will contribute instructors in-kind to teach at 2 workshops a year (great career development, Carpentries model)
+- Call for invited workshops: host institutions will cover travel and lodging
+- "CodeRefinery hubs": universities willing to host 1-2 workshops per year (good example: Aalto Science-IT)
+- Institutions and NeIC partners contribute to 1 FTE for administration and coordination
+- Joint PhD program: http://www.nordicfivetech.org/joint-projects/phd-collaboration
