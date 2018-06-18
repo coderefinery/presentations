@@ -20,9 +20,13 @@ layout: false
 
 # Map of workshops held
 
+(here we will show a map of all workshops held)
+
 ---
 
 # Scientific disciplines of participants
+
+(a graph listing scientific disciplines of participants)
 
 ---
 
@@ -64,11 +68,20 @@ layout: false
 
 ---
 
-# Feedback and letters of support
-
----
-
 # GitLab service statistics
+
+- 121 users
+- 156 projects
+- 12 groups
+
+
+### Notable projects/groups
+
+- [Symbioses](http://akvaplan.niva.no/en/symbioses)
+- [NorduGrid Advanced Resource Connector](http://www.nordugrid.org/arc/)
+- [EISCAT](https://www.eiscat.se)
+- [Earth Observation Laboratory](https://eo.uit.no) - Remote Sensing Research at UiT - The Arctic University of Norway
+- [Centre for Integrated Remote Sensing and Forecasting for Arctic Operations](https://cirfa.uit.no)
 
 ---
 
