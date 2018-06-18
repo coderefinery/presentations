@@ -12,4 +12,36 @@ layout: false
 
 # CodeRefinery project phase 2 proposal
 
-To be written ...
+Impact and goals in one slide ...
+
+---
+
+# Map of workshops held
+
+---
+
+# Participant disciplines
+
+---
+
+# Feedback and letters of support
+
+---
+
+# GitLab service statistics
+
+---
+
+# Automated testing use cases
+
+---
+
+# Goals for follow-up project
+
+---
+
+# Transition to call for workshops
+
+---
+
+# How to become sustainable in 3 years
