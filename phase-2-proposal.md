@@ -197,10 +197,11 @@ Computes molecular properties using relativistic quantum chemical methods.
 
 # Network
 
-### Aalto Science-IT
+### Aalto Science-IT (Richard Darst)
 
-- Very fruitful collaboration with Richard Darst: lesson development and sharing of material
-- Co-organized two CodeRefinery workshops at Aalto university (2017 and 2018)
+- Very fruitful collaboration with Richard Darst: lesson development and sharing of material,
+  co-organized two CodeRefinery workshops
+- Commitment to sponsoring two workshops per year as part of top-to-bottom, yearly training program
 
 ### Nordic RSE
 
