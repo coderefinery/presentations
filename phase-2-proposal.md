@@ -26,11 +26,11 @@ class: split-50-50
 <img src="img/map.png" style="height: 300px;"/>
 ]
 .column[
-## .blue[N] workshops delivered
+## .blue[15] workshops delivered
 
-## .blue[N] participants
+## .blue[380] participants
 
-## .blue[N] academic disciplines
+## .blue[30] academic disciplines
 ]
 
 ---
