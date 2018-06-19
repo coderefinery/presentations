@@ -18,9 +18,20 @@ layout: false
 
 ---
 
-# Map of workshops held
+class: split-50-50
 
-(here we will show a map of all workshops held)
+# CodeRefinery workshops
+
+.column[
+<img src="img/map.png" style="height: 300px;"/>
+]
+.column[
+### N workshops delivered
+
+### N participants
+
+### N academic disciplines
+]
 
 ---
 
