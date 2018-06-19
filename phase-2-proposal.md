@@ -46,9 +46,49 @@ Post-workshop survey results (3-6 months after a workshop, 71 responses, 48% gra
 
 ---
 
-# Scientific disciplines of participants
+# Academic disciplines (1/2)
 
-(a graph listing scientific disciplines of participants)
+|            | discipline                                                               |
+| ----------:|:------------------------------------------------------------------------ |
+|        22% | Computer and Information Sciences                                        |
+|        22% | Physical Sciences                                                        |
+|        12% | Biological Sciences                                                      |
+|         8% | Chemical Sciences                                                        |
+|         7% | Earth and Related Environmental Sciences                                 |
+|         4% | Mathematics                                                              |
+|         3% | Electrical Engineering, Electronic Engineering, Information Engineering  |
+|         3% | Mechanical Engineering                                                   |
+|         2% | Medical Biotechnology                                                    |
+|         2% | Health Sciences                                                          |
+|         2% | Environmental Engineering                                                |
+|         1% | Basic Medicine                                                           |
+|         1% | Other Engineering and Technologies                                       |
+|            | ...                                                                      |
+
+---
+
+# Academic disciplines (2/2)
+
+|            | discipline                                                               |
+| ----------:|:------------------------------------------------------------------------ |
+|            | ...                                                                      |
+|         1% | Economics and Business                                                   |
+|         1% | Clinical Medicine                                                        |
+|         1% | Psychology                                                               |
+|         1% | Other Medical and Health Sciences                                        |
+|         1% | Languages and Literature                                                 |
+|         1% | Civil Engineering                                                        |
+|         1% | Sociology                                                                |
+|         1% | Other Natural Sciences                                                   |
+|         1% | Nano-technology                                                          |
+|         1% | Medical Engineering                                                      |
+|         1% | Materials Engineering                                                    |
+|         1% | Chemical Engineering                                                     |
+|        <1% | Social and Economic Geography                                            |
+|        <1% | Political Science                                                        |
+|        <1% | History and Archaeology                                                  |
+|        <1% | Educational Sciences                                                     |
+|         2% | Other                                                                    |
 
 ---
 
