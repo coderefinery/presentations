@@ -224,3 +224,13 @@ Computes molecular properties using relativistic quantum chemical methods.
 - Call for invited workshops: host institutions will cover travel and lodging
 - "CodeRefinery hubs": universities willing to host 1-2 workshops per year (good example: Aalto Science-IT)
 - Institutions and NeIC partners contribute to 1 FTE for administration and coordination
+
+---
+
+# Conclusion
+
+- There is significant need for workshops that are more advanced than Carpentries
+- NeIC and partners have a working team
+- Working drop-in model
+- Little risk or uncertainty
+- Career development opportunity for NeIC/IP staff
