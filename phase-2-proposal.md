@@ -22,6 +22,8 @@ class: split-50-50
 
 # CodeRefinery workshops
 
+Feedback: http://coderefinery.org/#what-do-our-participants-say-after-attending-a-workshop
+
 .column[
 <img src="img/map.png" style="height: 300px;"/>
 ]
