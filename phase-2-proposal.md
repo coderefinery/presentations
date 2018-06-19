@@ -182,6 +182,7 @@ Computes molecular properties using relativistic quantum chemical methods.
 
 # Goals for follow-up project
 
+- Include Estonia and Iceland to our network and activities
 - Focus on **workshops** but keep services running
 - In workshops **use own services**
 - **Reach scale**
