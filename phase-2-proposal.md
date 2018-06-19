@@ -24,6 +24,12 @@ layout: false
 
 ---
 
+# Impact
+
+(here show post-workshop survey results)
+
+---
+
 # Scientific disciplines of participants
 
 (a graph listing scientific disciplines of participants)
