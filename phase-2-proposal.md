@@ -158,4 +158,3 @@ Cost: 50k NOK/year, still unknown to most Nordic researchers
 - Call for invited workshops: host institutions will cover travel and lodging
 - "CodeRefinery hubs": universities willing to host 1-2 workshops per year (good example: Aalto Science-IT)
 - Institutions and NeIC partners contribute to 1 FTE for administration and coordination
-- Joint PhD program à la http://www.nordicfivetech.org/joint-projects/phd-collaboration
