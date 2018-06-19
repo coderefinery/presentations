@@ -86,14 +86,14 @@ layout: false
 
 ### Notable projects/groups
 
-- [Symbioses](http://akvaplan.niva.no/en/symbioses)
+- [Symbioses](http://akvaplan.niva.no/en/symbioses): simulating ecological impact of an oil spill
 - [NorduGrid Advanced Resource Connector](http://www.nordugrid.org/arc/)
 - [EISCAT](https://www.eiscat.se)
-- [Earth Observation Laboratory](https://eo.uit.no) - Remote Sensing Research at UiT - The Arctic University of Norway
+- [Earth Observation Laboratory](https://eo.uit.no): Remote Sensing Research at UiT - The Arctic University of Norway
 - [Centre for Integrated Remote Sensing and Forecasting for Arctic Operations](https://cirfa.uit.no)
 
 
-Cost: 50k NOK/year
+Cost: 50k NOK/year, still unknown to most Nordic researchers
 
 ---
 
