@@ -134,7 +134,10 @@ Cost: 50k NOK/year, still unknown to most Nordic researchers
 
 # Network
 
-(Mention Aalto Science-IT)
+### Aalto Science-IT
+
+- Very fruitful collaboration with Richard Darst: lesson development and sharing of material
+- Co-organized two CodeRefinery workshops at Aalto university (2017 and 2018)
 
 ### Nordic RSE
 
