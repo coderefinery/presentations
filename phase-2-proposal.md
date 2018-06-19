@@ -26,7 +26,10 @@ layout: false
 
 # Impact
 
-(here show post-workshop survey results)
+Post-workshop survey results (3-6 months after a workshop, 71 responses, 48% graduate students, 13% postdocs, 9% researchers, 9% professors, 19% other)
+
+<img src="img/tools_heatmap.png" alt="Post-workshop survey" style="float:left; height:370px">
+<img src="img/yes_no_questions.png" alt="Post-workshop survey" style="float:right; height:370px">
 
 ---
 
