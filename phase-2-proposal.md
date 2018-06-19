@@ -105,7 +105,16 @@ Cost: 50k NOK/year, still unknown to most Nordic researchers
 
 # Goals for follow-up project
 
-(goals on 1-2 slides)
+- Focus on **workshops** but keep services running
+- In workshops **use own services**
+- **Reach scale**
+  - Training and promoting instructors
+  - Good practice guides
+  - Screen-casts
+- Create hub for **Nordic reseach software engineers** (RSEs)
+  - Workshops for instructors and RSEs
+  - Organize a Nordic RSE conference
+- Reach **sustainability** (more below)
 
 ---
 
