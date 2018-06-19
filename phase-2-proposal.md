@@ -136,9 +136,14 @@ Cost: 50k NOK/year, still unknown to most Nordic researchers
 
 (Mention Aalto Science-IT)
 
-(Nordic RSE)
+### Nordic RSE
 
-(Possible future Carpentries partnership)
+- https://www.pdc.kth.se/about/pdc-news/the-nordic-research-software-engineer-initiative-1.823934
+
+### Possible future Carpentries partnership
+
+- NeIC has granted support for 5 Software Carpentry workshops in the Nordics
+- https://www.pdc.kth.se/about/pdc-news/software-carpentry-in-stockholm-1.825762
 
 ---
 
