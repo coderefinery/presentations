@@ -14,7 +14,7 @@ layout: false
 
 ### 1) CodeRefinery phase 1 has has reached many people with great results
 
-### 2) Our model works
+### 2) Our model works but we sharpen it and scale up
 
 ### 3) To become sustainable, we will focus on invited workshops, local partnerships, and formation of a Nordic RSE community
 
