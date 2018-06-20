@@ -229,13 +229,24 @@ Computes molecular properties using relativistic quantum chemical methods.
 
 ---
 
-# Conclusion
+# Conclusions
 
-- There is significant need for workshops that are more advanced than Carpentries
-- NeIC and partners have a working team
-- Working drop-in model
-- Little risk or uncertainty
-- Career development opportunity for NeIC/IP staff
+## Past
+
+- There is a huge need for training in the Nordics
+- We have a working drop-in model
+- Workshops highly successful, material very effective and mature
+- Have a working team
+
+
+## Future
+
+- We haven’t reached a critical mass yet for CodeRefinery to be self-sustainable
+- But we know what we need to do (little risk or uncertainty)
+  - Recruit and train more instructors
+  - Get universities involved
+  - Establish stronger networks (Nordic-RSE, Carpentries, universities)
+- Further career development for NeIC/IP staff
 
 ---
 
