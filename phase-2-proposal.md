@@ -119,7 +119,8 @@ Post-workshop survey results (3-6 months after a workshop, 71 responses, 48% gra
 
 ## Events
 
-- [CodeRefinery day in Oslo, April 2017](https://www.uio.no/english/services/it/research/events/coderefinery-2017-april.html)
+- [CodeRefinery day in Oslo, Apr 2017](https://www.uio.no/english/services/it/research/events/coderefinery-2017-april.html)
+- [CodeRefinery get-together in Stockholm, May 2017](http://coderefinery.org/events/2017-05-19-stockholm/)
 
 
 ## Articles about CodeRefinery
