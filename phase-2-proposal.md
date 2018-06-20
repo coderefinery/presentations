@@ -157,13 +157,13 @@ Removes pressure for every small university to install their own GitLab.
 
 ---
 
-# Automated testing use cases
+# Automated testing: use cases
 
 
 ### [Nordugrid ARC](http://www.nordugrid.org/arc/)
 
 *"With GitLab we now not only have a version control system (git), but also a
-very good platform for discussing changes to the source-code, performing
+very good **platform for discussing changes** to the source-code, performing
 automatic build upon commits, and setting up a testing infrastructure. We are
 using GitLab extensively now, and plan to expand the automatic deploy and
 testing that GitLab offers in the near future." [Maiken Pedersen]*
@@ -174,7 +174,7 @@ testing that GitLab offers in the near future." [Maiken Pedersen]*
 *"The Dalton project consists of several feature-rich programs. This is
 reflected in the test set which is thus very demanding. Using the CodeRefinery
 CI service, we are able to run the test set in a reasonable time, thus
-accelerating the development workflow, and additionally it allows us to run the
+**accelerating the development workflow**, and additionally it allows us to run the
 individual tests in both serial and parallel mode." [Jógvan Magnus Haugaard Olsen]*
 
 
@@ -259,5 +259,7 @@ Computes molecular properties using relativistic quantum chemical methods.
 - Further career development for NeIC/IP staff
 
 ---
+
+.blue[Quote after the workshop at Aalto University, May 2018:]
 
 ## *"CodeRefinery was the best course I have had. If you need some quote to support it for the future, just make something up from me."* [sic]
