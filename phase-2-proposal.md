@@ -12,9 +12,11 @@ layout: false
 
 # CodeRefinery project phase 2 proposal
 
-### 1) Why this project is needed
-### 2) What we want to keep and what we need to change
-### 3) How to become sustainable
+### 1) CodeRefinery phase 1 has has reached many people with great results
+
+### 2) Our model works
+
+### 3) To become sustainable, we will focus on invited workshops, local partnerships, and formation of a Nordic RSE community
 
 ---
 
