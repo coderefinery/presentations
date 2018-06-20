@@ -153,6 +153,8 @@ Post-workshop survey results (3-6 months after a workshop, 71 responses, 48% gra
 
 Cost: 50k NOK/year, still unknown to most Nordic researchers
 
+Removes pressure for every small university to install their own GitLab.
+
 ---
 
 # Automated testing use cases
