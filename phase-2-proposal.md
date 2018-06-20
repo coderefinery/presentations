@@ -221,15 +221,21 @@ Computes molecular properties using relativistic quantum chemical methods.
 
 # How to become sustainable in 3 years
 
+## Internal
+
 - Grow the number of instructors
 - Increase visibility of material
 - Encourage re-use and modification of the material
+- Call for invited workshops: host institutions will cover travel and lodging
+- Institutions and NeIC partners contribute to 1 FTE for administration and coordination
+
+
+## Community
+
 - After phase 2 we will have certified "CodeRefinery instructors" distributed over the Nordics
 - NeIC partners will contribute instructors in-kind to teach at ~2 workshops a year
   (great career development, Carpentries model)
-- Call for invited workshops: host institutions will cover travel and lodging
 - "CodeRefinery hubs": universities willing to host 1-2 workshops per year (good example: Aalto Science-IT)
-- Institutions and NeIC partners contribute to 1 FTE for administration and coordination
 
 ---
 
