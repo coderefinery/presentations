@@ -12,7 +12,7 @@ layout: false
 
 # CodeRefinery project phase 2 proposal
 
-### 1) CodeRefinery phase 1 has has reached many people with great results
+### 1) CodeRefinery phase 1 has reached many people with great results
 
 ### 2) Our model works but we sharpen it and scale up
 
