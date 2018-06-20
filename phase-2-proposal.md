@@ -236,3 +236,7 @@ Computes molecular properties using relativistic quantum chemical methods.
 - Working drop-in model
 - Little risk or uncertainty
 - Career development opportunity for NeIC/IP staff
+
+---
+
+## *"CodeRefinery was the best course I have had. If you need some quote to support it for the future, just make something up from me."* [sic]
