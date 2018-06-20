@@ -184,22 +184,6 @@ Computes molecular properties using relativistic quantum chemical methods.
 
 ---
 
-# Goals for follow-up project
-
-- Include Estonia and Iceland to our network and activities
-- Focus on **workshops** but keep services running
-- In workshops **use own services**
-- **Reach scale**
-  - Training and promoting instructors
-  - Good practice guides
-  - Screen-casts
-- Create hub for **Nordic reseach software engineers** (RSEs)
-  - Workshops for instructors and RSEs
-  - Organize a Nordic RSE conference
-- Reach **sustainability** (more below)
-
----
-
 # Network
 
 ### Aalto Science-IT (Richard Darst)
@@ -216,6 +200,22 @@ Computes molecular properties using relativistic quantum chemical methods.
 ### Possible future Carpentries partnership
 
 - NeIC has granted support for 5 Software Carpentry workshops in the Nordics
+
+---
+
+# Goals for follow-up project
+
+- Include Estonia and Iceland to our network and activities
+- Focus on **workshops** but keep services running
+- In workshops **use own services**
+- **Reach scale**
+  - Training and promoting instructors
+  - Good practice guides
+  - Screen-casts
+- Create hub for **Nordic reseach software engineers** (RSEs)
+  - Workshops for instructors and RSEs
+  - Organize a Nordic RSE conference
+- Reach **sustainability** (more below)
 
 ---
 
