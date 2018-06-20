@@ -203,6 +203,7 @@ Computes molecular properties using relativistic quantum chemical methods.
 - Very fruitful collaboration with Richard Darst: lesson development and sharing of material,
   co-organized two CodeRefinery workshops
 - Commitment to sponsoring two workshops per year as part of top-to-bottom, yearly training program
+- Will spread this model through Finnish Grid and Cloud Infrastructure university partners.
 
 ### Nordic RSE
 
@@ -211,7 +212,6 @@ Computes molecular properties using relativistic quantum chemical methods.
 ### Possible future Carpentries partnership
 
 - NeIC has granted support for 5 Software Carpentry workshops in the Nordics
-- https://www.pdc.kth.se/about/pdc-news/software-carpentry-in-stockholm-1.825762
 
 ---
 
