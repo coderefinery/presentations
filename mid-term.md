@@ -73,7 +73,7 @@ class: split-60-40
 - Erik Edelmann, FI
 - Jyry Suvilehto, FI
 - Lukasz Bartosz Berger, DK
-- Nikolai Denissov, FI
+- N. D., FI
 - Radovan Bast, NO
 - Risto Laurikainen, FI
 - Sabry Razick, NO
