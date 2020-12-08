@@ -39,7 +39,7 @@ development of reproducible and reusable research software.
 .right-column70[
 ### Staff and hubs
 
-- 12 persons are on contract (~ 3 FTE), funding until Oct 2021
+- 12 persons are on contract (~ 3 FTE/year), funding until Oct 2021
 - Major in-kind partner: [Aalto Scientific Computing](https://scicomp.aalto.fi/)
 - Major training hubs: Aalto, Stockholm, Oslo, Trondheim
 
@@ -73,9 +73,9 @@ development of reproducible and reusable research software.
 - Modular code development
 
 
-### CodeRefinery and [Carpentries](https://carpentries.org/)
+### CodeRefinery and [The Carpentries](https://carpentries.org/)
 
-- Carpentries "teach foundational coding and data science skills to researchers worldwide"
+- The Carpentries "teach foundational coding and data science skills to researchers worldwide"
 - Our target audience are **students and researchers who already write code**
 
 ---
@@ -85,6 +85,8 @@ development of reproducible and reusable research software.
 ![The first idea... accept everyone, stream for everyone else](img/inspiration-1.png)
 
 ![A bit later... crazy but genius](img/inspiration-2.png)
+
+.cite[Twitch: live streaming service popular in the gaming community]
 
 ---
 
