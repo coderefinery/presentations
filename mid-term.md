@@ -132,6 +132,8 @@ difficult to reach?]
 
 ### First online get-together held last week: .emph[100 registrants]
 
+- https://nordic-rse.org/events/2020-online-get-together/
+
 <img src="img/nordic-rse-meetup.png" style="width: 70%;"/>
 
 ### First conference to take place May 27-28, 2021, Stockholm
