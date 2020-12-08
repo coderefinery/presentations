@@ -77,6 +77,7 @@ development of reproducible and reusable research software.
 
 - The Carpentries "teach foundational coding and data science skills to researchers worldwide"
 - Our target audience are **students and researchers who already write code**
+- We are contributing to both! (more about membership and coordination later)
 
 ---
 
@@ -120,6 +121,17 @@ development of reproducible and reusable research software.
 ## Carpentries membership and coordination
 
 [data and benefit]
+
+[on-boarding new communities (social sciences and humanities)]
+
+[Can we use something like pyramid type of figure? Carpentries is to provide
+novices with basics and fundamentals of coding and data sciences, which are
+essential to the next step where CR covers. If we should insist on the benefit
+of supporting the Carpentries, the contributions we can make is to bottom-up of
+researchers' skills and the benefit is to make CR visible to Carpentries
+community and a better flow for skill up of the researchers? And that the
+Nordic + Global online collaboration on teaching to reach people who are
+difficult to reach?]
 
 ---
 
