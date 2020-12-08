@@ -46,7 +46,7 @@ development of reproducible and reusable research software.
 
 ### Network
 
-- 173 persons on <https://coderefinery.zulipchat.com/>
+- 188 persons on <https://coderefinery.zulipchat.com/>
 - 553 followers on [@coderefine](https://twitter.com/coderefine)
 
 
