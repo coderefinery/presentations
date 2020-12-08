@@ -210,7 +210,7 @@ This can't be fully bottom-up.  .emph[We ask the NeIC board to help get us there
 
 Primary tasks:
 
-- Classic "CodeRefinery workshops", organized by partners
+- Classic "CodeRefinery workshops" with focus on best software practices, organized by partners
 - Own training: both open tracks and sponsored personalized courses
 - Coordinate other shared collaborative training events
 - Train the trainer
