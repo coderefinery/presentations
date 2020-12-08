@@ -114,7 +114,7 @@ development of reproducible and reusable research software.
 
 ## Growth
 
-[tables]
+<img src="img/tables.png" style="width: 100%;"/>
 
 ---
 
