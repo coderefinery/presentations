@@ -165,25 +165,43 @@ difficult to reach?]
 
 ---
 
+## What is CodeRefinery?
+
+CodeRefinery's biggest development may not be *teaching*...
+
+... is it *teaching together*?
+
+---
+
 ## Future: our "ask"
 
 ### Can we really co-teach, instead of each partner re-inventing teaching?
 
-CodeRefinery can bring and coordinate best practices in:
-- lesson development
-- sharing
-- teaching online
-- teaching collaboration
-- teaching how to train others
+CodeRefinery can bring and coordinate best practices:
+- among infrastructure providers and other "hands-on teachers"
+- creating a collaboration network of teaching
+- reducing duplicated work
+- teaching hybrid online/in person
+- teaching best practices in *lesson development*
+- teaching *collaboration*
+- teaching *how to train others*
 
-.emph[We ask the NeIC board to help get us there, determine interest, and lobby.]
+This can't be fully bottom-up.  .emph[We ask the NeIC board to help get us there, determine interest, and lobby.]
 
 ---
 
 ## CodeRefinery 2022: .emph[Community project]
 
+Primary tasks:
+
+- Classic "CodeRefinery workshops", organized by partners
+- Own training: both open tracks and sponsored personalized courses
+- Coordinate other shared collaborative training events
+- Train the trainer
+- .emph[Seeking co-funding from NeIC and participating universities]
+
+Secondary benefits:
+
 - Continue coordinating Carpentries events in Nordics/Baltic countries
 - Driving Nordic research software engineers network
-- Coordinate training events
-- Train: both open tracks and sponsored personalized courses
-- .emph[Seeking co-funding from NeIC and participating universities]
+- "Training support" of NeIC, for other projects
