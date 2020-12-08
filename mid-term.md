@@ -159,9 +159,25 @@ difficult to reach?]
 
 ---
 
-## Value of the network and teamwork
+## Value of the network and teamwork: success stories
 
-[Python course, RSH, instructor training]
+### Python course
+
+- Instead of each site developing their own course, we combined efforts and
+  together developed one within 3 weeks:
+  https://aaltoscicomp.github.io/python-for-scicomp/
+
+
+### Research Software Hour
+
+- Weekly online stream/show about scientific computing and research software
+- https://researchsoftwarehour.github.io/
+
+
+### Instructor training
+
+- 3 instructor training events in one year, co-organized across
+  borders
 
 ---
 
