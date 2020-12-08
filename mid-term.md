@@ -97,14 +97,14 @@ development of reproducible and reusable research software.
 - 100 participants, 20+ helpers
 - Participants can register as teams ("bring your own breakout room")
 - Installation sessions and helper preparation sessions
-- [Operation manuals](https://coderefinery.github.io/manuals/):
-  reference and training for running teaching.
 - Asynchronous Q&A via [HackMD](https://hackmd.io/) ->
   we publish these ([example](https://coderefinery.github.io/2020-10-20-online/#questions-answers-and-feedback))
 
 
 ### More details
 
+- [Operation manuals](https://coderefinery.github.io/manuals/):
+  reference and training for our teaching style
 - Blog post: https://coderefinery.org/blog/2020/07/31/mega-coderefinery/
 - [Presentation at CarpentryCon@Home 2020](https://github.com/coderefinery/carpentrycon-2020)
 
