@@ -143,7 +143,19 @@ difficult to reach?]
 
 ## GitLab service
 
-[some data here and challange]
+- Source code repository hosting for .emph[Nordic research software]
+- .emph[580 users with projects, 108 groups, 986 projects]
+- Notable projects: ARC/NT1, Earth Observation Laboratory, Centre for
+  Integrated Remote Sensing and Forecasting for Arctic Operations, Symbioses,
+  Nordic Language Processing Laboratory, EISCAT, UiT Master of Applied Computer
+  Science, UiT Narvik R&D - Umbrella.
+- Maintained by DeiC (very professional maintenance)
+
+
+### Challenge
+
+- .emph[Long-term funding] (now coupled to CodeRefinery funding)
+- .emph[User support] (now CodeRefinery team)
 
 ---
 
