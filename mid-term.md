@@ -72,13 +72,6 @@ development of reproducible and reusable research software.
 - Automated testing
 - Modular code development
 
-
-### CodeRefinery and [The Carpentries](https://carpentries.org/)
-
-- The Carpentries "teach foundational coding and data science skills to researchers worldwide"
-- Our target audience are **students and researchers who already write code**
-- We are contributing to both! (more about membership and coordination later)
-
 ---
 
 ## A vision of reaching many people at once
