@@ -46,7 +46,7 @@ development of reproducible and reusable research software.
 
 ### Network
 
-- 173 persons on <https://coderefinery.zulipchat.com/>
+- 188 persons on <https://coderefinery.zulipchat.com/>
 - 553 followers on [@coderefine](https://twitter.com/coderefine)
 
 
@@ -72,14 +72,6 @@ development of reproducible and reusable research software.
 - Automated testing
 - Modular code development
 
-
-### CodeRefinery and [The Carpentries](https://carpentries.org/)
-
-- The Carpentries "teach foundational coding and data science skills to researchers worldwide"
-- Our target audience are **students and researchers who already write code**
-- Carpentries is a unitary organization, with one way to do things,
-  focused on a few discrete workshops.
-
 ---
 
 ## A vision of reaching many people at once
@@ -101,13 +93,14 @@ development of reproducible and reusable research software.
 - 100 participants, 20+ helpers
 - Participants can register as teams ("bring your own breakout room")
 - Installation sessions and helper preparation sessions
-- [Operation manuals](https://coderefinery.github.io/manuals/)
 - Asynchronous Q&A via [HackMD](https://hackmd.io/) ->
   we publish these ([example](https://coderefinery.github.io/2020-10-20-online/#questions-answers-and-feedback))
 
 
 ### More details
 
+- [Operation manuals](https://coderefinery.github.io/manuals/):
+  reference and training for our teaching style
 - Blog post: https://coderefinery.org/blog/2020/07/31/mega-coderefinery/
 - [Presentation at CarpentryCon@Home 2020](https://github.com/coderefinery/carpentrycon-2020)
 
@@ -115,7 +108,7 @@ development of reproducible and reusable research software.
 
 ## Growth
 
-[tables]
+<img src="img/tables.png" style="width: 100%;"/>
 
 ---
 
@@ -123,17 +116,46 @@ development of reproducible and reusable research software.
 
 [data and benefit]
 
+[on-boarding new communities (social sciences and humanities)]
+
+[Can we use something like pyramid type of figure? Carpentries is to provide
+novices with basics and fundamentals of coding and data sciences, which are
+essential to the next step where CR covers. If we should insist on the benefit
+of supporting the Carpentries, the contributions we can make is to bottom-up of
+researchers' skills and the benefit is to make CR visible to Carpentries
+community and a better flow for skill up of the researchers? And that the
+Nordic + Global online collaboration on teaching to reach people who are
+difficult to reach?]
+
 ---
 
 ## Nordic research software engineers
 
-[meetup and conference]
+### First online get-together held last week: .emph[100 registrants]
+
+- https://nordic-rse.org/events/2020-online-get-together/
+
+<img src="img/nordic-rse-meetup.png" style="width: 70%;"/>
+
+### First conference to take place May 27-28, 2021, Stockholm
 
 ---
 
 ## GitLab service
 
-[some data here and challange]
+- Source code repository hosting for .emph[Nordic research software]
+- .emph[580 users with projects, 108 groups, 986 projects]
+- Notable projects: ARC/NT1, Earth Observation Laboratory, Centre for
+  Integrated Remote Sensing and Forecasting for Arctic Operations, Symbioses,
+  Nordic Language Processing Laboratory, EISCAT, UiT Master of Applied Computer
+  Science, UiT Narvik R&D - Umbrella.
+- Maintained by DeiC (very professional maintenance)
+
+
+### Challenge
+
+- .emph[Long-term funding] (now coupled to CodeRefinery funding)
+- .emph[User support] (now CodeRefinery team)
 
 ---
 
