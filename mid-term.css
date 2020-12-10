@@ -28,6 +28,11 @@ a {
   color: #e8daef;
 }
 
+.left-column20 {
+  width: 20%;
+  float: left;
+}
+
 .left-column30 {
   width: 30%;
   float: left;
@@ -48,6 +53,26 @@ a {
   float: left;
 }
 
+.left-column70 {
+  width: 70%;
+  float: left;
+}
+
+.left-column80 {
+  width: 80%;
+  float: left;
+}
+
+.right-column20 {
+  width: 20%;
+  float: right;
+}
+
+.right-column30 {
+  width: 30%;
+  float: right;
+}
+
 .right-column40 {
   width: 40%;
   float: right;
@@ -65,6 +90,11 @@ a {
 
 .right-column70 {
   width: 70%;
+  float: right;
+}
+
+.right-column80 {
+  width: 80%;
   float: right;
 }
 

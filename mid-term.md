@@ -13,30 +13,22 @@ UiT The Arctic University of Norway
 
 ## CodeRefinery
 
+.left-column60[
 We teach tools and practices for the
 development of reproducible and reusable research software.
 
-<img src="img/map.jpg" style="width: 50%;"/>
+### We teach together!
 
 - https://coderefinery.org
 - https://coderefinery.org/workshops/past/
+]
+.right-column40[
+<img src="img/map.jpg" style="width: 100%;"/>
+]
 
 ---
 
-.left-column30[
-<img src="img/neic.png" style="height: 40px;"/>
-
-<img src="img/csc.png" style="height: 90px;"/>
-
-<img src="img/deic.png" style="height: 40px;"/>
-
-<img src="img/etais.png" style="height: 80px;"/>
-
-<img src="img/sigma2.jpg" style="height: 60px;"/>
-
-<img src="img/snic.png" style="height: 35px;"/>
-]
-.right-column70[
+.left-column70[
 ### Staff and hubs
 
 - 12 persons are on contract (~ 3 FTE/year), funding until Oct 2021
@@ -59,11 +51,25 @@ development of reproducible and reusable research software.
   - **over 1400 persons trained**
 - last 3 workshops: **8 volunteer instructors**, over **60 volunteer helpers**
 ]
+.right-column30[
+<img src="img/neic.png" style="padding-left: 100px; height: 35px;"/>
+
+<img src="img/csc.png" style="padding-left: 100px; height: 80px;"/>
+
+<img src="img/deic.png" style="padding-left: 100px; height: 35px;"/>
+
+<img src="img/etais.png" style="padding-left: 100px; height: 70px;"/>
+
+<img src="img/sigma2.jpg" style="padding-left: 100px; height: 50px;"/>
+
+<img src="img/snic.png" style="padding-left: 100px; height: 30px;"/>
+]
 
 ---
 
-## Typical curriculum: 3 days or 6 half-days
+## Typical curriculum
 
+.left-column60[
 - Basic and collaborative Git
 - Social coding and open software
 - Reproducible research
@@ -71,6 +77,12 @@ development of reproducible and reusable research software.
 - Code documentation
 - Automated testing
 - Modular code development
+]
+.right-column40[
+### 3 days on-site in person
+
+### Now: 6 half-days online
+]
 
 ---
 
@@ -88,9 +100,10 @@ development of reproducible and reusable research software.
 
 <img src="img/scaling-up.png" style="width: 50%;"/>
 
+- Previously: ~25 participants, ~2 helpers
+- Now: 100 participants, 20+ helpers
 - Lectures & code-along exercises in the main room: .emph[stream and also record]
 - Get help and group exercises in a breakout room
-- 100 participants, 20+ helpers
 - Participants can register as teams ("bring your own breakout room")
 - Installation sessions and helper preparation sessions
 - Asynchronous Q&A via [HackMD](https://hackmd.io/) ->
