@@ -229,8 +229,10 @@ Primary tasks:
 - Train the trainer
 - .emph[Seeking co-funding from NeIC and participating universities]
 
-Secondary benefits:
+Additonal goals:
 
 - Continue coordinating Carpentries events in Nordics/Baltic countries
-- Driving Nordic research software engineers network
+- Driving Nordic research software engineers (RSE) network
 - "Training support" of NeIC, for other projects
+- Support professional development of RSEs
+- Improve towards a more inclusive community and better gender balance
