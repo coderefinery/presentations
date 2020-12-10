@@ -126,11 +126,11 @@ development of reproducible and reusable research software.
 
 ---
 
-## Carpentries membership and coordination
+## Carpentries and CodeRefinery
 
 <img src="img/pyramid.png" style="width: 80%;"/>
 
-### Benefits of the membership
+### Benefits of the membership and coordination
 
 - Provide a progression
 - Make CodeRefinery visible to the Carpentries community
