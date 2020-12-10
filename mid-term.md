@@ -203,11 +203,13 @@ development of reproducible and reusable research software.
 
 ---
 
-## What is CodeRefinery?
+class: center, middle, inverse
 
-CodeRefinery's biggest development may not be *teaching*...
+# What is CodeRefinery?
 
-... is it *teaching together*?
+## CodeRefinery's biggest development may not be *teaching*...
+
+## ... is it *teaching together*?
 
 ---
 
@@ -238,7 +240,7 @@ Primary tasks:
 - Train the trainer
 - .emph[Seeking co-funding from NeIC and participating universities]
 
-Additonal goals:
+Additional goals:
 
 - Continue coordinating Carpentries events in Nordics/Baltic countries
 - Driving Nordic research software engineers (RSE) network
