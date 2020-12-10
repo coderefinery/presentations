@@ -194,6 +194,20 @@ difficult to reach?]
 
 ---
 
+## Recent feedback
+
+> "I take this chance to congratulate once more for the very appreciated workshop.
+> I really enjoyed all the sessions, this is something I have been looking for
+> for a couple of years now and that I will strongly advertise between my
+> colleagues.  In particular, I would like to congratulate you for your
+> professionalism and for having made the most of all the potential of distance
+> learning, without ever complaining about its obvious and unnecessary
+> limitations. The team effort during the classes was impressive. Also, the
+> material available to support the classes is excellent and I am sure I will
+> exploit it in the future."
+
+---
+
 ## What is CodeRefinery?
 
 CodeRefinery's biggest development may not be *teaching*...
