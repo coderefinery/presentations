@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="pyramid.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="291.08564"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1348"
+     inkscape:window-height="1201"
+     inkscape:window-x="23"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g120"
+       transform="matrix(0.32270702,0,0,0.32270702,74.620588,84.890622)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffd5d5;stroke-width:0.264583"
+         id="path18"
+         sodipodi:sides="3"
+         sodipodi:cx="61.007717"
+         sodipodi:cy="144.46663"
+         sodipodi:r1="181.1732"
+         sodipodi:r2="90.586601"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 217.90831,235.05323 -156.90059,0 -156.900599,0 78.450297,-135.879899 78.4503,-135.879904 78.450292,135.879899 z"
+         inkscape:transform-center-y="-45.293305" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.177682"
+         id="rect20"
+         width="473.79019"
+         height="10"
+         x="-165.85182"
+         y="61.789589" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.177682"
+         id="rect22"
+         width="473.79019"
+         height="10"
+         x="-165.85182"
+         y="148.60748" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-129.50291"
+         y="179.834"
+         id="text26"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           x="-129.50291"
+           y="179.834"
+           style="font-size:17.6389px;stroke-width:0.264583">The Carpentries</tspan><tspan
+           sodipodi:role="line"
+           x="-129.50291"
+           y="201.88263"
+           style="font-size:17.6389px;stroke-width:0.264583"
+           id="tspan30"
+           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan44">Basics training</tspan> in programming</tspan><tspan
+           sodipodi:role="line"
+           x="-129.50291"
+           y="223.93124"
+           style="font-size:17.6389px;stroke-width:0.264583"
+           id="tspan62">and data science for novices</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-130.54503"
+         y="93.016113"
+         id="text42"><tspan
+           sodipodi:role="line"
+           id="tspan38"
+           x="-130.54503"
+           y="93.016113"
+           style="font-size:17.6389px;stroke-width:0.264583">CodeRefinery</tspan><tspan
+           sodipodi:role="line"
+           x="-130.54503"
+           y="115.06474"
+           style="font-size:17.6389px;stroke-width:0.264583"
+           id="tspan40"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan46">Expert training</tspan> for reusable software</tspan><tspan
+           sodipodi:role="line"
+           x="-130.54503"
+           y="137.11337"
+           style="font-size:17.6389px;stroke-width:0.264583"
+           id="tspan64">Not broadly taught in all degree programs that need it</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-129.50291"
+         y="6.1982226"
+         id="text54"><tspan
+           sodipodi:role="line"
+           x="-129.50291"
+           y="6.1982226"
+           style="font-size:17.6389px;stroke-width:0.264583"
+           id="tspan52"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             id="tspan50">Specialist training</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="-129.50291"
+           y="28.246849"
+           style="font-size:17.6389px;stroke-width:0.264583"
+           id="tspan58">Traditionaly run by computing centers</tspan><tspan
+           sodipodi:role="line"
+           x="-129.50291"
+           y="50.295475"
+           style="font-size:17.6389px;stroke-width:0.264583"
+           id="tspan60">CodeRefinery provides collaboration network</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -127,18 +127,13 @@ development of reproducible and reusable research software.
 
 ## Carpentries membership and coordination
 
-[data and benefit]
+<img src="img/pyramid.png" style="width: 80%;"/>
 
-[on-boarding new communities (social sciences and humanities)]
+### Benefits of the membership
 
-[Can we use something like pyramid type of figure? Carpentries is to provide
-novices with basics and fundamentals of coding and data sciences, which are
-essential to the next step where CR covers. If we should insist on the benefit
-of supporting the Carpentries, the contributions we can make is to bottom-up of
-researchers' skills and the benefit is to make CR visible to Carpentries
-community and a better flow for skill up of the researchers? And that the
-Nordic + Global online collaboration on teaching to reach people who are
-difficult to reach?]
+- Provide a progression
+- Make CodeRefinery visible to the Carpentries community
+- Collaboration on teaching to reach people who are difficult to reach
 
 ---
 
