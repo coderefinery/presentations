@@ -17,10 +17,21 @@ UiT The Arctic University of Norway
 We teach tools and practices for the
 development of reproducible and reusable research software.
 
+
 ### We teach together!
 
 - https://coderefinery.org
 - https://coderefinery.org/workshops/past/
+
+
+### Workshops
+
+- Since 2016:
+  - **30 full workshops**
+  - 19 other workshops/events
+  - 3 instructor training events
+  - **over 1400 persons trained**
+- last 3 workshops: **8 volunteer instructors**, over **60 volunteer helpers**
 ]
 .right-column40[
 <img src="img/map.jpg" style="width: 100%;"/>
@@ -40,16 +51,6 @@ development of reproducible and reusable research software.
 
 - 188 persons on <https://coderefinery.zulipchat.com/>
 - 553 followers on [@coderefine](https://twitter.com/coderefine)
-
-
-### Workshops
-
-- Since 2016:
-  - **30 full workshops**
-  - 19 other workshops/events
-  - 3 instructor training events
-  - **over 1400 persons trained**
-- last 3 workshops: **8 volunteer instructors**, over **60 volunteer helpers**
 ]
 .right-column30[
 <img src="img/neic.png" style="padding-left: 100px; height: 35px;"/>
