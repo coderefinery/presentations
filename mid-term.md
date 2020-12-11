@@ -126,15 +126,16 @@ development of reproducible and reusable research software.
 
 ---
 
-## Carpentries and CodeRefinery
+## CodeRefinery: bridging the gap
 
 <img src="img/pyramid.png" style="width: 80%;"/>
 
-### Benefits of the membership and coordination
+### Benefits of the Carpentries membership and coordination
 
 - Provide a progression
 - Make CodeRefinery visible to the Carpentries community
 - Collaboration on teaching to reach people who are difficult to reach
+- Provision of priority seats for instructor training
 
 ---
 
