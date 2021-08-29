@@ -227,30 +227,6 @@ class: center, middle, inverse
 
 ---
 
-## Future: our "ask"
-
-.left-column40[
-### Can we really co-teach, instead of each partner re-inventing teaching?
-
-<img src="img/pyramid.png" style="width: 120%;"/>
-]
-.right-column50[
-### CodeRefinery can bring and coordinate best practices
-
-- among infrastructure providers and other "hands-on teachers"
-- reducing duplicated work
-- teaching hybrid online/in person
-- teaching best practices in *lesson development*
-- teaching *collaboration*
-- teaching *how to train others*
-
-This can't be fully bottom-up.
-
-.emph[We ask the NeIC board to help get us there, determine interest, and lobby.]
-]
-
----
-
 ## CodeRefinery 2022: .emph[Community project]
 
 Primary tasks:
@@ -259,7 +235,6 @@ Primary tasks:
 - Own training: both open tracks and sponsored personalized courses
 - Coordinate other shared collaborative training events
 - Train the trainer
-- .emph[Seeking co-funding from NeIC and participating universities]
 
 Additional goals:
 
