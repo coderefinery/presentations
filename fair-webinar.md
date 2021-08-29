@@ -184,6 +184,67 @@ We are now in the process of making the lessons citable.
 
 ---
 
+## Pre-workshop survey: Who comes to our workshops?
+
+- https://github.com/coderefinery/pre-workshop-survey
+- https://doi.org/10.5281/zenodo.2671578
+
+<img src="img/pre-workshop/position.png" style="width: 100%;"/>
+
+---
+
+<img src="img/pre-workshop/discipline.png" style="width: 80%;"/>
+
+---
+
+## Pre-workshop survey: Programming languages
+
+<img src="img/pre-workshop/languages.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Programming experience
+
+<img src="img/pre-workshop/programming-experience.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Version control
+
+<img src="img/pre-workshop/version-control.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Tests
+
+<img src="img/pre-workshop/tests.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Automated testing
+
+<img src="img/pre-workshop/automated-testing.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Documentation
+
+<img src="img/pre-workshop/documentation.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Web tools
+
+<img src="img/pre-workshop/web-tools.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Code review
+
+<img src="img/pre-workshop/code-review.png" style="width: 100%;"/>
+
+---
+
 ## Post-workshop survey: impact on usage of tools
 
 - https://github.com/coderefinery/post-workshop-survey
