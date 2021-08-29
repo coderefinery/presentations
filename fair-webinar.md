@@ -105,6 +105,19 @@ We are now in the process of making the lessons citable.
 
 ---
 
+## CodeRefinery: bridging the gap
+
+<img src="img/pyramid.png" style="width: 80%;"/>
+
+### Benefits of the Carpentries membership and coordination
+
+- Provide a progression
+- Make CodeRefinery visible to the Carpentries community
+- Collaboration on teaching to reach people who are difficult to reach
+- Provision of priority seats for instructor training
+
+---
+
 ## A vision of reaching many people at once
 
 ![The first idea... accept everyone, stream for everyone else](img/inspiration-1.png)
@@ -135,19 +148,6 @@ We are now in the process of making the lessons citable.
   reference and training for our teaching style
 - Blog post: https://coderefinery.org/blog/2020/07/31/mega-coderefinery/
 - [Presentation at CarpentryCon@Home 2020](https://github.com/coderefinery/carpentrycon-2020)
-
----
-
-## CodeRefinery: bridging the gap
-
-<img src="img/pyramid.png" style="width: 80%;"/>
-
-### Benefits of the Carpentries membership and coordination
-
-- Provide a progression
-- Make CodeRefinery visible to the Carpentries community
-- Collaboration on teaching to reach people who are difficult to reach
-- Provision of priority seats for instructor training
 
 ---
 
