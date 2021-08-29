@@ -84,6 +84,7 @@ We are now in the process of making the lessons citable.
 ## Staff, hubs, and funding partners
 
 - 12 persons are on contract (~ 3 FTE/year), funding .emph[until Oct 2021]
+- https://coderefinery.org/about/who-we-are/
 - Major training hubs: Aalto, Stockholm, Oslo, Trondheim
 - .emph[Significant support from volunteer instructors and exercise leads]
 
@@ -262,15 +263,13 @@ We are now in the process of making the lessons citable.
 
 ---
 
-## Nordic research software engineers
+class: center, middle, inverse
 
-### First online get-together held last week: .emph[100 registrants]
+# What is CodeRefinery?
 
-- https://nordic-rse.org/events/2020-online-get-together/
+## CodeRefinery's biggest development may not be *teaching*...
 
-<img src="img/nordic-rse-meetup.png" style="width: 70%;"/>
-
-### First conference to take place May 27-28, 2021, Stockholm
+## ... is it *teaching together*?
 
 ---
 
@@ -301,29 +300,54 @@ We are now in the process of making the lessons citable.
 
 ---
 
-class: center, middle, inverse
+## Nordic research software engineers
 
-# What is CodeRefinery?
+- RSE: "combines professional software engineering expertise with an intimate understanding of research"
+- https://nordic-rse.org/
 
-## CodeRefinery's biggest development may not be *teaching*...
 
-## ... is it *teaching together*?
+### History
+
+- 2018: Nordic-RSE network started
+- May 2019: Meetup at NeIC conference
+- Dec 2020: [Online conference](https://nordic-rse.org/events/2020-online-get-together/)
+- Jun 2021: [Unconference](https://nordic-rse.org/events/2021-online-unconference/)
+- Sep 2021: Registering association
+
+
+### Activities
+
+- Research Software Hour: https://researchsoftwarehour.github.io/
+- [Research Software Seminar Series](https://nordic-rse.org/events/seminar-series/)
 
 ---
 
 ## CodeRefinery 2022: .emph[Community project]
 
-Primary tasks:
+
+### Primary tasks
 
 - Classic "CodeRefinery workshops" with focus on best software practices, organized by partners
 - Own training: both open tracks and sponsored personalized courses
 - Coordinate other shared collaborative training events
 - Train the trainer
 
-Additional goals:
+
+### Additional goals
 
 - Continue coordinating Carpentries events in Nordics/Baltic countries
 - Driving Nordic research software engineers (RSE) network
 - "Training support" of NeIC, for other projects
 - Support professional development of RSEs
 - Improve towards a more inclusive community and better gender balance
+
+---
+
+## Future/challenges
+
+- Towards a non-profit organization
+- Make it easier for organizations and individuals to join
+- Give better credit for volunteer contributions
+- Offer not only training but also mentorship network
+- FAIR software survey
+- How to better advertise and reach and connect the community?
