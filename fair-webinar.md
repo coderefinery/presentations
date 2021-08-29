@@ -213,36 +213,18 @@ We are now in the process of making the lessons citable.
 
 ---
 
-## GitLab service
-
-- Source code repository hosting for .emph[Nordic research software]
-- .emph[580 users with projects, 108 groups, 986 projects]
-- Notable projects: ARC/NT1, Earth Observation Laboratory, Centre for
-  Integrated Remote Sensing and Forecasting for Arctic Operations, Symbioses,
-  Nordic Language Processing Laboratory, EISCAT, UiT Master of Applied Computer
-  Science, UiT Narvik R&D - Umbrella.
-- Maintained by DeiC (very professional maintenance)
-
-
-### Challenge
-
-- .emph[Long-term funding] (now coupled to CodeRefinery funding)
-- .emph[User support] (now CodeRefinery team)
-
----
-
 ## Value of the network and teamwork: success stories
 
 ### Python course
 
-- Instead of each site developing their own course, we combined efforts and
-  together developed one within 3 weeks:
+- Instead of each site developing their own course, we combined efforts:
   https://aaltoscicomp.github.io/python-for-scicomp/
+- New edition of this course coming October
 
 
 ### Research Software Hour
 
-- Weekly online stream/show about scientific computing and research software
+- Bi-weekly online stream/show about scientific computing and research software
 - https://researchsoftwarehour.github.io/
 
 
@@ -250,6 +232,11 @@ We are now in the process of making the lessons citable.
 
 - 3 instructor training events in one year, co-organized across
   borders
+
+
+### GitLab hosting for Nordic research software
+
+- 400 active users, 800 active projects: https://coderefinery.org/repository/
 
 ---
 
