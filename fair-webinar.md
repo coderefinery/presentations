@@ -132,7 +132,7 @@ We are now in the process of making the lessons citable.
 
 <img src="img/scaling-up.png" style="width: 50%;"/>
 
-- Previously: ~25 participants, ~2 helpers
+- Before 2020: ~25 participants, ~2 helpers
 - Now: routinely 100+ participants, 20+ helpers
 - Lectures & code-along exercises in the main room: .emph[stream and also record]
 - Get help and group exercises in a breakout room
@@ -162,6 +162,42 @@ We are now in the process of making the lessons citable.
 > limitations. The team effort during the classes was impressive. Also, the
 > material available to support the classes is excellent and I am sure I will
 > exploit it in the future."
+
+---
+
+## FAIR software
+
+- https://fair-software.eu/
+- ["Towards FAIR principles for research software", Lamprecht et al., Data Science, vol. 3, no. 1, 37-59, 2020](https://doi.org/10.3233/DS-190026)
+- Also: documentation, code review, version control for dependencies
+
+
+### FAIR principles have many aspects
+
+- Principles
+- Best practices
+- Policies
+- Governance model
+- Development of tools
+- .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses)
+- .emph[Mentorship]
+
+---
+
+## Post-workshop survey: impact on usage of tools
+
+- https://github.com/coderefinery/post-workshop-survey
+- https://doi.org/10.5281/zenodo.2671576
+
+<img src="img/post-workshop/heatmap.png" style="width: 100%;"/>
+
+---
+
+## Post-workshop survey: impact on code quality and collaboration
+
+- 284 answers
+
+<img src="img/post-workshop/yes-no-questions.png" style="width: 100%;"/>
 
 ---
 
