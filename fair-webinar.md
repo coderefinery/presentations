@@ -178,6 +178,7 @@ We are now in the process of making the lessons citable.
 - Principles
 - Best practices
 - Policies
+- Standards
 - Governance model
 - Development of tools
 - .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses)
