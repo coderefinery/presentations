@@ -181,7 +181,7 @@ We are now in the process of making the lessons citable.
 - Standards
 - Governance model
 - Development of tools
-- .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses)
+- .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses, testing)
 - .emph[Mentorship]
 
 ---
@@ -202,12 +202,6 @@ We are now in the process of making the lessons citable.
 ## Pre-workshop survey: Programming languages
 
 <img src="img/pre-workshop/languages.png" style="width: 100%;"/>
-
----
-
-## Pre-workshop survey: Programming experience
-
-<img src="img/pre-workshop/programming-experience.png" style="width: 100%;"/>
 
 ---
 
@@ -313,7 +307,8 @@ class: center, middle, inverse
 - May 2019: Meetup at NeIC conference
 - Dec 2020: [Online conference](https://nordic-rse.org/events/2020-online-get-together/)
 - Jun 2021: [Unconference](https://nordic-rse.org/events/2021-online-unconference/)
-- Sep 2021: Registering association
+- Sep 2021: First annual meeting
+- Autumn 2021: Registering association
 
 
 ### Activities
@@ -337,8 +332,7 @@ class: center, middle, inverse
 ### Additional goals
 
 - Continue coordinating Carpentries events in Nordics/Baltic countries
-- Driving Nordic research software engineers (RSE) network
-- "Training support" of NeIC, for other projects
+- Driving/supporting Nordic research software engineers (RSE) network
 - Support professional development of RSEs
 - Improve towards a more inclusive community and better gender balance
 
@@ -348,7 +342,7 @@ class: center, middle, inverse
 
 - Towards a non-profit organization
 - Make it easier for organizations and individuals to join
-- Give better credit for volunteer contributions
+- Give .emph[better credit] for volunteer contributions
 - Offer not only training but also mentorship network
 - FAIR software survey
 - How to better advertise and reach and connect the community?
