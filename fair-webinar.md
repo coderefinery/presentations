@@ -110,13 +110,6 @@ We are now in the process of making the lessons citable.
 
 <img src="img/pyramid.png" style="width: 80%;"/>
 
-### Benefits of the Carpentries membership and coordination
-
-- Provide a progression
-- Make CodeRefinery visible to the Carpentries community
-- Collaboration on teaching to reach people who are difficult to reach
-- Provision of priority seats for instructor training
-
 ---
 
 ## A vision of reaching many people at once
