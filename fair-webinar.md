@@ -337,5 +337,5 @@ class: center, middle, inverse
 - Make it easier for organizations and individuals to join
 - Give .emph[better credit] for volunteer contributions
 - Offer not only training but also mentorship network
-- FAIR software survey
+- FAIR software practices survey
 - How to better advertise and reach and connect the community?
