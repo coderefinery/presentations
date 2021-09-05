@@ -10,15 +10,15 @@ class: center, middle
 
 ---
 
-# Not a challenge
+# The easy part
 
 - There is demand
 - This work makes sense
-- If we don't do it, who will?
+- However: If we don't do it, who will?
 
 ---
 
-# Challenge
+# The difficult part
 
 - Connect "supply" and "demand" in an efficient and motivating way
 - Bureaucracy
@@ -40,7 +40,7 @@ class: center, middle
 
 ---
 
-# Future
+# Future (these are personal thoughts)
 
 - More invested and more open steering group
 - In-kind instead of top-down financed
