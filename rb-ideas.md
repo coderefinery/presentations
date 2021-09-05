@@ -40,7 +40,9 @@ class: center, middle
 
 ---
 
-# Future (these are personal thoughts)
+# Future
+
+### (these are personal thoughts, other opinions welcome)
 
 - More invested and more open steering group
 - In-kind instead of top-down financed
