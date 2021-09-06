@@ -50,6 +50,7 @@ class: center, middle
 - Clear communication of benefits
 - Support synchronous and asynchronous learning
 - Mentorship
+- Schedule workshops 6-12 months in advance
 - Summer/winter schools
 - Grow into a center and attract people/projects
 - Trademark and organization registration
