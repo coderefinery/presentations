@@ -157,42 +157,6 @@ class: center, middle, inverse
 
 ---
 
-## Pre-workshop survey: Version control
-
-<img src="img/pre-workshop/version-control.png" style="width: 100%;"/>
-
----
-
-## Pre-workshop survey: Tests
-
-<img src="img/pre-workshop/tests.png" style="width: 100%;"/>
-
----
-
-## Pre-workshop survey: Automated testing
-
-<img src="img/pre-workshop/automated-testing.png" style="width: 100%;"/>
-
----
-
-## Pre-workshop survey: Documentation
-
-<img src="img/pre-workshop/documentation.png" style="width: 100%;"/>
-
----
-
-## Pre-workshop survey: Web tools
-
-<img src="img/pre-workshop/web-tools.png" style="width: 100%;"/>
-
----
-
-## Pre-workshop survey: Code review
-
-<img src="img/pre-workshop/code-review.png" style="width: 100%;"/>
-
----
-
 ## Post-workshop survey: impact on usage of tools
 
 - https://github.com/coderefinery/post-workshop-survey
