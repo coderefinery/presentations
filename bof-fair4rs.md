@@ -30,10 +30,27 @@ development of reproducible and reusable research software.
 
 ---
 
-## CodeRefinery: our goal
+## CodeRefinery: strategy statement
 
-Advance .emph[FAIRness] of software management and development practices so that research groups can
-.emph[collaboratively develop], review, discuss, test, share, and reuse their codes.
+CodeRefinery acts as a .emph[hub for FAIR] (Findable, Accessible, Interoperable, and
+Reusable) .emph[software practices]. It currently focuses on the Nordic/Baltic
+countries, but aims to expand beyond this region. CodeRefinery aims to operate
+as a community project with support from academic organizations.
+
+
+### We wish to provide
+
+- .emph[For organizations]: an opportunity to pool competence and offer more training
+  and development opportunities than they could individually.
+- .emph[For volunteers and the team]: a community around teaching and opportunity for
+  skill development, both in pedagogy and practical skills.
+- .emph[For learners]: a welcoming and useful environment for learning many necessary
+  practical skills that may otherwise not be explicitly taught. This can be
+  through courses, hackathons, and the like.
+
+---
+
+## CodeRefinery: stats
 
 
 ### History
