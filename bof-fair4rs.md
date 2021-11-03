@@ -226,6 +226,7 @@ class: center, middle, inverse
 ## Future/challenges
 
 - Transitioning to a community project
+- Expand beyond the Nordic/Baltic region
 - Towards a non-profit organization
 - Make it easier for organizations and individuals to join
 - Give .emph[better credit] for volunteer contributions
