@@ -108,4 +108,5 @@ as a community project with support from academic organizations.
 - NeIC role needs to decrease over time if we want sustainability
 - Asking for 1 FTE and for in-kind contributions was deliberate
 - It can only work when both team member(s) and their organization want this
+- We will need legal support and organizational support in becoming independent
 - Let us solve these challenges together!
