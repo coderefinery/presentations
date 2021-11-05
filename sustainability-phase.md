@@ -48,6 +48,8 @@ UiT The Arctic University of Norway
 
 - Offer not only training but also .emph[mentorship network]
 
+- Ensure long-term effect of our work
+
 ---
 
 ## CodeRefinery: strategy statement
@@ -91,6 +93,7 @@ as a community project with support from academic organizations.
 ## Activity C: Sustainability and governance
 
 - .emph[Establishment of CodeRefinery as an organization]
+- .emph[Set up a governance model]
 - .emph[Business model development and implementation]
 
 Alternative to be explored:
