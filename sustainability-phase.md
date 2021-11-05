@@ -35,11 +35,17 @@ UiT The Arctic University of Norway
 ## Our plans
 
 - Teaching together
+
 - Transitioning to a community project and community building
+
 - Expand beyond the Nordic/Baltic region
+
 - Towards a non-profit organization
+
 - Make it easier for organizations and individuals to join
+
 - Give .emph[better credit] for volunteer contributions
+
 - Offer not only training but also .emph[mentorship network]
 
 ---
@@ -110,10 +116,17 @@ Alternative to be explored:
 ## Important but tricky points
 
 - Make it possible for organizations to join also on short term
+
 - .emph[Clear distinction between NeIC project and community project]
+
 - Dynamic project leader(s) chosen by the community
+
 - NeIC role needs to decrease over time if we want sustainability
+
 - Asking for 1 FTE and for in-kind contributions was deliberate
+
 - It can only work when both team member(s) and their organization want this
+
 - We will need legal support and organizational support in becoming independent
+
 - Let us solve these challenges together!
