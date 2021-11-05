@@ -15,9 +15,13 @@ UiT The Arctic University of Norway
 
 - We have done really, really cool stuff over the last years, far beyond what
   anyone expected. Others want to do this, we want to help them.
+
 - We have big plans for the future
+
 - We are grateful that this proposal was selected
+
 - The proposed project is big, not small
+
 - The challenge will be to become a .emph[community project]
 
 ---
@@ -31,13 +35,12 @@ UiT The Arctic University of Norway
 ## Our plans
 
 - Teaching together
-- Transitioning to a community project
+- Transitioning to a community project and community building
 - Expand beyond the Nordic/Baltic region
 - Towards a non-profit organization
 - Make it easier for organizations and individuals to join
 - Give .emph[better credit] for volunteer contributions
 - Offer not only training but also .emph[mentorship network]
-- Community building
 
 ---
 
@@ -65,6 +68,7 @@ as a community project with support from academic organizations.
 
 - Coordination of CodeRefinery and the Carpentries workshops and events
 - .emph[Carpentries Regional Coordinator]
+  - RC setup has changed: volunteer based and elected by the community
 - Community building and outreach
 
 ---
@@ -82,6 +86,9 @@ as a community project with support from academic organizations.
 
 - .emph[Establishment of CodeRefinery as an organization]
 - .emph[Business model development and implementation]
+
+Alternative to be explored:
+- CodeRefinery curriculum becomes a "CodeRefinery Carpentry"
 
 ---
 
@@ -103,7 +110,7 @@ as a community project with support from academic organizations.
 ## Important but tricky points
 
 - Make it possible for organizations to join also on short term
-- Clear distinction between NeIC project and community project
+- .emph[Clear distinction between NeIC project and community project]
 - Dynamic project leader(s) chosen by the community
 - NeIC role needs to decrease over time if we want sustainability
 - Asking for 1 FTE and for in-kind contributions was deliberate
