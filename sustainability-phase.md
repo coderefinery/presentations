@@ -44,9 +44,9 @@ UiT The Arctic University of Norway
 
 - Make it easier for organizations and individuals to join
 
-- Give .emph[better credit] for volunteer contributions
+- Give better credit for volunteer contributions
 
-- Offer not only training but also .emph[mentorship network]
+- Offer not only training but also mentorship network
 
 - Ensure long-term effect of our work
 
