@@ -102,11 +102,14 @@ Alternative to be explored:
 
 - The steering group advises the project on strategy issues.  The steering
   group consists of .emph[one representative of each partner and 1-3 community representatives].
+
 - The .emph[project leader(s) are selected from the community] and confirmed by the
   steering group.  The project leaders guide the day-to-day affairs of the
   project team.
+
 - The project team consists of the community who wishes to be more active.
   Membership is confirmed by the project leaders.
+
 - Partners are organizations who are interested in contributing to CodeRefinery
   beyond taking part in individual workshops.  Partners join with confirmation
   by the steering group.
