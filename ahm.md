@@ -39,18 +39,34 @@ UiT The Arctic University of Norway
 
 ---
 
-## Research Software Hour
+## Collaboration models
 
-- https://researchsoftwarehour.github.io/
-- Also [Research Software Seminar Series](https://nordic-rse.org/events/seminar-series/)
+1. Idea for a course/event
 
-<img src="img/rsh.png" style="width: 100%;"/>
+2. Announce to possible instructors: others join as helpers and give feedback
+
+3. By working together:
+  - we share knowledge internally and with learners
+  - .emph[develop better and more open materials than we would alone]
+
+
+### What we need
+
+- A way to quickly share our plans at an early stage
+- Have enough spare time (and management support) to join courses that others may be proposing
 
 ---
 
-## Important but tricky points
+## Examples
 
-### Governance: .emph[Clear distinction between NeIC project and community project]
+- Research Software Hour: https://researchsoftwarehour.github.io/
+- ... more examples ...
+
+---
+
+## Challenge: Governance
+
+- .emph[Clear distinction between NeIC project and community project]
 
 - NeIC role needs to decrease over time if we want sustainability
 
@@ -59,11 +75,6 @@ UiT The Arctic University of Norway
 - Dynamic project leader(s) chosen by the community
 
 - We will need legal support and organizational support in becoming independent
-
-
-### Budget: 0.5-1 FTE from NeIC, rest is in-kind
-
-- It can only work when both team member(s) and their organization want this
 
 ---
 
