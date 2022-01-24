@@ -57,10 +57,20 @@ UiT The Arctic University of Norway
 
 ---
 
-## Examples
+## Activities using this model
 
 - Research Software Hour: https://researchsoftwarehour.github.io/
-- ... more examples ...
+
+- Manuals: https://coderefinery.github.io/manuals/
+
+- Instructor training: https://coderefinery.github.io/instructor-training/
+
+- Talk: ["The Future of Teaching"](https://www.youtube.com/watch?v=S9Jor12Cxdc) (R. Darst)
+  ([notes](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view))
+
+- Massive courses reaching hundreds:
+  - [Python for Scientific Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp/)
+  - [CodeRefinery workshops](https://coderefinery.org/workshops/past/)
 
 ---
 
@@ -83,6 +93,7 @@ UiT The Arctic University of Norway
 - Tuesday - Thursday, Jan 25-27
 - Everybody welcome
 - https://hackmd.io/@coderefinery/ahm-hackathon-2022
+- https://coderefinery.zulipchat.com/
 
 
 ### Focus: online teaching
