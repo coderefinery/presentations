@@ -72,6 +72,13 @@ UiT The Arctic University of Norway
   - [Python for Scientific Computing](https://scicomp.aalto.fi/training/scip/python-for-scicomp/)
   - [CodeRefinery workshops](https://coderefinery.org/workshops/past/)
 
+- Other courses:
+  - CMake workshops
+  - Testing hackathon
+  - Conda workshop
+  - HPC intro courses
+  - ...
+
 ---
 
 ## Challenge: Governance
