@@ -35,9 +35,9 @@ development of reproducible and reusable research software.
 ## Online as opportunity for workshops
 
 * team effort
-* installation and onboarding
+* installation and onboarding sessions before workshop
 * topics around FAIR software practices (basic and collaborative Git, social coding and open software, reproducibility, documentation, automated testing and modular code development)
-* stream approach, interaction via HackMD
+* stream and record approach, interaction via HackMD (parallelized Q&A)
 * co-teaching
 * lectures and hands-on (in physical/online groups with helper)
 * Spring 2022: 11 instructors and organizers, > 20 volunteer helpers, 297 participants from all over the world (mainly Nordics and Europe)  
@@ -53,4 +53,8 @@ development of reproducible and reusable research software.
 * interested in the concept: observer, helper
 * instructor training (summer 2022)
 * organization as collaborator
+	* advertising
+	* send staff as helpers
+	* in-kind contribution
+	* collaborative workshops
 
