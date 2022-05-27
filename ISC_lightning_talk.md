@@ -2,7 +2,7 @@ class: center, middle
 
 <img src="img/coderefinery.png" style="height: 300px;"/>
 
-**www.coderefinery.org**
+## www.coderefinery.org
 
 @coderefine
 
