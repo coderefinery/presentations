@@ -2,7 +2,7 @@ class: center, middle
 
 <img src="img/coderefinery.png" style="height: 300px;"/>
 
-**www.coderefinery.org**
+## www.coderefinery.org
 
 @coderefine
 
@@ -26,28 +26,42 @@ development of reproducible and reusable research software.
 * automated testing and 
 * modular code development
 
-### Last workshop in spring 2022
+---
 
-* **11** instructors and organizers, 
-* **>20** volunteer helpers, 
-* **297** participants from all over the world (mainly Nordics and Europe)  
+class: center
 
+<img src="img/CR_workshop_1.png" style="height: 450px;"/>
 
 ---
 
-<img src="img/CR_workshop_1.png" style="height: 550px;"/>
+class: center
+
+<img src="img/CR_workshop_2.png" style="height: 450px;"/>
 
 ---
 
-<img src="img/CR_workshop_2.png" style="height: 550px;"/>
+class: center
+
+<img src="img/CR_workshop_3.png" style="height: 450px;"/>
 
 ---
 
-<img src="img/CR_workshop_3.png" style="height: 550px;"/>
+class: center
+
+<img src="img/CR_workshop_4.png" style="height: 450px;"/>
 
 ---
 
-<img src="img/CR_workshop_4.png" style="height: 550px;"/>
+class: center
+
+<img src="img/CR_workshop_4.png" style="height: 450px;"/>
+
+
+**Last workshop in spring 2022**
+
+**11** instructors and organizers, 
+**>20** volunteer helpers, 
+**297** participants from all over the world (mainly Nordics and Europe)  
 
 ---
 
@@ -143,6 +157,8 @@ September 20.-22. and 27.-29., 9-12 CEST
 
 Information and registration:
 https://coderefinery.org/workshops/upcoming/
+
+Communicate interest: support@coderefinery.org
 
 
 ### CodeRefinery chat
