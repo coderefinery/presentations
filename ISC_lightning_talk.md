@@ -10,7 +10,7 @@ class: center, middle
 
 www.coderefinery.org
 
-<img src="img/logos_crop.png"/>
+<img src="img/logos_crop.png" style="width: 100%;"/>
 
 ---
 
@@ -33,7 +33,7 @@ development of reproducible and reusable research software.
 
 ---
 
-<img src="img/CR_workshop.png" style="height: 200px;"/>
+<img src="img/CR_workshop.png" style="height: 100%;"/>
 
 
 ---
@@ -59,11 +59,11 @@ development of reproducible and reusable research software.
 
 ---
 
-<img src="img/participate_single.png" style="height: 200px;"/>
+<img src="img/participate_single.png" style="height: 100%;"/>
 
 ---
 
-<img src="img/participate_organization.png" style="height: 200px;"/>
+<img src="img/participate_organization.png" style="height: 100%;"/>
 
 ---
 
