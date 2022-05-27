@@ -50,6 +50,12 @@ class: center
 
 <img src="img/CR_workshop_4.png" style="height: 450px;"/>
 
+---
+
+class: center
+
+<img src="img/CR_workshop_4.png" style="height: 450px;"/>
+
 
 **Last workshop in spring 2022**
 
