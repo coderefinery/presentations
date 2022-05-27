@@ -10,7 +10,7 @@ class: center, middle
 
 www.coderefinery.org
 
-<img src="img/logos.png" style="height: 200px;"/>
+<img src="img/logos_crop.png"/>
 
 ---
 
