@@ -2,11 +2,9 @@ class: center, middle
 
 <img src="img/coderefinery.png" style="height: 200px;"/>
 
-## ISC 2022
-
 # CodeRefinery
 
-## Samantha Wittke, CSC - IT center for science, Finland
+### Samantha Wittke, CSC - IT center for science, Finland
 
 www.coderefinery.org
 
@@ -23,17 +21,17 @@ development of reproducible and reusable research software.
 
 ### We wish to provide
 
-- .emph[For organizations]: an opportunity to pool competence and offer more training
+- **For organizations**: an opportunity to pool competence and offer more training
   and development opportunities than they could individually.
-- .emph[For volunteers and the team]: a community around teaching and opportunity for
+- **For volunteers and the team**: a community around teaching and opportunity for
   skill development, both in pedagogy and practical skills.
-- .emph[For learners]: a welcoming and useful environment for learning many necessary
+- **For learners**: a welcoming and useful environment for learning many necessary
   practical skills that may otherwise not be explicitly taught.
 
 
 ---
 
-<img src="img/CR_workshop.png" style="height: 100%;"/>
+<img src="img/CR_workshop.png" style="height: 1000px;"/>
 
 
 ---
@@ -59,31 +57,31 @@ development of reproducible and reusable research software.
 
 ---
 
-<img src="img/participate_single.png" style="height: 100%;"/>
+<img src="img/participate_single.png" style="height: 800px;"/>
 
 ---
 
-<img src="img/participate_organization.png" style="height: 100%;"/>
+<img src="img/participate_organization.png" style="height: 600px;"/>
 
 ---
 
 ## Come join us!
 
-*Community teaching workshop*
+**Community teaching workshop**
 
 June 21., 12-15 CEST
 
 Information and registration:
 https://hackmd.io/@coderefinery/community-teaching-2022-summer
 
-*CodeRefinery workshop*
+**CodeRefinery workshop**
 
 September 20.-22. and 27.-29., 9-12 CEST
 
 Information and registration:
 https://coderefinery.org/workshops/upcoming/
 
-*CodeRefinery chat*
+**CodeRefinery chat**
 
 Community hang-out:
 https://coderefinery.zulipchat.com/
