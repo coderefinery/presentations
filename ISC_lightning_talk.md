@@ -2,11 +2,11 @@ class: center, middle
 
 <img src="img/coderefinery.png" style="height: 300px;"/>
 
-**www.coderefinery.org**
+#### www.coderefinery.org
 
-@coderefine
+#### @coderefine
 
-Samantha Wittke, CSC - IT center for science, Finland
+#### Samantha Wittke, CSC - IT center for science, Finland
 
 <img class="top-buffer" src="img/logos_crop.png" style="width: 100%;"/>
 
