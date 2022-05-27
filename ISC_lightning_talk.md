@@ -38,7 +38,7 @@ development of reproducible and reusable research software.
 <img src="img/CR_workshop.png" style="height: 550px;"/>
 
 
---- 
+---
 
 ## Low barriers for participating in different roles
 
