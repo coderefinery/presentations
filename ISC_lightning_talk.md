@@ -8,7 +8,7 @@ class: center, middle
 
 Samantha Wittke, CSC - IT center for science, Finland
 
-<img src="img/logos_crop.png" style="width: 100%;"/>
+<img class="top-buffer" src="img/logos_crop.png" style="width: 100%;"/>
 
 ---
 
@@ -37,7 +37,6 @@ development of reproducible and reusable research software.
 
 <img src="img/CR_workshop.png" style="height: 550px;"/>
 
-
 --- 
 
 ## Low barriers for participating in different roles
@@ -54,21 +53,23 @@ development of reproducible and reusable research software.
 
 ## Come join us!
 
-**Community teaching workshop**
+### Community teaching workshop
 
 June 21., 12-15 CEST
 
 Information and registration:
 https://hackmd.io/@coderefinery/community-teaching-2022-summer
 
-**CodeRefinery workshop**
+
+### CodeRefinery workshop
 
 September 20.-22. and 27.-29., 9-12 CEST
 
 Information and registration:
 https://coderefinery.org/workshops/upcoming/
 
-**CodeRefinery chat**
+
+### CodeRefinery chat
 
 Community hang-out:
 https://coderefinery.zulipchat.com/
