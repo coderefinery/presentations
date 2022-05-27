@@ -28,28 +28,34 @@ development of reproducible and reusable research software.
 
 ---
 
+class: center
+
 <img src="img/CR_workshop_1.png" style="height: 450px;"/>
 
 ---
+
+class: center
 
 <img src="img/CR_workshop_2.png" style="height: 450px;"/>
 
 ---
 
+class: center
+
 <img src="img/CR_workshop_3.png" style="height: 450px;"/>
 
 ---
 
+class: center
+
 <img src="img/CR_workshop_4.png" style="height: 450px;"/>
 
 
-### Last workshop in spring 2022
+**Last workshop in spring 2022**
 
 * **11** instructors and organizers, 
 * **>20** volunteer helpers, 
 * **297** participants from all over the world (mainly Nordics and Europe)  
-
-
 
 ---
 
