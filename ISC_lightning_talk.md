@@ -31,7 +31,7 @@ development of reproducible and reusable research software.
 
 ---
 
-<img src="img/CR_workshop.png" style="height: 1000px;"/>
+<img src="img/CR_workshop.png" style="height: 550px;"/>
 
 
 ---
@@ -45,7 +45,7 @@ development of reproducible and reusable research software.
 * automated testing and 
 * modular code development
 
-### Last workshopin spring 2022
+### Last workshop in spring 2022
 
 * *11* instructors and organizers, 
 * *>20* volunteer helpers, 
@@ -53,15 +53,17 @@ development of reproducible and reusable research software.
 
 --- 
 
+
 ## Low barriers for participating in different roles
 
----
-
-<img src="img/participate_single.png" style="height: 800px;"/>
 
 ---
 
-<img src="img/participate_organization.png" style="height: 600px;"/>
+<img src="img/participate_single.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization.png" style="height: 550px;"/>
 
 ---
 
