@@ -53,9 +53,9 @@ class: center
 
 **Last workshop in spring 2022**
 
-* **11** instructors and organizers, 
-* **>20** volunteer helpers, 
-* **297** participants from all over the world (mainly Nordics and Europe)  
+**11** instructors and organizers, 
+**>20** volunteer helpers, 
+**297** participants from all over the world (mainly Nordics and Europe)  
 
 ---
 
