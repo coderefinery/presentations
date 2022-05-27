@@ -12,7 +12,7 @@ Samantha Wittke, CSC - IT center for science, Finland
 
 ---
 
-## CodeRefinery
+## CodeRefinery workshop
 
 We teach tools and practices for the
 development of reproducible and reusable research software.
