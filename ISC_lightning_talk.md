@@ -12,31 +12,12 @@ Samantha Wittke, CSC - IT center for science, Finland
 
 ---
 
-
 ## CodeRefinery
 
 We teach tools and practices for the
 development of reproducible and reusable research software.
 
-
-### We wish to provide
-
-- **For organizations**: an opportunity to pool competence and offer more training
-  and development opportunities than they could individually.
-- **For volunteers and the team**: a community around teaching and opportunity for
-  skill development, both in pedagogy and practical skills.
-- **For learners**: a welcoming and useful environment for learning many necessary
-  practical skills that may otherwise not be explicitly taught.
-
-
----
-
-<img src="img/CR_workshop.png" style="height: 550px;"/>
-
-
----
-
-## Workshop topics around FAIR software practices 
+### Workshop topics around FAIR software practices 
 
 * basic and collaborative Git, 
 * social coding and open software, 
@@ -51,12 +32,15 @@ development of reproducible and reusable research software.
 * **>20** volunteer helpers, 
 * **297** participants from all over the world (mainly Nordics and Europe)  
 
+
+---
+
+<img src="img/CR_workshop.png" style="height: 550px;"/>
+
+
 --- 
 
-
-### Low barriers for participating in different roles
- 
- 
+## Low barriers for participating in different roles
 
 ---
 
