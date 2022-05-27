@@ -26,6 +26,23 @@ development of reproducible and reusable research software.
 * automated testing and 
 * modular code development
 
+---
+
+<img src="img/CR_workshop_1.png" style="height: 450px;"/>
+
+---
+
+<img src="img/CR_workshop_2.png" style="height: 450px;"/>
+
+---
+
+<img src="img/CR_workshop_3.png" style="height: 450px;"/>
+
+---
+
+<img src="img/CR_workshop_4.png" style="height: 450px;"/>
+
+
 ### Last workshop in spring 2022
 
 * **11** instructors and organizers, 
@@ -33,21 +50,6 @@ development of reproducible and reusable research software.
 * **297** participants from all over the world (mainly Nordics and Europe)  
 
 
----
-
-<img src="img/CR_workshop_1.png" style="height: 550px;"/>
-
----
-
-<img src="img/CR_workshop_2.png" style="height: 550px;"/>
-
----
-
-<img src="img/CR_workshop_3.png" style="height: 550px;"/>
-
----
-
-<img src="img/CR_workshop_4.png" style="height: 550px;"/>
 
 ---
 
