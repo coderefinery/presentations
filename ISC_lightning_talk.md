@@ -35,7 +35,19 @@ development of reproducible and reusable research software.
 
 ---
 
-<img src="img/CR_workshop.png" style="height: 550px;"/>
+<img src="img/CR_workshop_1.png" style="height: 550px;"/>
+
+---
+
+<img src="img/CR_workshop_2.png" style="height: 550px;"/>
+
+---
+
+<img src="img/CR_workshop_3.png" style="height: 550px;"/>
+
+---
+
+<img src="img/CR_workshop_4.png" style="height: 550px;"/>
 
 ---
 
@@ -45,11 +57,73 @@ class: center, middle
 
 ---
 
-<img src="img/participate_single.png" style="height: 550px;"/>
+<img src="img/participate_single_1.png" style="height: 550px;"/>
 
 ---
 
-<img src="img/participate_organization.png" style="height: 550px;"/>
+<img src="img/participate_single_2.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_single_3.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_single_4.png" style="height: 550px;"/>
+
+
+---
+
+<img src="img/participate_single_5.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_single_6.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_single_7.png" style="height: 550px;"/>
+
+
+---
+
+<img src="img/participate_single_8.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_single_9.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_single_10.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization_1.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization_2.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization_3.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization_4.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization_5.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization_6.png" style="height: 550px;"/>
+
+---
+
+<img src="img/participate_organization_7.png" style="height: 550px;"/>
 
 ---
 
