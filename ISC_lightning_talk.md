@@ -54,7 +54,7 @@ development of reproducible and reusable research software.
 --- 
 
 
-## Low barriers for participating in different roles
+### Low barriers for participating in different roles
 
 
 ---
