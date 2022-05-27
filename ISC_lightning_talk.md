@@ -144,6 +144,8 @@ September 20.-22. and 27.-29., 9-12 CEST
 Information and registration:
 https://coderefinery.org/workshops/upcoming/
 
+Communicate interest: support@coderefinery.org
+
 
 ### CodeRefinery chat
 
