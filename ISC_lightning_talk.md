@@ -40,6 +40,8 @@ development of reproducible and reusable research software.
 
 ---
 
+class: center, middle
+
 ## Low barriers for participating in different roles
 
 ---
