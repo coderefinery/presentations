@@ -145,7 +145,7 @@ class: gray-background
 # What we have learned
 
 - Learners and volunteers typically join for a short time
-- Building long lasting relationships takes work
+- Building long lasting relationships takes effort
 - .emph[Outreach and marketing] takes time and work
 - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
 - The importance of .emph[communicating value to organizations]
