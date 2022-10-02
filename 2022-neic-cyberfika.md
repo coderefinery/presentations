@@ -35,9 +35,8 @@ class: gray-background
 ### Achievements
 
 - Over 2000 persons trained
-- Over 30 instructors/speakers
-- Over 100 helpers and exercise leads
-- <https://coderefinery.org/organization/contributors/>
+- [Over 30 instructors/speakers, over 100 helpers and exercise leads](https://coderefinery.org/organization/contributors/)
+- **Pioneering teaching methods**
 - Lesson material
 - Video recordings
 - Manuals
