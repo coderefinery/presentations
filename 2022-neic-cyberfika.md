@@ -164,7 +164,7 @@ class: gray-background
 
 # GitLab: "adopt-a-service"
 
-- Code repository hosting for Nordic research software
+- Code repository hosting for Nordic research software: https://coderefinery.org/repository/
 - Over 300 active users, 175 groups, with over 400 active projects
 - ~50k DKK/ year
 - **ca. 2 USD per active user and month**
