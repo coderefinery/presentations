@@ -185,11 +185,13 @@ class: gray-background
 # Non-profit organization
 
 - This is in the project plan
-- But who (person and/or organization) will take it up and carry the fiscal and legal risks?
 - Do we have any experience with this within NeIC?
 - In UK there exists the legal form ["Community interest
   company"](https://en.wikipedia.org/wiki/Community_interest_company): profits
   and assets are used "for the public good"
+- But who (person and/or organization) will take it up and carry the fiscal and legal risks?
+
+> *"maintaining code for general public use quickly becomes an unpaid job you can't quit"* .cite[Nadia Asparouhova]
 
 ---
 
