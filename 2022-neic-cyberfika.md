@@ -37,6 +37,7 @@ class: gray-background
 - Over 2000 persons trained
 - [Over 30 instructors/speakers, over 100 helpers and exercise leads](https://coderefinery.org/organization/contributors/)
 - **Pioneering teaching methods**
+- **Working in public**
 - Lesson material
 - Video recordings
 - Manuals
@@ -119,7 +120,9 @@ class: gray-background
 
 # A typical CodeRefinery workshop
 
-<img src="img/CR_workshop_4-transparent.png" style="height: 500px;"/>
+<img src="img/CR_workshop_4-transparent.png" style="height: 450px;"/>
+
+.cite[(c) Samantha Wittke]
 
 ---
 
@@ -127,7 +130,9 @@ class: gray-background
 
 # Participating as a learner
 
-<img src="img/participate_single_10-transparent.png" style="height: 500px;"/>
+<img src="img/participate_single_10-transparent.png" style="height: 450px;"/>
+
+.cite[(c) Samantha Wittke]
 
 ---
 
@@ -135,7 +140,9 @@ class: gray-background
 
 # Participating as an organization
 
-<img src="img/participate_organization_7-transparent.png" style="height: 500px;"/>
+<img src="img/participate_organization_7-transparent.png" style="height: 450px;"/>
+
+.cite[(c) Samantha Wittke]
 
 ---
 
