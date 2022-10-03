@@ -158,6 +158,8 @@ class: gray-background
 - .emph[GDPR]: "check this box if you are OK with us informing you about similar events
   organized **by us**"
 
+<img src="img/chat.png" style="height: 300px;"/>
+
 ---
 
 class: center, middle, inverse
