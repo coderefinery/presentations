@@ -61,7 +61,9 @@
 
 # Course portfolio: it's all CC-BY
 
-Typical format: **6 half-days, twice per year, online, free, live-streamed, recorded**
+Typical format: **6 half-days, [twice per
+year](https://coderefinery.org/workshops/upcoming/), online, free,
+live-streamed, recorded**
 
 .left-column60[
 - Version control
@@ -161,16 +163,20 @@ Ideas:
 
 - Put the project on the map:
   .emph[Better communicate expectations, needs, and goals]
-
 - Make this something that people put on their CVs
-
 - Towards non-profit organization
 
 
-## How your organization can participate
+## How you or your organization can participate
 
 - **Join as observer** and give feedback and suggestions
 
 - Send one or more exercise teams
 
 - Co-organize, co-create, **co-teach** with us
+
+- [Blogs](https://coderefinery.org/blog/),
+  [newsletter](https://tinyletter.com/coderefinery),
+  [Twitter](https://twitter.com/coderefine),
+  [Mastodon](https://fosstodon.org/@coderefinery),
+  [Support](mailto:support@coderefinery.org)
