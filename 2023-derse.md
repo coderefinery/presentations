@@ -3,9 +3,11 @@
 .center[
 <img src="img/coderefinery.png" style="height: 250px;"/>
 
-## Samantha Wittke 
+<br>
 
-### CSC - IT center for science, Finland
+Samantha Wittke, CSC - IT center for science, Finland
+
+Short talk at deRSE'23, Paderborn
 ]
 ---
 
@@ -87,9 +89,7 @@ Lessons and recordings: https://coderefinery.org/lessons/
 
 - .emph[Outreach and marketing] takes time and work
 
-- Learners and volunteers typically join for a short time
-
-- Building long lasting relationships takes effort
+- Volunteer retention and building long lasting relationships takes effort
 
 - .emph[Good enough practices] that are used better than perfect practices not
   applied
@@ -107,14 +107,13 @@ Lessons and recordings: https://coderefinery.org/lessons/
 
 - Co-organize, co-create, **co-teach** with us
 
+<br>
+
 ## News, support and social media
 
 - Blog: https://coderefinery.org/blog/
-
 - Newsletter: https://tinyletter.com/coderefinery
-
 - Twitter: https://twitter.com/coderefine
-
 - Mastodon: https://fosstodon.org/@coderefinery
-
+- Chat: https://coderefinery.zulipchat.com
 - Support: support@coderefinery.org
