@@ -1,7 +1,8 @@
-# CodeRefinery - a hub for FAIR Software practices
 
 .center[
-<img src="img/coderefinery.png" style="height: 250px;"/>
+<img src="img/coderefinery.png" style="height: 300px;"/>
+
+# - a hub for FAIR Software practices
 
 <br>
 
@@ -46,7 +47,7 @@ Short talk at deRSE'23, Paderborn
 Typical format: **6 half-days, [twice per
 year](https://coderefinery.org/workshops/upcoming/), online, free,
 live-streamed, recorded, archived asynchronous Q&A in collaborative document**
-
+.left-column50[
 - Version control
 - Collaboration using Git
 - Testing
@@ -58,8 +59,13 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 - How to share and publish code
 - How to organize a code project
 - **...**
+]
 
-Lessons and recordings: https://coderefinery.org/lessons/
+.right-column50[
+**Next workshop** March 21-23 and 28-30, 2023, register here: https://coderefinery.github.io/2023-03-21-workshop/
+
+**Lessons and recordings:** https://coderefinery.org/lessons/
+]
 
 ---
 
