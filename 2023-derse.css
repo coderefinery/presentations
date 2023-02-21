@@ -133,6 +133,10 @@ a {
     float: right;
 }
 
+.center {
+    float: center;
+}
+
 .footnote {
     position: absolute;
     bottom: 3em;

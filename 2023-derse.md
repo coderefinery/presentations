@@ -1,11 +1,12 @@
 # CodeRefinery - a hub for FAIR Software practices
 
+.center[
 <img src="img/coderefinery.png" style="height: 250px;"/>
 
 ## Samantha Wittke 
 
 ### CSC - IT center for science, Finland
-
+]
 ---
 
 # Team and project: [coderefinery.org](https://coderefinery.org/)
@@ -22,12 +23,17 @@
 - Manuals
 - Training network
 - Community
-- **Partners**:
-<img src="img/CR_partners.png" style="width: 700px;"/>
+
+**Partners**:
+<img src="img/CR_partners.png" style="width: 750px;"/>
 
 ]
 
 .right-column50_center[
+<br>
+<br>
+
+
 <img src="img/pyramid.png" style="width: 350px;"/>
 ]
 
@@ -37,9 +43,8 @@
 
 Typical format: **6 half-days, [twice per
 year](https://coderefinery.org/workshops/upcoming/), online, free,
-live-streamed, recorded**
+live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 
-.left-column60[
 - Version control
 - Collaboration using Git
 - Testing
@@ -53,28 +58,22 @@ live-streamed, recorded**
 - **...**
 
 Lessons and recordings: https://coderefinery.org/lessons/
-]
----
-
-# A typical CodeRefinery workshop
-
-<img src="img/CR_workshop_midonly.png" style="height: 450px;"/>
-
-.cite[(c) Samantha Wittke]
 
 ---
 
 # Participating as a learner
 
+.center[
 <img src="img/participate_single_10-transparent.png" style="height: 450px;"/>
-
+]
 .cite[(c) Samantha Wittke]
 
 ---
 
 # Participating as an organization
-
+.center[
 <img src="img/participate_organization_7-transparent.png" style="height: 450px;"/>
+]
 
 .cite[(c) Samantha Wittke]
 
