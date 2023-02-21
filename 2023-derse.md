@@ -1,42 +1,34 @@
 # CodeRefinery - a hub for FAIR Software practices
 
-.left-column50[
+<img src="img/coderefinery.png" style="height: 250px;"/>
 
-<img src="img/pyramid.png" style="width: 90%;"/>
-
-]
-
-.right-column50[
-## Samantha Wittke [@swittke1](https://twitter.com/swittke1)/ [@samantha@fosstodon.org](https://fosstodon.org/@samantha)
+## Samantha Wittke 
 
 ### CSC - IT center for science, Finland
-
-<img src="img/coderefinery.png" style="height: 250px;"/>
-]
 
 ---
 
 # Team and project: [coderefinery.org](https://coderefinery.org/)
 
-- Started in 2016, now we are in **phase 3 until 2025**
-- **Partners**: 
-<img src="img/CR_partners.png" style="width=100%;"/>
-
 .left-column50[
+- Since 2016, now **phase 3 until 2025**
 - Over 2000 persons trained
 - Over 30 instructors/speakers
 - Over 100 exercise leads
-- **Pioneering teaching methods**
-- **Working in public**
+- Pioneering teaching methods
+- Working in public
 - Lesson material
 - Video recordings
 - Manuals
 - Training network
 - Community
+- **Partners**:
+<img src="img/CR_partners.png" style="width: 700px;"/>
+
 ]
 
-.right-column50[
-<img src="img/coderefinery.png" style="height: 250px;"/>
+.right-column50_center[
+<img src="img/pyramid.png" style="width: 350px;"/>
 ]
 
 ---
@@ -57,24 +49,20 @@ live-streamed, recorded**
 - Reproducible research
 - Software licensing
 - How to share and publish code
-- .emph[How to organize a code project]
+- How to organize a code project
 - **...**
 
 Lessons and recordings: https://coderefinery.org/lessons/
 ]
 ---
 
-class: gray-background
-
 # A typical CodeRefinery workshop
 
-<img src="img/CR_workshop_4-transparent.png" style="height: 450px;"/>
+<img src="img/CR_workshop_midonly.png" style="height: 450px;"/>
 
 .cite[(c) Samantha Wittke]
 
 ---
-
-class: gray-background
 
 # Participating as a learner
 
@@ -83,8 +71,6 @@ class: gray-background
 .cite[(c) Samantha Wittke]
 
 ---
-
-class: gray-background
 
 # Participating as an organization
 
@@ -122,8 +108,14 @@ class: gray-background
 
 - Co-organize, co-create, **co-teach** with us
 
-- [Blogs](https://coderefinery.org/blog/),
-  [newsletter](https://tinyletter.com/coderefinery),
-  [Twitter](https://twitter.com/coderefine),
-  [Mastodon](https://fosstodon.org/@coderefinery),
-  [Support](mailto:support@coderefinery.org)
+## News, support and social media
+
+- Blog: https://coderefinery.org/blog/
+
+- Newsletter: https://tinyletter.com/coderefinery
+
+- Twitter: https://twitter.com/coderefine
+
+- Mastodon: https://fosstodon.org/@coderefinery
+
+- Support: support@coderefinery.org
