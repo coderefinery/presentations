@@ -28,12 +28,7 @@ Who is it for?
 
 > Tools and best practices for developing reproducible and reusable research software.
 
-* basic and collaborative Git, 
-* social coding and open software, 
-* reproducibility, 
-* documentation, 
-* automated testing and 
-* modular code development
+<img src="img/reproducible_research.jpeg" style="width: 75%;"/>
 
 ---
 
@@ -46,7 +41,7 @@ Who is it for?
 
 ---
 
-<img src="https://user-images.githubusercontent.com/32324155/233112293-aefeff75-df25-46e3-a6f3-5942dd4c267d.png" style="height: 550px;"/>
+<img src="img/CSC_CR.png" style="height: 550px;"/>
 
 ---
 
