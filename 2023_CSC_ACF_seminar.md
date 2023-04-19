@@ -48,12 +48,14 @@ Who is it for?
 ## Nordic-RSE
 
 Organization of Research Software Engineers in Nordics
-Involvement in global RSE operations
 
-Seminars
+Collaboration within Nordics and with other RSE networks around the world
+
+Seminars / Unconference / Community
+
 https://nordic-rse.org/
 
+new RocketChat channel: #ResearchSoftwareEngineering
+- join for sharing experiences, events, courses, conferences etc
 
-#ResearchSoftwareEngineering in RC
-
-Finnish RSE meetup 30.5 in CSC office, Diskurssi, sign up: https://link.webropolsurveys.com/S/8C9F99740ED82D50
+Finnish RSE meetup 30.5 in CSC office, Diskurssi, sign up: https://link.webropol.com/ep/fin-rse-meetup-23
