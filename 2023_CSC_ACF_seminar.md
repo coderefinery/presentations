@@ -46,7 +46,7 @@ Who is it for?
 
 ---
 
-<img src="img/participate_organization_7.png" style="height: 550px;"/>
+<img src="https://user-images.githubusercontent.com/32324155/233112293-aefeff75-df25-46e3-a6f3-5942dd4c267d.png" style="height: 550px;"/>
 
 ---
 
