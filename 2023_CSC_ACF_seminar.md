@@ -28,7 +28,7 @@ Who is it for?
 
 > Tools and best practices for developing reproducible and reusable research software.
 
-<img src="img/reproducible_research.jpeg" style="width: 75%;"/>
+<img src="img/reproducible-research.jpg" style="width: 75%;"/>
 
 ---
 
