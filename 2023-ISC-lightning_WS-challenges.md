@@ -33,6 +33,19 @@ class: center, middle
 - Video recordings
      - Needs editing
 
+- Reporting
+     - Need to adapt how we measure participation
+
+- Community and coordination
+     - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
+     - The importance of .emph[communicating value to organizations]
+     - .emph[Outreach and marketing] takes time and work
+     - Volunteer retention and building long lasting relationships takes effort
+
+- Tech
+     - Collaborative document might crash or user errors
+     - Dedicate time to set up high-quality screen share
+
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
      style="width: 750px;"/>
@@ -131,47 +144,9 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document
 R. Darst's streaming setup during "Python for Scientific
 Computing".
 
----
-
-### Lesson design
-
-- Design lessons to .emph[learners' needs] not to what instructors find cool
-- Public-first
-
-
-### Tech
-
-- Ask and answer questions using collaborative document
-- Dedicate time to set up high-quality screen share
-- Screen share: .emph[portrait mode, not landscape]
-
-
-### Privacy
-
-- Make it impossible for audience to appear in voice or picture
-- We can publish recordings sooner
-- Recordings are most viewed on the same day
 
 ---
 
-### Community and coordination
-
-- .emph[Coordination effort] starts to outweigh lesson preparation and teaching
-- The importance of .emph[communicating value to organizations]
-- .emph[Outreach and marketing] takes time and work
-- Volunteer retention and building long lasting relationships takes effort
-
-
-### Follow-up
-
-- Need for mentor networks
-
-
-### Funding and reporting
-
-- Not everybody needs to be active during a course: make it easy for people to
-  drop by for the parts they are interested in
-- Need to adapt how we measure participation
 
 
 ---
@@ -179,7 +154,7 @@ Computing".
 ## License and credit: CC-BY
 
 ### Credits to external references
-)
+
 - Jet pilot: public domain. Captain and first officer: CC0. ATC tower: CC BY 2.0 (Peter R. Miller).
 
 ### Collaborators and inspiration
@@ -195,16 +170,10 @@ Computing".
 
 ---
 
-## How you or your organization can participate
+## Collaboration options
 
-.emph[More information on CR teaching strategies:]
-https://coderefinery.org/blog/2022/10/17/future-of-teaching/
-
-- Use our material and give feedback
-- Send one or more **exercise teams**
-- **Join as observer** to see how we teach and organize
-- Co-organize, co-create, **co-teach** with us
-
+- Use material, give feedback
+- **Join workshop** as learner, observer or co-organiser
 
 ### News, support, and social media
 
