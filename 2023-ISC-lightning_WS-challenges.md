@@ -7,25 +7,18 @@ class: center, middle
 
 ### [Matias Jääskeläinen](https://www.linkedin.com/in/matias-j-jaaskelainen/) (CSC – IT Center for Science)
 
-.left-column50[
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
      style="height: 140px;"/>
-&nbsp;
+<img src="img/Flashtalk_ISC23_QR.png"
+     alt="QR-code to this presentation"
+     style="height: 140px;"/>
 
 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
   <img src="img/cc-by-icon.svg"
        alt="CC-BY icon"
        style="height: 30px;"/>
 </a>
-]
-
-.right-column50[
-<img src="img/Flashtalk_ISC23_QR.png"
-     alt="QR-code to this presentation"
-     style="height: 140px;"/>
-
-]
 
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
