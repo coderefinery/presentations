@@ -1,8 +1,8 @@
 class: center, middle
 
-# CodeRefinery flashtalk at [BoF in ISC](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgzNg==)
+# CodeRefinery Workshops – Challenges in *reverse hybrid teaching*
 
-## CodeRefinery Workshops – Challenges in *reverse hybrid teaching*
+## CodeRefinery flashtalk at [BoF in ISC](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgzNg==)
 
 ### [Matias Jääskeläinen](https://www.linkedin.com/in/matias-j-jaaskelainen/) (CSC – IT Center for Science)
 
@@ -43,8 +43,25 @@ class: center, middle
      - Volunteer retention and building long lasting relationships takes effort
 
 - Tech
-     - Collaborative document might crash or user errors
      - Dedicate time to set up high-quality screen share
+     - RKD's tech setup here
+     - Sound: everyone does not have a quailty mic or good connection
+          - Sound levels have to be checked
+- WS arrangement
+     - We removed Zoom teams because a lot of work
+          - Some people got less interactivity
+     - With Zoom teams:
+          - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
+     - Collaborative document 
+          - might crash or user errors
+          - Needs a few people to maintain / oversee
+     - Level of teaching: with massive courses all participants won't have the same prerequisite level
+     - Exercises: some want walkthrouhgs and some want proper problem-solving exercise
+     - One large WS vs. multiple smaller ((This could actually be the whole topic 🤓))
+          - Collection of topics vs. concise content
+          - a lot of work in a few weeks vs. some work throughout the year
+          - reserved almost whole weeks vs. occasional days
+          - longer days vs. shorter days
 
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
@@ -52,7 +69,7 @@ class: center, middle
 
 ---
 
-# CodeRefinery workshop
+# CodeRefinery workshop:
 
 **Typical format**: 6 half-days, [twice per
 year](https://coderefinery.org/workshops/upcoming/), online, free,
