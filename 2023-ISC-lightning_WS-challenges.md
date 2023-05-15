@@ -79,7 +79,7 @@ class: center, middle
 - Asynchronous Q&A in collaborative document
 - Version control, Collaborative coding, Reproducible research **...**
 
-[**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/) and  
+[**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/) and 
 [**Recordings in YouTube**](https://www.youtube.com/@coderefinery3414)  
 
 
@@ -91,17 +91,20 @@ class: center, middle
 
 
 ### Lecturer notes
-plenty of issues with hybrid, mainly the inequality of the people in-person and those who are remote.
-There is one teacher and hundreds of students. What's the benefit to students doing this in-person? It's probably not being in the same room as the teacher, since most students don't have time to ask a question, or even approach the teacher after the course. The benefit is how students can interact with each other beside the lecture. 
-
- reverse hybrid strategy: the teachers are online, and students can be in-person in small groups. We started this by encouraging students to meet up with their friends or colleagues to work on exercises, while we teach online. As things became more relaxed, we had some staff organize official in-person exercise sessions - while the current instructors kept teaching online. This has worked surprising well - students who want interaction can get it (and actually interact, without disrupting the whole course), and those that don't can still attend no matter where they are.
-
- The course isn't bound to one location, literally anyone in the world can attend.
-
+Why reverse hybrid
+- Issue with hybrid:
+     - People onsite ≠ people online.
+- Large courses: 
+     - most students don't have time to ask a question f2f
+     - they chat with the teacher anyway
+- Reverse hybrid:
+     - Teachers via video and chat
+     - Students in onsite groups
+     - Those who want interaction can get it
+     - The course isn't bound to one location, anyone can attend.
 
 ---
 
-# Participating as a learner
 
 
 
@@ -114,18 +117,6 @@ There is one teacher and hundreds of students. What's the benefit to students do
 .center[
 <img src="img/CR_workshop_4-transparent.png"
      alt="Pre- and post-workshop steps"
-     style="height: 450px;"/>
-]
-
-.cite[(c) Samantha Wittke]
-
----
-
-# Participating as an organization
-
-.center[
-<img src="img/participate_organization_7-transparent.png"
-     alt="Modes of engaging with CodeRefinery as an organization"
      style="height: 450px;"/>
 ]
 
