@@ -17,52 +17,6 @@ class: center, middle
        style="height: 30px;"/>
 </a>
 
----
-
-# Placeholder for ideas, about [coderefinery.org](https://coderefinery.org/) and what can cause challenges
-
-- Since 2016, now **phase 3 until 2025**
-     - What then?
-- Over 30 instructors/speakers
-     - How to get them onboard every time?
-- Over 100 exercise leads
-     - How to get people onboard?
-- Innovative teaching methods
-- Lesson material
-     - Needs to be updated
-- Video recordings
-     - Needs editing
-
-- Reporting
-     - Need to adapt how we measure participation
-
-- Community and coordination
-     - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
-     - The importance of .emph[communicating value to organizations]
-     - .emph[Outreach and marketing] takes time and work
-     - Volunteer retention and building long lasting relationships takes effort
-
-- Tech
-     - Dedicate time to set up high-quality screen share
-     - RKD's tech setup here
-     - Sound: everyone does not have a quailty mic or good connection
-          - Sound levels have to be checked
-- WS arrangement
-     - We removed Zoom teams because a lot of work
-          - Some people got less interactivity
-     - With Zoom teams:
-          - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
-     - Collaborative document 
-          - might crash or user errors
-          - Needs a few people to maintain / oversee
-     - Level of teaching: with massive courses all participants won't have the same prerequisite level
-     - Exercises: some want walkthrouhgs and some want proper problem-solving exercise
-     - One large WS vs. multiple smaller ((This could actually be the whole topic 🤓))
-          - Collection of topics vs. concise content
-          - a lot of work in a few weeks vs. some work throughout the year
-          - reserved almost whole weeks vs. occasional days
-          - longer days vs. shorter days
-
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
      style="width: 750px;"/>
@@ -105,13 +59,6 @@ Why reverse hybrid
 
 ---
 
-
-
-
-
-
----
-
 # Workshop preparation
 
 .center[
@@ -124,9 +71,13 @@ Why reverse hybrid
 
 ---
 
+# Tech
 
-
----
+- Tech
+     - Dedicate time to set up high-quality screen share
+     - RKD's tech setup here
+     - Sound: everyone does not have a quailty mic or good connection
+          - Sound levels have to be checked
 
 <img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
      alt="Streaming setup during Python for Scientific Computing"
@@ -138,7 +89,28 @@ Computing".
 
 ---
 
-
+- WS arrangement
+     - We removed Zoom teams because a lot of work
+          - Some people got less interactivity
+     - With Zoom teams:
+          - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
+     - Collaborative document 
+          - might crash or user errors
+          - Needs a few people to maintain / oversee
+     - Level of teaching: with massive courses all participants won't have the same prerequisite level
+     - Exercises: some want walkthrouhgs and some want proper problem-solving exercise
+     - One large WS vs. multiple smaller ((This could actually be the whole topic 🤓))
+          - Collection of topics vs. concise content
+          - a lot of work in a few weeks vs. some work throughout the year
+          - reserved almost whole weeks vs. occasional days
+          - longer days vs. shorter days
+     - Community and coordination
+          - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
+          - The importance of .emph[communicating value to organizations]
+          - .emph[Outreach and marketing] takes time and work
+          - Volunteer retention and building long lasting relationships takes effort
+          - Over 30 instructors/speakers, Over 100 exercise leads
+               - How to get them onboard every time?
 
 ---
 
