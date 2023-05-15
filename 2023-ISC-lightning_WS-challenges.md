@@ -42,8 +42,13 @@ class: center, middle
      alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
      style="height: 250px;"/>
 
+.left-column50[
 .cite[(c) Samantha Wittke]
+]
 
+.right-column[
+     .quote[This is actually scaling up!]
+]
 
 ### Lecturer notes
 Why reverse hybrid
@@ -57,7 +62,7 @@ Why reverse hybrid
      - Students in onsite groups
      - Those who want interaction can get it
      - The course isn't bound to one location, anyone can attend.
-
+- This is actually scaling up!
 ---
 
 # Workshop preparation
