@@ -73,22 +73,22 @@ Why reverse hybrid
 
 
 ### Lecturer notes
+- Many things also before and after
+- Explain how to join
+- We removed Zoom teams because a lot of work
+     - Some people got less interactivity
+- With Zoom teams:
+     - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
+- Collaborative document 
+     - might crash or user errors
+     - Needs a few people to maintain / oversee
 
 
 
 ---
 
-# Technical side
+# Workshop preparation – Technical side
 
-- Set up nice screen share
-- Sound levels have to be checked
-- Collaborative document 
-     - might crash or user errors
-     - Needs a few people to maintain / oversee
-- We removed Zoom teams because a lot of work
-     - Some people got less interactivity
-- With Zoom teams:
-     - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
 
 <img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
      alt="Streaming setup during Python for Scientific Computing"
@@ -96,6 +96,12 @@ Why reverse hybrid
 
 R. Darst's streaming setup during "Python for Scientific
 Computing".
+
+
+### Lecturer notes
+- Many moving parts
+- Zoom + OBS
+- Sound levels have to be checked
 
 
 ---
