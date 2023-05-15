@@ -79,7 +79,7 @@ class: center, middle
 - Online, free
 - Live-streamed, recorded
 - Asynchronous Q&A in collaborative document
-- [Version control, Collaborative coding, Reproducible research **...**](https://coderefinery.org/lessons/core/)
+- Version control, Collaborative coding, Reproducible research **...**
 
 [**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/)  
 [**Recordings in YouTube**](https://www.youtube.com/@coderefinery3414)  
