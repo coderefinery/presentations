@@ -1,7 +1,7 @@
 class: center, middle
 
-# CodeRefinery Workshops  
-# – Challenges in *reverse hybrid teaching*
+# CodeRefinery Workshops:  
+# Challenges in *reverse hybrid teaching*
 
 ## CodeRefinery flashtalk in [BoF at ISC](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgzNg==)
 
@@ -70,15 +70,25 @@ Why reverse hybrid
 
 .cite[(c) Samantha Wittke]
 
+
+
+### Lecturer notes
+
+
+
 ---
 
-# Tech
+# Technical side
 
-- Tech
-     - Dedicate time to set up high-quality screen share
-     - RKD's tech setup here
-     - Sound: everyone does not have a quailty mic or good connection
-          - Sound levels have to be checked
+- Set up nice screen share
+- Sound levels have to be checked
+- Collaborative document 
+     - might crash or user errors
+     - Needs a few people to maintain / oversee
+- We removed Zoom teams because a lot of work
+     - Some people got less interactivity
+- With Zoom teams:
+     - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
 
 <img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
      alt="Streaming setup during Python for Scientific Computing"
@@ -90,14 +100,8 @@ Computing".
 
 ---
 
-- WS arrangement
-     - We removed Zoom teams because a lot of work
-          - Some people got less interactivity
-     - With Zoom teams:
-          - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
-     - Collaborative document 
-          - might crash or user errors
-          - Needs a few people to maintain / oversee
+# Workshop arrangement
+
      - Level of teaching: with massive courses all participants won't have the same prerequisite level
      - Exercises: some want walkthrouhgs and some want proper problem-solving exercise
      - One large WS vs. multiple smaller ((This could actually be the whole topic 🤓))
