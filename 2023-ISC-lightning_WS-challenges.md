@@ -71,19 +71,19 @@ class: center, middle
 
 # CodeRefinery workshop: Reverse hybrid
 
-.left-column50[
-**Next workshop** [Sep, 2023](https://coderefinery.org/workshops/upcoming/)
+.left-column50{
+**Next workshop:** [Sep, 2023](https://coderefinery.org/workshops/upcoming/)
 
 **Typical format**: 
 - 6 half-days, [twice per year](https://coderefinery.org/workshops/upcoming/)
-- online, free
-- live-streamed, recorded
-- asynchronous Q&A in collaborative document
+- Online, free
+- Live-streamed, recorded
+- Asynchronous Q&A in collaborative document
 - [Version control, Collaborative coding, Reproducible research **...**](https://coderefinery.org/lessons/core/)
 
-**Lessons:** https://coderefinery.org/lessons/  
-**Recordings:** https://www.youtube.com/@coderefinery3414
-]
+[**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/)  
+[**Recordings:**](https://www.youtube.com/@coderefinery3414)  
+}
 
 .right-column50[
 <img src="img/participate_single_10-transparent.png"
