@@ -77,7 +77,7 @@ class: center, middle
 - live-streamed, recorded
 - asynchronous Q&A in collaborative document
 
-.left[
+.left-column50[
 - [Version control, Collaborative coding, Reproducible research **...**](https://coderefinery.org/lessons/core/)
 
 
@@ -87,7 +87,7 @@ class: center, middle
 **Recordings:** https://www.youtube.com/@coderefinery3414
 ]
 
-.right[
+.right-column50[
 <img src="img/participate_single_10-transparent.png"
      alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
      style="height: 250px;"/>
