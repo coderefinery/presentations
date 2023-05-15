@@ -71,7 +71,7 @@ class: center, middle
 
 # CodeRefinery workshop: Reverse hybrid
 
-.left-column50{
+.left-column50[
 **Next workshop:** [Sep, 2023](https://coderefinery.org/workshops/upcoming/)
 
 **Typical format**: 
@@ -82,8 +82,8 @@ class: center, middle
 - [Version control, Collaborative coding, Reproducible research **...**](https://coderefinery.org/lessons/core/)
 
 [**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/)  
-[**Recordings:**](https://www.youtube.com/@coderefinery3414)  
-}
+[**Recordings in YouTube**](https://www.youtube.com/@coderefinery3414)  
+]
 
 .right-column50[
 <img src="img/participate_single_10-transparent.png"
