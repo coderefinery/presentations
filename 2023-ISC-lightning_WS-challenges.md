@@ -3,10 +3,11 @@ class: center, middle
 # CodeRefinery Workshops:  
 # Challenges in *reverse hybrid teaching*
 
-## CodeRefinery flashtalk in [BoF at ISC](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgzNg==)
+## CodeRefinery [flashtalk](https://raw.githubusercontent.com/coderefinery/presentations/main/2023-ISC-lightning_WS-challenges.md) in [BoF at ISC](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgzNg==)
 
 ### [Matias Jääskeläinen](https://www.linkedin.com/in/matias-j-jaaskelainen/) (CSC – IT Center for Science)
 
+.left-column50[
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
      style="height: 140px;"/>
@@ -17,6 +18,14 @@ class: center, middle
        alt="CC-BY icon"
        style="height: 30px;"/>
 </a>
+]
+
+.right-column50[
+<img src="img/Flashtalk_ISC23_QR.png"
+     alt="QR-code to this presentation"
+     style="height: 140px;"/>
+
+]
 
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
@@ -24,7 +33,7 @@ class: center, middle
 
 ---
 
-# CodeRefinery workshop: Reverse hybrid
+## CodeRefinery workshop: Reverse hybrid
 
 
 **Next workshop:** [Sep, 2023](https://coderefinery.org/workshops/upcoming/)
@@ -61,7 +70,7 @@ Why reverse hybrid
 - First challenge: Explain how to join xD
 ---
 
-# Scaling up – Technical side
+## Scaling up – Technical side
 
 
 <img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
@@ -87,7 +96,7 @@ Computing".
 
 ---
 
-# Scaling up – Arrangements
+## Scaling up – Arrangements
 
 .center[
 <img src="img/CR_workshop_4-transparent.png"
