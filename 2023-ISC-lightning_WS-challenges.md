@@ -79,7 +79,7 @@ class: center, middle
 - Asynchronous Q&A in collaborative document
 - Version control, Collaborative coding, Reproducible research **...**
 
-[**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/)  
+[**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/) and  
 [**Recordings in YouTube**](https://www.youtube.com/@coderefinery3414)  
 
 
@@ -88,6 +88,15 @@ class: center, middle
      style="height: 250px;"/>
 
 .cite[(c) Samantha Wittke]
+
+
+### Lecturer notes
+plenty of issues with hybrid, mainly the inequality of the people in-person and those who are remote.
+There is one teacher and hundreds of students. What's the benefit to students doing this in-person? It's probably not being in the same room as the teacher, since most students don't have time to ask a question, or even approach the teacher after the course. The benefit is how students can interact with each other beside the lecture. 
+
+ reverse hybrid strategy: the teachers are online, and students can be in-person in small groups. We started this by encouraging students to meet up with their friends or colleagues to work on exercises, while we teach online. As things became more relaxed, we had some staff organize official in-person exercise sessions - while the current instructors kept teaching online. This has worked surprising well - students who want interaction can get it (and actually interact, without disrupting the whole course), and those that don't can still attend no matter where they are.
+
+ The course isn't bound to one location, literally anyone in the world can attend.
 
 
 ---
