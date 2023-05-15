@@ -78,13 +78,16 @@ class: center, middle
 - asynchronous Q&A in collaborative document
 
 .left-column50[
-- Version control, Collaborative coding, Reproducible research **...**
+- [Version control, Collaborative coding, Reproducible research **...**](https://coderefinery.org/lessons/core/)
 ]
 
 .right-column50[
 **Next workshop** [September 19-21 and 26-28 2023 (6 half-day, online)](https://coderefinery.org/workshops/upcoming/)
 
-**Lessons and recordings:** https://coderefinery.org/lessons/
+**Lessons:** https://coderefinery.org/lessons/
+**Recordings:** https://www.youtube.com/@coderefinery3414
+
+
 ]
 
 ---
@@ -169,10 +172,8 @@ Computing".
 
 ### Collaborators and inspiration
 
-- Richard Darst (design of the current workshop streaming format,
-  developed many novel teaching techniques that we use)
-- Samantha Wittke (graphics explaining the concepts, developed workshop
-  on-boarding scheme)
+- Richard Darst (design of the current workshop streaming format, developed many [novel teaching techniques that we use](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view))
+- Samantha Wittke (graphics explaining the concepts, developed workshop on-boarding scheme)
 - Matias Jääskeläinen (workshop coordination)
 - CodeRefinery team
 - [Aalto RSE group](https://scicomp.aalto.fi/rse/)
@@ -190,6 +191,7 @@ Computing".
 - Chat: https://coderefinery.zulipchat.com
 - Blog: https://coderefinery.org/blog/
 - Newsletter: https://tinyletter.com/coderefinery
+- YouTube: https://www.youtube.com/@coderefinery3414
 - Twitter: https://twitter.com/coderefine
 - Mastodon: https://fosstodon.org/@coderefinery
 - Support: <support@coderefinery.org>
