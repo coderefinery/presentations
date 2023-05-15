@@ -61,7 +61,33 @@ Why reverse hybrid
 - First challenge: Explain how to join xD
 ---
 
-# Scaling up
+# Scaling up – Technical side
+
+
+<img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
+     alt="Streaming setup during Python for Scientific Computing"
+     style="height: 450px;"/>
+
+R. Darst's streaming setup during "Python for Scientific
+Computing".
+
+
+### Lecturer notes
+- Many moving parts
+     - Zoom + OBS
+     - Handle audio and video in both
+     - Sound levels have to be checked
+     - Different scenes to screensharing, discussion, breaks
+- New bottlenecks: 
+     - The Q&A is actually the thing that we worry the most (not the stream so much)
+          - We get up to 40 questions per hour
+          - Collaborative document might crash or user errors
+          - Needs a few people to maintain / oversee
+     - There will be more people with technical problems which leads to overhead in solving them
+
+---
+
+# Scaling up – Arrangements
 
 .center[
 <img src="img/CR_workshop_4-transparent.png"
@@ -94,31 +120,6 @@ Why reverse hybrid
 
 ---
 
-# Scaling up – Technical side
-
-
-<img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
-     alt="Streaming setup during Python for Scientific Computing"
-     style="height: 450px;"/>
-
-R. Darst's streaming setup during "Python for Scientific
-Computing".
-
-
-### Lecturer notes
-- Many moving parts
-- Zoom + OBS
-- Sound levels have to be checked
-- New bottlenecks: 
-     - The Q&A is actually the thing that we worry the most (not the stream so much)
-          - We may have even 
-     - Collaborative document 
-          - might crash or user errors
-          - Needs a few people to maintain / oversee
-
-- there will be more people with technical problems which leads to overhead in solving them
-
----
 
 ## License and credit: CC-BY
 
