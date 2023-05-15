@@ -46,7 +46,7 @@ class: center, middle
 .cite[(c) Samantha Wittke]
 ]
 
-.right-column[
+.right-column50[
 .quote[This is actually scaling up!]
 ]
 
