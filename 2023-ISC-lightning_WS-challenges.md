@@ -69,23 +69,16 @@ class: center, middle
 
 ---
 
-# CodeRefinery workshop:
+# CodeRefinery workshop: Reverse hybrid
 
-**Typical format**: 6 half-days, [twice per
-year](https://coderefinery.org/workshops/upcoming/), online, free,
-live-streamed, recorded, archived asynchronous Q&A in collaborative document
+**Typical format**: 
+- 6 half-days, [twice per year](https://coderefinery.org/workshops/upcoming/)
+- online, free
+- live-streamed, recorded
+- asynchronous Q&A in collaborative document
+
 .left-column50[
-- Version control
-- Collaboration using Git
-- Testing
-- Documentation
-- Notebooks
-- Modular code development
-- Reproducible research
-- Software licensing
-- How to share and publish code
-- How to organize a code project
-- **...**
+- Version control, Collaborative coding, Reproducible research **...**
 ]
 
 .right-column50[
