@@ -47,7 +47,7 @@ class: center, middle
 ]
 
 .right-column50[
-.quote[This is actually scaling up!]
+This is actually scaling up!
 ]
 
 ### Lecturer notes
