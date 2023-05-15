@@ -92,7 +92,7 @@ Why reverse hybrid
 
 <img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
      alt="Streaming setup during Python for Scientific Computing"
-     style="height: 400px;"/>
+     style="height: 450px;"/>
 
 R. Darst's streaming setup during "Python for Scientific
 Computing".
@@ -140,6 +140,10 @@ Computing".
 - [Aalto RSE group](https://scicomp.aalto.fi/rse/)
 - [Nordic-RSE](https://nordic-rse.org/)
 
+<img src="img/CR_partners.png"
+     alt="logos of CodeRefinery partners"
+     style="width: 750px;"/>
+     
 ---
 
 ## Collaboration options
