@@ -1,8 +1,9 @@
 class: center, middle
 
-# CodeRefinery Workshops – Challenges in *reverse hybrid teaching*
+# CodeRefinery Workshops  
+# – Challenges in *reverse hybrid teaching*
 
-## CodeRefinery flashtalk at [BoF in ISC](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgzNg==)
+## CodeRefinery flashtalk in [BoF at ISC](https://app.swapcard.com/widget/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgzNg==)
 
 ### [Matias Jääskeläinen](https://www.linkedin.com/in/matias-j-jaaskelainen/) (CSC – IT Center for Science)
 
