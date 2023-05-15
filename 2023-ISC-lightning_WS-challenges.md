@@ -79,14 +79,20 @@ class: center, middle
 
 .left-column50[
 - [Version control, Collaborative coding, Reproducible research **...**](https://coderefinery.org/lessons/core/)
-]
 
-.right-column50[
+
 **Next workshop** [September 19-21 and 26-28 2023 (6 half-day, online)](https://coderefinery.org/workshops/upcoming/)
 
 **Lessons:** https://coderefinery.org/lessons/
 **Recordings:** https://www.youtube.com/@coderefinery3414
+]
 
+.right[
+<img src="img/participate_single_10-transparent.png"
+     alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
+     style="height: 450px;"/>
+.cite[(c) Samantha Wittke]
+]
 
 ]
 
@@ -94,13 +100,9 @@ class: center, middle
 
 # Participating as a learner
 
-.center[
-<img src="img/participate_single_10-transparent.png"
-     alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
-     style="height: 450px;"/>
-]
 
-.cite[(c) Samantha Wittke]
+
+
 
 ---
 
