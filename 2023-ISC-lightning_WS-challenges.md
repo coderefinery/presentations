@@ -74,10 +74,8 @@ class: center, middle
 
 **Next workshop:** [Sep, 2023](https://coderefinery.org/workshops/upcoming/)
 
-**Typical format**: 
 - 6 half-days, [twice per year](https://coderefinery.org/workshops/upcoming/)
-- Online, free
-- Live-streamed, recorded
+- Online, free, live-streamed, recorded
 - Asynchronous Q&A in collaborative document
 - Version control, Collaborative coding, Reproducible research **...**
 
