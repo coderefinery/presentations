@@ -128,25 +128,7 @@ class: center, middle
 
 ---
 
-### What we have learned: .emph[Teaching together and learning together]
 
-.left-column50[
-<img src="img/lone-hero.jpg"
-     alt="Figher jet pilot"
-     style="width: 330px;"/>
-
-<img src="img/pilots.jpg"
-     alt="Captain and first officer"
-     style="width: 330px;"/>
-]
-
-.right-column50[
-<img src="img/atc.jpg"
-     alt="Air traffic control tower"
-     style="width: 330px;"/>
-]
-
-.cite[R. Darst "The Future of Teaching" ([text](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view), [video](https://www.youtube.com/watch?v=S9Jor12Cxdc))]
 
 ---
 
