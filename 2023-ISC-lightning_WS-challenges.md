@@ -86,6 +86,7 @@ class: center, middle
 <img src="img/participation_LECvsWS.png"
      alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
      style="height: 250px;"/>
+
 .cite[(c) Samantha Wittke]
 
 
