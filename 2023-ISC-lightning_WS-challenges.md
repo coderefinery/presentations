@@ -58,6 +58,7 @@ Why reverse hybrid
      - Those who want interaction can get it
      - The course isn't bound to one location, anyone can attend.
 - This is actually scaling up!
+- First challenge: Explain how to join xD
 ---
 
 # Scaling up
@@ -71,30 +72,25 @@ Why reverse hybrid
 .cite[(c) Samantha Wittke]
 
 
-
 ### Lecturer notes
 - Many things also before and after
-- Explain how to join
-- We removed Zoom teams because a lot of work
-     - Some people got less interactivity
-- With Zoom teams:
-     - drop-offs lead to too small teams or event empty rooms -> rearranging people creates overhead
-- Collaborative document 
-     - might crash or user errors
-     - Needs a few people to maintain / oversee
+     - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
+- We removed Zoom teams 
+     - Arranging people creates overhead
 
+- Many people:
+     - Difficult to get a common understanding
+     - Level of teaching: 
+          - All participants won't have the same prerequisites
+          - Always taking the novices into account leads all courses being basic course
+     - Meeting expectations: 
+          - Some want walkthrouhgs and some want proper problem-solving exercises
+     - How to know how people are doing?
+          - We don't see them, only the document
 
-- Meeting expectations: some want walkthrouhgs and some want proper problem-solving exercises
-- there will be more people with technical problems which leads to overhead in solving them
-- Difficult to achieve a common understanding on topics
-- Level of teaching: with massive courses all participants won't have the same prerequisite level
-     - Always taking the novices into account leads all courses being basic course
-- How to know how people are doing?
-     - We don't see them, only the document
 - Certificates: how do we assess what people have been done?
-- .emph[Coordination effort] starts to outweigh lesson preparation and teaching
 - Volunteer retention and building long lasting relationships takes effort
-- Over 30 instructors/speakers, Over 100 exercise leads (not in one event)
+     - There has been 30 instructors/speakers, Over 100 exercise leads (not in one event)
 
 ---
 
@@ -116,7 +112,11 @@ Computing".
 - New bottlenecks: 
      - The Q&A is actually the thing that we worry the most (not the stream so much)
           - We may have even 
+     - Collaborative document 
+          - might crash or user errors
+          - Needs a few people to maintain / oversee
 
+- there will be more people with technical problems which leads to overhead in solving them
 
 ---
 
