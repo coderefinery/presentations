@@ -102,26 +102,27 @@ Computing".
 - Many moving parts
 - Zoom + OBS
 - Sound levels have to be checked
+- New bottlenecks: 
+     - The Q&A is actually the thing that we worry the most (not the stream so much)
+          - We may have even 
+
 
 
 ---
 
-# Workshop arrangement
+# Scaling up
 
-     - Level of teaching: with massive courses all participants won't have the same prerequisite level
-     - Exercises: some want walkthrouhgs and some want proper problem-solving exercise
-     - One large WS vs. multiple smaller ((This could actually be the whole topic 🤓))
-          - Collection of topics vs. concise content
-          - a lot of work in a few weeks vs. some work throughout the year
-          - reserved almost whole weeks vs. occasional days
-          - longer days vs. shorter days
-     - Community and coordination
-          - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
-          - The importance of .emph[communicating value to organizations]
-          - .emph[Outreach and marketing] takes time and work
-          - Volunteer retention and building long lasting relationships takes effort
-          - Over 30 instructors/speakers, Over 100 exercise leads
-               - How to get them onboard every time?
+- Meeting expectations: some want walkthrouhgs and some want proper problem-solving exercises
+- there will be more people with technical problems which leads to overhead in solving them
+- Difficult to achieve a common understanding on topics
+- Level of teaching: with massive courses all participants won't have the same prerequisite level
+     - Always taking the novices into account leads all courses being basic course
+- How to know how people are doing?
+     - We don't see them, only the document
+- Certificates: how do we assess what people have been done?
+- .emph[Coordination effort] starts to outweigh lesson preparation and teaching
+- Volunteer retention and building long lasting relationships takes effort
+- Over 30 instructors/speakers, Over 100 exercise leads (not in one event)
 
 ---
 
@@ -143,7 +144,7 @@ Computing".
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
      style="width: 750px;"/>
-     
+
 ---
 
 ## Collaboration options
