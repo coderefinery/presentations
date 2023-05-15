@@ -40,7 +40,7 @@ class: center, middle
 
 <img src="img/participation_LECvsWS2.png"
      alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
-     style="height: 250px;"/>
+     style="height: 260px;"/>
 
 .cite[(c) Samantha Wittke]
 
@@ -60,7 +60,7 @@ Why reverse hybrid
 - This is actually scaling up!
 ---
 
-# Workshop preparation
+# Scaling up
 
 .center[
 <img src="img/CR_workshop_4-transparent.png"
@@ -84,10 +84,21 @@ Why reverse hybrid
      - Needs a few people to maintain / oversee
 
 
+- Meeting expectations: some want walkthrouhgs and some want proper problem-solving exercises
+- there will be more people with technical problems which leads to overhead in solving them
+- Difficult to achieve a common understanding on topics
+- Level of teaching: with massive courses all participants won't have the same prerequisite level
+     - Always taking the novices into account leads all courses being basic course
+- How to know how people are doing?
+     - We don't see them, only the document
+- Certificates: how do we assess what people have been done?
+- .emph[Coordination effort] starts to outweigh lesson preparation and teaching
+- Volunteer retention and building long lasting relationships takes effort
+- Over 30 instructors/speakers, Over 100 exercise leads (not in one event)
 
 ---
 
-# Workshop preparation – Technical side
+# Scaling up – Technical side
 
 
 <img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
@@ -106,23 +117,6 @@ Computing".
      - The Q&A is actually the thing that we worry the most (not the stream so much)
           - We may have even 
 
-
-
----
-
-# Scaling up
-
-- Meeting expectations: some want walkthrouhgs and some want proper problem-solving exercises
-- there will be more people with technical problems which leads to overhead in solving them
-- Difficult to achieve a common understanding on topics
-- Level of teaching: with massive courses all participants won't have the same prerequisite level
-     - Always taking the novices into account leads all courses being basic course
-- How to know how people are doing?
-     - We don't see them, only the document
-- Certificates: how do we assess what people have been done?
-- .emph[Coordination effort] starts to outweigh lesson preparation and teaching
-- Volunteer retention and building long lasting relationships takes effort
-- Over 30 instructors/speakers, Over 100 exercise leads (not in one event)
 
 ---
 
