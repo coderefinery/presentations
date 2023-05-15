@@ -38,17 +38,12 @@ class: center, middle
 [**Recordings in YouTube**](https://www.youtube.com/@coderefinery3414)  
 
 
-<img src="img/participation_LECvsWS.png"
+<img src="img/participation_LECvsWS2.png"
      alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
      style="height: 250px;"/>
 
-.left-column50[
 .cite[(c) Samantha Wittke]
-]
 
-.right-column50[
-This is actually scaling up!
-]
 
 ### Lecturer notes
 Why reverse hybrid
