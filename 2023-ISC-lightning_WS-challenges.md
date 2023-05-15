@@ -71,7 +71,7 @@ class: center, middle
 
 # CodeRefinery workshop: Reverse hybrid
 
-.left-column50[
+
 **Next workshop:** [Sep, 2023](https://coderefinery.org/workshops/upcoming/)
 
 **Typical format**: 
@@ -83,14 +83,12 @@ class: center, middle
 
 [**Lessons in CodeRefinery.org**](https://coderefinery.org/lessons/)  
 [**Recordings in YouTube**](https://www.youtube.com/@coderefinery3414)  
-]
 
-.right-column50[
-<img src="img/participate_single_10-transparent.png"
+
+<img src="img/participation_LECvsWS.png"
      alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
      style="height: 250px;"/>
 .cite[(c) Samantha Wittke]
-]
 
 
 ---
