@@ -42,29 +42,30 @@ class: center, middle
 
 <img src="img/participation_LECvsWS2.png"
      alt="Modes and benefits of participation in a CodeRefinery workshop for learners"
-     style="height: 260px;"/>
+     style="height: 280px;"/>
 
 .cite[(c) Samantha Wittke]
 
+---
 
-### Lecturer notes
-Why reverse hybrid
+## CodeRefinery workshop: Why Reverse hybrid
+
 - Issue with hybrid:
      - People onsite ≠ people online.
 - Large courses: 
-     - most students don't have time to ask a question f2f
-     - they chat with the teacher anyway
+     - Most students don't have time to ask a question f2f
+     - They online chat with the teacher anyway
 - Reverse hybrid:
-     - Teachers via video and chat
+     - Teachers via video and online chat
      - Students in onsite groups
      - Those who want interaction can get it
      - The course isn't bound to one location, anyone can attend.
-- This is actually scaling up!
-- First challenge: Explain how to join xD
+- It is actually scaling up!
+- First challenge: Explain how to join :D
+
 ---
 
 ## Scaling up – Technical side
-
 
 <img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
      alt="Streaming setup during Python for Scientific Computing"
@@ -73,13 +74,15 @@ Why reverse hybrid
 R. Darst's streaming setup during "Python for Scientific
 Computing".
 
+---
 
-### Lecturer notes
+### Scaling up – Technical side
+
 - Many moving parts
      - Zoom + OBS
-     - Handle audio and video in both
+     - Handling audio and video in both
      - Sound levels have to be checked
-     - Different scenes to screensharing, discussion, breaks
+     - Different scenes to screensharing, discussion, breaks…
 - New bottlenecks: 
      - The Q&A is actually the thing that we worry the most (not the stream so much)
           - We get up to 40 questions per hour
@@ -99,8 +102,10 @@ Computing".
 
 .cite[(c) Samantha Wittke]
 
+---
 
-### Lecturer notes
+### Scaling up – Arrangements
+
 - Many things also before and after
      - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
 - We removed Zoom teams 
@@ -121,7 +126,6 @@ Computing".
      - There has been 30 instructors/speakers, Over 100 exercise leads (not in one event)
 
 ---
-
 
 ## License and credit: CC-BY
 
