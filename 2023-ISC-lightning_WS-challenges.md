@@ -93,6 +93,7 @@ Computing".
           - Collaborative document might crash
           - User errors: someone selects all and delete…
           - Needs a few people to moderate
+          
      - More people -> more technical problems -> overhead in solving them
 
 ---
