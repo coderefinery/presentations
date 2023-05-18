@@ -50,21 +50,21 @@ class: center, middle
 
 ## CodeRefinery workshop: Why Reverse hybrid
 
-- Issue with hybrid:
+- **Issue with hybrid:**
      - People onsite ≠ people online.
 
-- Large courses: 
+- **Large courses:**
      - Most students don't have time to ask a question f2f
      - They online chat with the teacher anyway
 
-- Reverse hybrid:
+- **Reverse hybrid:**
      - Teachers via video and online chat
      - Students in onsite groups
      - Those who want interaction can get it
      - The course isn't bound to one location, anyone can attend.
 
-- It is actually scaling up!
-- First challenge: Explain how to join :D
+- *It is actually scaling up!*
+- **First challenge:** Explain how to join :D
 
 ---
 
@@ -82,16 +82,18 @@ Computing".
 ### Scaling up – Technical side
 
 - Many moving parts
-     - Zoom + OBS
-     - Handling audio and video in both
-     - Sound levels have to be checked
+     - Screenshare material and terminal / Jupyter
+     - Zoom + OBS: audio and video in both (mute, on/off…)
+     - Sound levels have to be checked with every speaker
      - Different scenes to screensharing, discussion, breaks…
+
 - New bottlenecks: 
-     - The Q&A is actually the thing that we worry the most (not the stream so much)
+     - What we worry the most: The Q&A document
           - We get up to 40 questions per hour
-          - Collaborative document might crash or user errors
-          - Needs a few people to maintain / oversee
-     - There will be more people with technical problems which leads to overhead in solving them
+          - Collaborative document might crash
+          - User errors: someone selects all and delete…
+          - Needs a few people to moderate
+     - More people -> more technical problems -> overhead in solving them
 
 ---
 
