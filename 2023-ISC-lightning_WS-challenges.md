@@ -136,11 +136,11 @@ Computing".
 
 ### Collaborators and inspiration
 
-- Radovan Bast (project manager – and whatever that might require)
-- Richard Darst (design of the current workshop streaming format, developed many [novel teaching techniques that we use](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view))
-- Samantha Wittke (graphics explaining the concepts, developed workshop on-boarding scheme)
-- Matias Jääskeläinen (workshop coordination)
-- CodeRefinery team
+- **Radovan Bast** (project manager – and whatever that might require)
+- **Richard Darst** (design of the current workshop streaming format, developed many [novel teaching techniques that we use](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view))
+- **Samantha Wittke** (graphics explaining the concepts, developed workshop on-boarding scheme)
+- **Matias Jääskeläinen** (workshop coordination)
+- **CodeRefinery team** (teaching, materials, everything)
 - [Aalto RSE group](https://scicomp.aalto.fi/rse/)
 - [Nordic-RSE](https://nordic-rse.org/)
 
@@ -152,7 +152,7 @@ Computing".
 
 ## Collaboration options
 
-- Use material, give feedback
+- **Use material**, give feedback
 - **Join workshop** as learner, observer or co-organiser
 
 ### News, support, and social media
