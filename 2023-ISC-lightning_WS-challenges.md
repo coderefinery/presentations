@@ -115,7 +115,7 @@ Computing".
 - **Preparation and afterwork**
      - *Coordination effort* > lesson preparation and teaching
      - *We removed Zoom teams*
-     - Volunteer retention and building long lasting relationships takes effort
+     - Volunteer retention and building lasting relationships takes effort
 
 - **More people:**
      - Level of teaching: 
@@ -134,12 +134,9 @@ Computing".
 
 ## License and credit: CC-BY
 
-### Credits to external references
-
-- Jet pilot: public domain. Captain and first officer: CC0. ATC tower: CC BY 2.0 (Peter R. Miller).
-
 ### Collaborators and inspiration
 
+- Radovan Bast (project manager – and whatever that might require)
 - Richard Darst (design of the current workshop streaming format, developed many [novel teaching techniques that we use](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view))
 - Samantha Wittke (graphics explaining the concepts, developed workshop on-boarding scheme)
 - Matias Jääskeläinen (workshop coordination)
