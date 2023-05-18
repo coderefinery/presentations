@@ -115,6 +115,7 @@ Computing".
 - **Preparation and afterwork**
      - *Coordination effort* > lesson preparation and teaching
      - *We removed Zoom teams*
+     - Volunteer retention and building long lasting relationships takes effort
 
 - **More people:**
      - Level of teaching: 
@@ -127,13 +128,7 @@ Computing".
      - How to ensure a common understanding about the topic
      - How to know how people are doing?
           - We don't see them, but the Q&A document
-
-
----
-
-- Certificates: how do we assess what people have been done?
-- Volunteer retention and building long lasting relationships takes effort
-     - There has been 30 instructors/speakers, Over 100 exercise leads (not in one event)
+     - Certificates: how do we assess what people have been done?
 
 ---
 
