@@ -52,14 +52,17 @@ class: center, middle
 
 - Issue with hybrid:
      - People onsite ≠ people online.
+
 - Large courses: 
      - Most students don't have time to ask a question f2f
      - They online chat with the teacher anyway
+
 - Reverse hybrid:
      - Teachers via video and online chat
      - Students in onsite groups
      - Those who want interaction can get it
      - The course isn't bound to one location, anyone can attend.
+
 - It is actually scaling up!
 - First challenge: Explain how to join :D
 
