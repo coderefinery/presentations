@@ -50,18 +50,21 @@ class: center, middle
 
 ## CodeRefinery workshop: Why Reverse hybrid
 
-- Issue with hybrid:
+- **Issue with hybrid:**
      - People onsite ≠ people online.
-- Large courses: 
+
+- **Large courses:**
      - Most students don't have time to ask a question f2f
      - They online chat with the teacher anyway
-- Reverse hybrid:
+
+- **Reverse hybrid:**
      - Teachers via video and online chat
      - Students in onsite groups
      - Those who want interaction can get it
      - The course isn't bound to one location, anyone can attend.
-- It is actually scaling up!
-- First challenge: Explain how to join :D
+
+- *It is actually scaling up!*
+- **First challenge:** Explain how to join :D
 
 ---
 
@@ -76,19 +79,22 @@ Computing".
 
 ---
 
-### Scaling up – Technical side
+## Scaling up – Technical side
 
-- Many moving parts
-     - Zoom + OBS
-     - Handling audio and video in both
-     - Sound levels have to be checked
+- **Many moving parts:**
+     - Screenshare material and terminal / Jupyter
+     - Zoom + OBS: audio and video in both (mute, on/off…)
+     - Sound levels have to be checked with every speaker
      - Different scenes to screensharing, discussion, breaks…
-- New bottlenecks: 
-     - The Q&A is actually the thing that we worry the most (not the stream so much)
+
+- **New bottlenecks:** 
+     - What we worry the most: The Q&A document
           - We get up to 40 questions per hour
-          - Collaborative document might crash or user errors
-          - Needs a few people to maintain / oversee
-     - There will be more people with technical problems which leads to overhead in solving them
+          - Collaborative document might crash
+          - User errors: someone selects all and delete…
+          - Needs a few people to moderate
+
+     - *More people* -> more technical problems -> overhead in solving them
 
 ---
 
@@ -104,53 +110,49 @@ Computing".
 
 ---
 
-### Scaling up – Arrangements
+## Scaling up – Challenges
 
-- Many things also before and after
-     - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
-- We removed Zoom teams 
-     - Arranging people creates overhead
+- **Preparation and afterwork**
+     - *Coordination effort* > lesson preparation and teaching
+     - *We removed Zoom teams*
+     - Volunteer retention and building lasting relationships takes effort
 
-- Many people:
-     - Difficult to get a common understanding
+- **More people:**
      - Level of teaching: 
-          - All participants won't have the same prerequisites
-          - Always taking the novices into account leads all courses being basic course
+          - No common prerequisite level
+          - Take the novices into account -> Again a basic course
      - Meeting expectations: 
-          - Some want walkthrouhgs and some want proper problem-solving exercises
-     - How to know how people are doing?
-          - We don't see them, only the document
+          - Walkthrouhgs vs. proper problem-solving exercises
 
-- Certificates: how do we assess what people have been done?
-- Volunteer retention and building long lasting relationships takes effort
-     - There has been 30 instructors/speakers, Over 100 exercise leads (not in one event)
+- **Remote people:**
+     - How to ensure a common understanding about the topic
+     - How to know how people are doing?
+          - We don't see them, but the Q&A document
+     - Certificates: how do we assess what people have been done?
 
 ---
 
 ## License and credit: CC-BY
 
-### Credits to external references
-
-- Jet pilot: public domain. Captain and first officer: CC0. ATC tower: CC BY 2.0 (Peter R. Miller).
-
 ### Collaborators and inspiration
 
-- Richard Darst (design of the current workshop streaming format, developed many [novel teaching techniques that we use](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view))
-- Samantha Wittke (graphics explaining the concepts, developed workshop on-boarding scheme)
-- Matias Jääskeläinen (workshop coordination)
-- CodeRefinery team
+- **Radovan Bast** (project manager – and whatever that might require)
+- **Richard Darst** (design of the current workshop streaming format, developed many [novel teaching techniques that we use](https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view))
+- **Samantha Wittke** (graphics explaining the concepts, developed workshop on-boarding scheme)
+- **Matias Jääskeläinen** (workshop coordination)
+- **CodeRefinery team** (teaching, materials, everything)
 - [Aalto RSE group](https://scicomp.aalto.fi/rse/)
 - [Nordic-RSE](https://nordic-rse.org/)
 
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
-     style="width: 750px;"/>
+     style="width: 750px; vertical-align: bottom;"/>
 
 ---
 
 ## Collaboration options
 
-- Use material, give feedback
+- **Use material**, give feedback
 - **Join workshop** as learner, observer or co-organiser
 
 ### News, support, and social media
