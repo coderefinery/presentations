@@ -146,7 +146,7 @@ Computing".
 
 <img src="img/CR_partners.png"
      alt="logos of CodeRefinery partners"
-     style="width: 750px;"/>
+     style="width: 750px; vertical-align: bottom;"/>
 
 ---
 
