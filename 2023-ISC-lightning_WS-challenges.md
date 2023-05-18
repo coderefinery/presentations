@@ -79,22 +79,22 @@ Computing".
 
 ---
 
-### Scaling up – Technical side
+## Scaling up – Technical side
 
-- Many moving parts
+- **Many moving parts:**
      - Screenshare material and terminal / Jupyter
      - Zoom + OBS: audio and video in both (mute, on/off…)
      - Sound levels have to be checked with every speaker
      - Different scenes to screensharing, discussion, breaks…
 
-- New bottlenecks: 
+- **New bottlenecks:** 
      - What we worry the most: The Q&A document
           - We get up to 40 questions per hour
           - Collaborative document might crash
           - User errors: someone selects all and delete…
           - Needs a few people to moderate
-          
-     - More people -> more technical problems -> overhead in solving them
+
+     - *More people* -> more technical problems -> overhead in solving them
 
 ---
 
@@ -110,22 +110,26 @@ Computing".
 
 ---
 
-### Scaling up – Arrangements
+## Scaling up – Challenges
 
-- Many things also before and after
-     - .emph[Coordination effort] starts to outweigh lesson preparation and teaching
-- We removed Zoom teams 
-     - Arranging people creates overhead
+- **Preparation and afterwork**
+     - *Coordination effort* > lesson preparation and teaching
+     - *We removed Zoom teams*
 
-- Many people:
-     - Difficult to get a common understanding
+- **More people:**
      - Level of teaching: 
-          - All participants won't have the same prerequisites
-          - Always taking the novices into account leads all courses being basic course
+          - No common prerequisite level
+          - Take the novices into account -> Again a basic course
      - Meeting expectations: 
-          - Some want walkthrouhgs and some want proper problem-solving exercises
+          - Walkthrouhgs vs. proper problem-solving exercises
+
+- **Remote people:**
+     - How to ensure a common understanding about the topic
      - How to know how people are doing?
-          - We don't see them, only the document
+          - We don't see them, but the Q&A document
+
+
+---
 
 - Certificates: how do we assess what people have been done?
 - Volunteer retention and building long lasting relationships takes effort
