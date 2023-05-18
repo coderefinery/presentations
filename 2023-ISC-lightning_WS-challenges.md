@@ -9,10 +9,11 @@ class: center, middle
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
-     style="height: 140px;"/>
+     style="height: 140px; margin-right: 100px;"/>
 <img src="img/Flashtalk_ISC23_QR.png"
      alt="QR-code to this presentation"
      style="height: 140px;"/>
+
 
 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
   <img src="img/cc-by-icon.svg"
