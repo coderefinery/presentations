@@ -103,18 +103,7 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 
 ---
 
-.left-column50[
-## How you or your organization can participate
 
-- **Join as observer** and give feedback and suggestions
-
-- Send one or more exercise teams
-
-- Co-organize, co-create, **co-teach** with us
-]
-
-
-.right-column50[
 ## News, support and social media
 
 - Blog: https://coderefinery.org/blog/
@@ -123,8 +112,6 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 - Mastodon: https://fosstodon.org/@coderefinery
 - Chat: https://coderefinery.zulipchat.com
 - Support: support@coderefinery.org
-]
-
 
 <br>
 
