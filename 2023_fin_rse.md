@@ -113,6 +113,7 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 
 <br>
 
+.right-column50[
 ## News, support and social media
 
 - Blog: https://coderefinery.org/blog/
@@ -121,6 +122,7 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 - Mastodon: https://fosstodon.org/@coderefinery
 - Chat: https://coderefinery.zulipchat.com
 - Support: support@coderefinery.org
+]
 
 ## Other RSE educational resources
 
