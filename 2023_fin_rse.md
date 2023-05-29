@@ -103,6 +103,7 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 
 ---
 
+.left-column50[
 ## How you or your organization can participate
 
 - **Join as observer** and give feedback and suggestions
@@ -110,8 +111,8 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 - Send one or more exercise teams
 
 - Co-organize, co-create, **co-teach** with us
+]
 
-<br>
 
 .right-column50[
 ## News, support and social media
@@ -123,6 +124,9 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document**
 - Chat: https://coderefinery.zulipchat.com
 - Support: support@coderefinery.org
 ]
+
+
+<br>
 
 ## Other RSE educational resources
 
