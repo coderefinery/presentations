@@ -23,7 +23,7 @@ TODO: Bulletpoints all start with uppercase?
 TODO: slide numbers?
 TODO: References and Collaborators
 TODO: emphasize main takeaway lesson
-
+TODO: NordicRSE advertisement? -> unconference dates and ongoing efforts?
 
 
 ---
@@ -191,6 +191,9 @@ It takes effort to:
 - Instead of "good for others": ".emph[good for your future you] and as side
   effect good for others"
 
+TODO: make nicer
+TODO: is this all? -> What do we want to communicate?
+
 ---
 
 
@@ -216,6 +219,9 @@ It takes effort to:
      style="height: 140px;"/>
 ]
 
+TODO: check if  these are up to date
+TODO: How would we want collaboration with similar projects to look like?
+
 ---
 
 ## How you or your organization can participate
@@ -233,6 +239,8 @@ It takes effort to:
 - **Join as observer** to see how we teach and organize
 - Co-organize, co-create, **co-teach** with us
 
+TODO: check these points, what do we want/need?
+
 ---
 
 ## News, support and social media
@@ -243,3 +251,6 @@ It takes effort to:
 - Mastodon: https://fosstodon.org/@coderefinery
 - Chat: https://coderefinery.zulipchat.com
 - Support: support@coderefinery.org
+
+
+TODO: Mention about meeting summary toots?
