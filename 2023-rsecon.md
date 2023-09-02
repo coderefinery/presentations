@@ -91,16 +91,11 @@ TODO: Show lesson topics as questions a researcher may have along the journey of
 
 # Lessons
 
-- Sphinx format with all markdown, no slides
-- Multi-collaborator effort
-- built around exercises, minimum one larger exercise per lesson
-- solutions in dropdown
-- discussion suggestions
-- instructor guide
-- making things citable is WIP
+<img src="img/testing_lesson_screenshot.png" style="width: 350px;"/>
 
-TODO: less text
-TODO: add nice lesson screenshot, maybe leave out extra text and explain on lesson page directly?
+
+TODO: Presenternotes: Sphinx format with all markdown, no slides, multi-collaborator effort, built around exercises, minimum one larger exercise per lesson, solutions in dropdown, discussion suggestions, instructor guide, making things citable is WIP
+
 
 --- 
 
@@ -124,7 +119,7 @@ TODO: somehow tell the story on how this evolved? Maybe one more slide?
 
 - interactivity: collaborative document (ananymous,parallel, asynchronous..)
 
-TODO: show this slide as screenshot from collaborative doc, info, questions and poll
+TODO: show this slide as screenshot from collaborative doc, info, questions and poll, maybe as small slide by slide animation?
 
 ---
 
@@ -139,6 +134,17 @@ TODO: helper role up to date?
 TODO: satellite events?
 TODO: clarify individuals in team (zoom vs in-person)
 
+---
+
+# Bring your own classroom
+
+
+.center[
+<img src="img/bring_your_own_classroom.png" style="height: 450px;"/>
+]
+.cite[(c) Samantha Wittke]
+
+TODO: create image
 ---
 
 # Workshop stats
@@ -221,6 +227,7 @@ TODO: is this all? -> What do we want to communicate?
 
 TODO: check if  these are up to date
 TODO: How would we want collaboration with similar projects to look like?
+TODO: Future of our workshops vs future of coderefinery, separate or focus on one?
 
 ---
 
