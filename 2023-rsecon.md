@@ -176,26 +176,22 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 # What we have learned 
 
-It takes effort to:
+## About motivating/teaching
 
-- coordinate a workshop, more than actual lesson preparation and teaching
-
-- reach out and do marketing efficiently
-
-- keep volunteers on and build long lasting relationships
-
-<br>
-<br>
-
-- The importance of .emph[communicating value to organizations]
-
-- .emph[Good enough practices] that are used better than perfect practices not
+- .emph[Good enough practices] better than perfect practices not
   applied
 
 - Instead of "good for others": ".emph[good for your future you] and as side
   effect good for others"
 
 
+## About scaling
+
+- .emph[Installation instructions and on-boarding] become more important
+
+- We don't "see" classrooms -> .emph[feedback mechanism] in Q&A doc
+
+- Make exercises longer to .emph[give classrooms the chance to interact]
 
 ---
 
