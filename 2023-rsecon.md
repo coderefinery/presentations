@@ -195,30 +195,29 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 ---
 
+.left-column50[
+### Future: Organization
 
-## Future
+- Communicate value for volunteers and organizations
 
-.left-column70[
-- Towards being a non-profit or closer to a legal entity so that we can
-  participate in funding applications
-
-- More collaboration with similar projects
-
-- Research groups can send their students and helpers to us instead of
+- Research groups send their students to us instead of
   creating isolated material
 
-- Easier to participate as individual or organization, even short-term
+- More collaboration with similar projects ("helper exchange program")
 
-- Offer value for volunteers
+- Towards non-profit organization so that we can
+  participate in funding applications
 ]
 
-.right-column30[
-<img src="img/coderefinery.png"
-     alt="CodeRefinery logo"
-     style="height: 140px;"/>
+.right-column50[
+### Teaching format
+
+- Continue large-scale workshops
+
+- Support local events
+
+- More asynchronous content coupled with online events
 ]
-
-
 
 ---
 
