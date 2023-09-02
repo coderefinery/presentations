@@ -1,19 +1,14 @@
+class: center, middle, gray-background
 
-.center[
-<img src="img/coderefinery.png" style="height: 300px;"/>
+<img src="img/coderefinery.png" style="height: 250px;"/>
 
 # Experiences from teaching basic RSE skills with CodeRefinery
 
-<br>
-
 Samantha Wittke, CSC - IT center for science, Finland
-Radovan Bast, UiT - The arcic university of Norway
 
-RSECon 2023, Swansea
-]
+Radovan Bast, UiT - The Arcic University of Norway
 
-
-
+### RSECon 2023, Swansea
 
 ---
 
