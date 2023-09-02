@@ -93,11 +93,37 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 ---
 
-# Collaborative document
+# Collaborative document: Markdown
 
-- interactivity: collaborative document (ananymous,parallel, asynchronous..)
+<img src="img/collaborative-document/title.png"
+     alt="Screenshot of exercise title and links on collaborative document"
+     style="width: 100%;" />
 
-T
+---
+
+## Interactive, anonymous, parallel, asynchronous
+
+<img src="img/collaborative-document/question.png"
+     alt="Screenshot of question being asked on collaborative document"
+     style="width: 100%;" />
+
+---
+
+## New question every 1-2 minutes!
+
+<img src="img/collaborative-document/answers.png"
+     alt="Screenshot of answers appearing on collaborative document"
+     style="width: 100%;" />
+
+---
+
+## ASCII-graph feedback
+
+<img src="img/collaborative-document/feedback.png"
+     alt="Screenshot of feedback about whether speed is OK"
+     style="width: 100%;" />
+
+We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-03-21-workshop/questions/)
 
 ---
 
