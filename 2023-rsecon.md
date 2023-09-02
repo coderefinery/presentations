@@ -12,18 +12,7 @@ Radovan Bast, UiT - The arcic university of Norway
 RSECon 2023, Swansea
 ]
 
-General:
-TODO: reduce text
-TODO: improve story -> use slide titles
-TODO: fix formatting
-TODO: fill in statistics numbers
-TODO: check for consistency
-TODO: check text for typos and grammar
-TODO: Bulletpoints all start with uppercase?
-TODO: slide numbers?
-TODO: References and Collaborators
-TODO: emphasize main takeaway lesson
-TODO: NordicRSE advertisement? -> unconference dates and ongoing efforts?
+
 
 
 ---
@@ -57,7 +46,7 @@ TODO: NordicRSE advertisement? -> unconference dates and ongoing efforts?
 ]
 
 
-TODO: If time, split into what CR is and what we do?
+
 
 ---
 
@@ -85,7 +74,6 @@ TODO: If time, split into what CR is and what we do?
 ]
 
 
-TODO: Show lesson topics as questions a researcher may have along the journey of writing research code? Some kind of visual would be nice (WIP)
 
 ---
 
@@ -94,7 +82,7 @@ TODO: Show lesson topics as questions a researcher may have along the journey of
 <img src="img/testing_lesson_screenshot.png" style="width: 350px;"/>
 
 
-TODO: Presenternotes: Sphinx format with all markdown, no slides, multi-collaborator effort, built around exercises, minimum one larger exercise per lesson, solutions in dropdown, discussion suggestions, instructor guide, making things citable is WIP
+
 
 
 --- 
@@ -106,12 +94,7 @@ TODO: Presenternotes: Sphinx format with all markdown, no slides, multi-collabor
 ]
 .cite[(c) Samantha Wittke]
 
-TODO: remove survey? ; 
-TODO: add possible post hackathon ?; 
-TODO: add instructor onboarding (screenshare, lesson prep,...); 
-TODO: add writing retreat ?
-TODO: add recordings ?
-TODO: somehow tell the story on how this evolved? Maybe one more slide? 
+
 
 ---
 
@@ -119,37 +102,7 @@ TODO: somehow tell the story on how this evolved? Maybe one more slide?
 
 - interactivity: collaborative document (ananymous,parallel, asynchronous..)
 
-TODO: show this slide as screenshot from collaborative doc, info, questions and poll, maybe as small slide by slide animation?
-
-TODO: Example text to copy to hedgedoc:
-
-  ## Exercise: recording changes
-
-  https://coderefinery.github.io/git-intro/basics/#exercise-record-changes
-
-  :::info
-
-      Until xx:10, after that break until xx:20
-      Goal: introduce two new changes, experiment with "git diff", and commit the two changes separately
-      There are optional exercise below :::
-
-  Questions about exercises continue here:
-
-  - What is the difference between git branch <branch-name> and git checkout -b <branch-name>? Are they the same or is it a good practice to favor one over the other?
-
-      - the first makes branch but doesn't switch to it. the second makes+switches. Depends on what you need, I use both in different cases.
-      - The checkout command can be used to checkout an arbitrary commit without switching branch. But in this use-case they do the same thing.
-      - To add to the options there is also git switch -c branch_name ('-c' for "create")... Focus on getting proficient with one option.
-
-
-  How is the speed so far for all (add an "o")?
-
-      too fast: oooooooO
-      too slow:
-      just right: ooo
-      not sure what I should do now:
-      need a break soon (we will take breaks):
-      Speed is good but I know most of it already so far: ooooooo
+T
 
 ---
 
@@ -160,9 +113,6 @@ TODO: Example text to copy to hedgedoc:
 ]
 .cite[(c) Samantha Wittke]
 
-TODO: helper role up to date?
-TODO: satellite events?
-TODO: clarify individuals in team (zoom vs in-person)
 
 ---
 
@@ -172,9 +122,9 @@ TODO: clarify individuals in team (zoom vs in-person)
 .center[
 <img src="img/bring_your_own_classroom.png" style="height: 450px;"/>
 ]
-.cite[(c) Samantha Wittke]
 
-TODO: create image
+
+
 ---
 
 # Workshop stats
@@ -187,9 +137,6 @@ TODO: create image
 - > on average xx questions per lesson
 - all career stages and titles
 
-TODO: fill in numbers
-TODO: more interesting numbers, or reduce to most important?
-TODO: show these maybe as speech bubbles or some other way, 
 
 ---
 
@@ -202,7 +149,7 @@ TODO: show these maybe as speech bubbles or some other way,
   and vice versa
 - Teach together
 
-TODO: some map? (maybe where teachers are from?)
+
 
 ---
 
@@ -227,8 +174,7 @@ It takes effort to:
 - Instead of "good for others": ".emph[good for your future you] and as side
   effect good for others"
 
-TODO: make nicer
-TODO: is this all? -> What do we want to communicate?
+
 
 ---
 
@@ -255,9 +201,7 @@ TODO: is this all? -> What do we want to communicate?
      style="height: 140px;"/>
 ]
 
-TODO: check if  these are up to date
-TODO: How would we want collaboration with similar projects to look like?
-TODO: Future of our workshops vs future of coderefinery, separate or focus on one?
+
 
 ---
 
@@ -276,8 +220,6 @@ TODO: Future of our workshops vs future of coderefinery, separate or focus on on
 - **Join as observer** to see how we teach and organize
 - Co-organize, co-create, **co-teach** with us
 
-TODO: check these points, what do we want/need?
-
 ---
 
 ## News, support and social media
@@ -290,4 +232,3 @@ TODO: check these points, what do we want/need?
 - Support: support@coderefinery.org
 
 
-TODO: Mention about meeting summary toots?
