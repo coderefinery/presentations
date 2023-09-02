@@ -121,6 +121,36 @@ TODO: somehow tell the story on how this evolved? Maybe one more slide?
 
 TODO: show this slide as screenshot from collaborative doc, info, questions and poll, maybe as small slide by slide animation?
 
+TODO: Example text to copy to hedgedoc:
+
+  ## Exercise: recording changes
+
+  https://coderefinery.github.io/git-intro/basics/#exercise-record-changes
+
+  :::info
+
+      Until xx:10, after that break until xx:20
+      Goal: introduce two new changes, experiment with "git diff", and commit the two changes separately
+      There are optional exercise below :::
+
+  Questions about exercises continue here:
+
+  - What is the difference between git branch <branch-name> and git checkout -b <branch-name>? Are they the same or is it a good practice to favor one over the other?
+
+      - the first makes branch but doesn't switch to it. the second makes+switches. Depends on what you need, I use both in different cases.
+      - The checkout command can be used to checkout an arbitrary commit without switching branch. But in this use-case they do the same thing.
+      - To add to the options there is also git switch -c branch_name ('-c' for "create")... Focus on getting proficient with one option.
+
+
+  How is the speed so far for all (add an "o")?
+
+      too fast: oooooooO
+      too slow:
+      just right: ooo
+      not sure what I should do now:
+      need a break soon (we will take breaks):
+      Speed is good but I know most of it already so far: ooooooo
+
 ---
 
 # Participating as a learner
