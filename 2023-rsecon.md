@@ -224,17 +224,15 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 ## How you or your organization can participate
 
 .center[
-<img src="img/participate_organization_7-transparent.png" style="height: 300px;"/>
+<img src="img/participate_organization.png" style="height: 300px;"/>
 ]
 
 .cite[(c) Samantha Wittke]
 
-.emph[Next workshop] September 19-21 and 26-28, 2023, register here: https://coderefinery.github.io/2023-09-19-workshop/
-
-- Use our material and give feedback
+- **Join our next workshop** September 19-21 and 26-28, 2023: https://coderefinery.github.io/2023-09-19-workshop/
 - Send one or more **exercise teams**
 - **Join as observer** to see how we teach and organize
-- Co-organize, co-create, **co-teach** with us
+- Use our material and give feedback
 
 ---
 
