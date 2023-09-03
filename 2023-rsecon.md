@@ -235,7 +235,12 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
      style="height: 200px;"/>
 
 ---
+class: center, middle, inverse
 
-# Nordic RSE Unconference 2023
+# [Nordic RSE](https://nordic-rse.org/) Unconference 2023
 
-(wip)
+## Theme: "Hidden gems and paper cuts"
+
+October 25 - 26, online, afternoons (CET)
+
+https://nordic-rse.org/events/2023-online-unconference/
