@@ -101,7 +101,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 ---
 
-# Interactive, anonymous, parallel, asynchronous
+# Interactive, anonymous, parallel, async
 
 <img src="img/collaborative-document/question.png"
      alt="Screenshot of question being asked on collaborative document"
