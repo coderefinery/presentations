@@ -16,9 +16,8 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 # Team and project: [coderefinery.org](https://coderefinery.org/)
 
-- a hub for FAIR research software practices
-
 .left-column50[
+- A hub for FAIR research software practices
 - Since 2016, now **phase 3 until 2025**
 - Currently funded by NeiC
 - Pioneering teaching methods
@@ -35,13 +34,10 @@ Radovan Bast, UiT - The Arcic University of Norway
      style="width: 750px;"/>
 ]
 
-.right-column50_center[
-<br>
-<br>
-
+.right-column50[
 <img src="img/pyramid.png"
      alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
-     style="width: 350px;"/>
+     style="width: 420px;"/>
 ]
 
 ---
@@ -148,14 +144,14 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 # Collaboration across funding borders
 
-- current team: in-person contributions to the project + volunteers
+(this slide will be reworked)
+
+- Current team: in-person contributions to the project + volunteers
 - Cross-advertise
 - Link to material
 - We would like to encourage our project members to help out at other workshops
   and vice versa
 - Teach together
-
-
 
 ---
 
