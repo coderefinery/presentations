@@ -222,7 +222,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 ---
 
-# How to get in touch
+# We try to make it easy to join
 
 - **Join our next workshop** September 19-21 and 26-28, 2023: https://coderefinery.github.io/2023-09-19-workshop/
 
