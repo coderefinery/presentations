@@ -239,8 +239,8 @@ class: center, middle, inverse
 
 # [Nordic RSE](https://nordic-rse.org/) Unconference 2023
 
-## Theme: "Hidden gems and paper cuts"
+## Theme: "&#128142; Hidden gems and paper cuts &#129657;"
 
-October 25 - 26, online, afternoons (CET)
+October 25 - 26, online, afternoon (CET)
 
 https://nordic-rse.org/events/2023-online-unconference/
