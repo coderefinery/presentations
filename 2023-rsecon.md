@@ -101,7 +101,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 ---
 
-## Interactive, anonymous, parallel, asynchronous
+# Interactive, anonymous, parallel, asynchronous
 
 <img src="img/collaborative-document/question.png"
      alt="Screenshot of question being asked on collaborative document"
@@ -109,7 +109,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 ---
 
-## New question every 1-2 minutes!
+# New question every 1-2 minutes!
 
 <img src="img/collaborative-document/answers.png"
      alt="Screenshot of answers appearing on collaborative document"
@@ -117,7 +117,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 ---
 
-## ASCII-graph feedback
+# ASCII-graph feedback
 
 <img src="img/collaborative-document/feedback.png"
      alt="Screenshot of feedback about whether speed is OK"
@@ -190,7 +190,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 ---
 
 .left-column50[
-### Future: Organization
+## Future: Organization
 
 - Communicate value for volunteers and organizations
 
@@ -204,7 +204,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 ]
 
 .right-column50[
-### Teaching format
+## Teaching format
 
 - Continue large-scale workshops
 
