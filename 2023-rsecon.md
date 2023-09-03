@@ -128,13 +128,21 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 # Workshop stats
 
-- > XX workshops in total
-- > 2000 persons trained in total
-- > 30 instructors/speakers
-- > 100 exercise leads
-- all career stages and titles
+.left-column50[
+- [7 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
 
-- ~100 questions per workshop day
+- We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
+
+- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
+
+- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
+]
+
+.right-column50[
+<img src="img/twitch-statistics.png"
+     alt="Twitch viewing statistics for an online workshop over the course of 6 workshop days"
+     style="width: 100%;"/>
+]
 
 ---
 
