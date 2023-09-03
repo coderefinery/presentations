@@ -153,7 +153,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 <img src="img/atc.jpg"
      alt="Air traffic control tower"
      style="height: 200px;"/>
-<img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
+<img src="img/monitor-setup.jpg"
      alt="Streaming setup during Python for Scientific Computing"
      style="height: 200px;"/>
 
