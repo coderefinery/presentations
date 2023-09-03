@@ -1,6 +1,8 @@
 class: center, middle, gray-background
 
-<img src="img/coderefinery.png" style="height: 250px;"/>
+<img src="img/coderefinery.png"
+     alt="CodeRefinery logo"
+     style="height: 250px;"/>
 
 # Experiences from teaching basic RSE skills with CodeRefinery
 
@@ -28,16 +30,18 @@ Radovan Bast, UiT - The Arcic University of Norway
 - Community
 
 **Partners**:
-<img src="img/CR_partners.png" style="width: 750px;"/>
-
+<img src="img/CR_partners.png"
+     alt="CodeRefinery partner logos"
+     style="width: 750px;"/>
 ]
 
 .right-column50_center[
 <br>
 <br>
 
-
-<img src="img/pyramid.png" style="width: 350px;"/>
+<img src="img/pyramid.png"
+     alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
+     style="width: 350px;"/>
 ]
 
 ---
@@ -52,18 +56,18 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 # Lessons
 
-<img src="img/testing_lesson_screenshot.png" style="width: 350px;"/>
-
-
-
-
+<img src="img/testing_lesson_screenshot.png"
+     alt="Screenshot of a lesson in Sphinx format"
+     style="width: 350px;"/>
 
 ---
 
 # Workshop setup
 
 .center[
-<img src="img/pre_post_workshop.png" style="height: 450px;"/>
+<img src="img/pre_post_workshop.png"
+     alt="Graphics that summarizes what happens before, during, and after a workshop: on-boarding sessions and debriefing"
+     style="height: 450px;"/>
 ]
 
 ---
@@ -105,15 +109,19 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 # Participating as a learner
 
 .center[
-<img src="img/lesson+exercises.png" style="width: 100%;"/>
+<img src="img/lesson+exercises.png"
+     alt="How to participate as learner: learners follow the live stream and collaborative document and participate in exercises"
+     style="width: 100%;"/>
 ]
 
-
 ---
+
 # Exercise options
 
 .center[
-<img src="img/exercise_options.png" style="height: 450px;"/>
+<img src="img/exercise_options.png"
+     alt="Graphics that summarizes options how to participate in exercises: on your own or with a pre-formed team or self-organized zoom"
+     style="height: 450px;"/>
 ]
 
 ---
@@ -193,7 +201,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 ## How you or your organization can participate
 
 .center[
-<img src="img/participate_organization.png" style="height: 370px;"/>
+<img src="img/participate_organization.png"
+     alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or helpers or through in-kind support"
+     style="height: 370px;"/>
 ]
 
 - **Join our next workshop** September 19-21 and 26-28, 2023: https://coderefinery.github.io/2023-09-19-workshop/
