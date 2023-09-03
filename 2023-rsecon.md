@@ -4,7 +4,7 @@ class: center, middle, gray-background
 
 # Experiences from teaching basic RSE skills with CodeRefinery
 
-Samantha Wittke, CSC - IT center for science, Finland
+Samantha Wittke, CSC - IT Center for Science, Finland
 
 Radovan Bast, UiT - The Arcic University of Norway
 
