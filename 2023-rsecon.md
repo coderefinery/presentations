@@ -56,6 +56,13 @@ Radovan Bast, UiT - The Arcic University of Norway
      alt="Screenshot of a lesson in Sphinx format"
      style="width: 350px;"/>
 
+<!--
+Sphinx format with all markdown, no slides, multi-collaborator effort, built
+around exercises, minimum one larger exercise per lesson, solutions in
+dropdown, discussion suggestions, instructor guide, making things citable is
+WIP, ...
+-->
+
 ---
 
 # Workshop setup
