@@ -130,7 +130,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 # Participating as a learner
 
 .center[
-<img src="img/lesson+exercises.png" style="height: 450px;"/>
+<img src="img/lesson+exercises.png" style="width: 100%;"/>
 ]
 
 
