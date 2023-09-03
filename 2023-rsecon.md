@@ -85,7 +85,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 # Workshop setup
 
 .center[
-<img src="img/CR_workshop.png" style="height: 450px;"/>
+<img src="img/pre_post_workshop.png" style="height: 450px;"/>
 ]
 .cite[(c) Samantha Wittke]
 
@@ -130,34 +130,27 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 # Participating as a learner
 
 .center[
-<img src="img/participate_single_10-transparent.png" style="height: 450px;"/>
+<img src="img/lesson+exercises.png" style="height: 450px;"/>
 ]
-.cite[(c) Samantha Wittke]
 
 
 ---
-
-# Bring your own classroom
-
+# Exercise options
 
 .center[
-<img src="img/bring_your_own_classroom.png" style="height: 450px;"/>
+<img src="img/exercise_options.png" style="height: 450px;"/>
 ]
-
-
 
 ---
 
 # Workshop stats
 
-- > 2000 persons trained
+- > 2000 persons trained in total
 - > 30 instructors/speakers
 - > 100 exercise leads
-- > XX in-person satellite events
-- > XX different nationalities
-- > on average xx questions per lesson
 - all career stages and titles
 
+- ~100 questions per workshop day
 
 ---
 
