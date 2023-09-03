@@ -238,12 +238,21 @@ Co-advertize and co-organize with us
 
 ---
 
-# Credits
+# Credits and license
+
+## Text
+
+- All text: CodeRefinery project, CC-BY 4.0
+
 
 ## Images
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slide 1: ATC tower, Peter R. Miller, CC-BY 2.0
+- Slides 5, 10, 11, 16: S. Wittke
+- Slide 13: ATC tower, P. R. Miller, CC-BY 2.0
+- Slide 13: Monitor setup, R. Darst
+- Slide 13: Logos, (c) respective organizations
+- All other images: CodeRefinery project, CC-BY 4.0
 
 ---
 
