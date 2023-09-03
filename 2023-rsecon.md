@@ -40,35 +40,13 @@ Radovan Bast, UiT - The Arcic University of Norway
 <img src="img/pyramid.png" style="width: 350px;"/>
 ]
 
-
-
-
 ---
 
-# Course portfolio: it's all CC-BY
+<img src="img/reproducible-research.jpg"
+     alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing computing environment, publishing cresearch outputs"
+     style="height: 550px;"/>
 
-
-.left-column50[
-- Version control
-- Collaboration using Git
-- Testing
-- Documentation
-- Notebooks
-- Modular code development
-- Reproducible research
-- Software licensing
-- Sharing and publishing code
-- File organization
-- **...**
-]
-
-.right-column50[
-**Next workshop** September 19-21 and 26-28, 2023, register here: https://coderefinery.github.io/2023-09-19-workshop/
-
-**Lessons and recordings:** https://coderefinery.org/lessons/
-]
-
-
+.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
 
 ---
 
@@ -219,19 +197,35 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 ]
 
 - **Join our next workshop** September 19-21 and 26-28, 2023: https://coderefinery.github.io/2023-09-19-workshop/
-- Send one or more **exercise teams**
-- **Join as observer** to see how we teach and organize
+- Send one or more **exercise teams** or **join as observer**
 - Use our material and give feedback
 
 ---
 
-## News, support and social media
+# Collaborators and reusing
 
-- Blog: https://coderefinery.org/blog/
-- Newsletter: https://tinyletter.com/coderefinery
-- Twitter: https://twitter.com/coderefine
-- Mastodon: https://fosstodon.org/@coderefinery
-- Chat: https://coderefinery.zulipchat.com
-- Support: support@coderefinery.org
+...
 
+---
 
+# How to get in touch
+
+- **Join our next workshop** September 19-21 and 26-28, 2023: https://coderefinery.github.io/2023-09-19-workshop/
+
+- **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
+
+- [Blog](https://coderefinery.org/blog/),
+  [Newsletter](https://tinyletter.com/coderefinery),
+  [Twitter](https://twitter.com/coderefine),
+  [Mastodon](https://fosstodon.org/@coderefinery),
+  [Support](support@coderefinery.org)
+
+<img src="img/weekly-toot.png"
+     alt="Screenshot of a weekly team meeting summary posted on Mastodon"
+     style="height: 200px;"/>
+
+---
+
+# Nordic RSE Unconference 2023
+
+(wip)
