@@ -80,7 +80,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 
 
---- 
+---
 
 # Workshop setup
 
@@ -168,7 +168,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 ---
 
-# What we have learned 
+# What we have learned
 
 ## About motivating/teaching
 
