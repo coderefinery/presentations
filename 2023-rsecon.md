@@ -17,21 +17,20 @@ Radovan Bast, UiT - The Arcic University of Norway
 # Team and project: [coderefinery.org](https://coderefinery.org/)
 
 .left-column50[
+### What we are
+
 - A hub for FAIR research software practices
 - Since 2016, now **phase 3 until 2025**
 - Currently funded by NeiC
-- Pioneering teaching methods
-- Working in public
-- Lesson material
-- Video recordings
-- Manuals
 - Training network
 - Community
 
-**Partners**:
-<img src="img/CR_partners.png"
-     alt="CodeRefinery partner logos"
-     style="width: 750px;"/>
+
+### What we do
+
+- We teach and co-organize
+- Share lessons, video recordings, manuals
+- All open source
 ]
 
 .right-column50[
@@ -151,14 +150,30 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 # Collaboration across funding borders
 
-(this slide will be reworked)
+<img src="img/atc.jpg"
+     alt="Air traffic control tower"
+     style="height: 200px;"/>
+<img src="https://github.com/coderefinery/manuals/raw/master/img/instructor-tech-online/IMG_20211025_121909_DRO-labeled.jpg"
+     alt="Streaming setup during Python for Scientific Computing"
+     style="height: 200px;"/>
 
-- Current team: in-person contributions to the project + volunteers
-- Cross-advertise
-- Link to material
-- We would like to encourage our project members to help out at other workshops
-  and vice versa
-- Teach together
+0.9 FTE (2 persons) + [10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
+
+<img src="img/CR_partners.png"
+     alt="CodeRefinery partner logos"
+     style="width: 750px;"/>
+
+Co-advertize and co-organize with us
+
+<img src="img/logos/tud.png"
+     alt="TU Delft logo"
+     style="height: 35px;"/>
+<img src="img/logos/nl-escience-center.png"
+     alt="The Netherlands eScience Center logo"
+     style="height: 35px;"/>
+<img src="img/logos/vu.png"
+     alt="VU Amsterdam logo"
+     style="height: 40px;"/>
 
 ---
 
@@ -223,9 +238,12 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 ---
 
-# Collaborators and reusing
+# Credits
 
-...
+## Images
+
+- Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
+- Slide 1: ATC tower, Peter R. Miller, CC-BY 2.0
 
 ---
 
