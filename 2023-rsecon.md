@@ -145,6 +145,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 # Workshop stats
 
+- > XX workshops in total
 - > 2000 persons trained in total
 - > 30 instructors/speakers
 - > 100 exercise leads
