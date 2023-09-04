@@ -8,7 +8,7 @@ class: center, middle, gray-background
 
 Samantha Wittke, CSC - IT Center for Science, Finland
 
-Radovan Bast, UiT - The Arcic University of Norway
+Radovan Bast, UiT - The Arctic University of Norway
 
 ### RSECon 2023, Swansea
 
