@@ -97,6 +97,8 @@ Very scaleable workshop format
 
 - This can almost surely continue after the project ends.
 
+- Gitlab??
+
 - **Coordination** will be a challenge, though.
 
 ---
