@@ -51,9 +51,11 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 # Lessons
 
-<img src="img/testing_lesson_screenshot.png"
-     alt="Screenshot of a lesson in Sphinx format"
-     style="width: 350px;"/>
+.center[
+<img src="img/screenshot_testing_lesson_upper.png"
+     alt="Screenshot of a lesson in Sphinx format, upper part"
+     style="height: 420px;"/>
+]
 
 <!--
 Sphinx format with all markdown, no slides, multi-collaborator effort, built
@@ -64,12 +66,22 @@ WIP, ...
 
 ---
 
+# Lessons
+
+.center[
+<img src="img/screenshot_testing_lesson_lower.png"
+     alt="Screenshot of a lesson in Sphinx format, lower part"
+     style="height: 450px;"/>
+]
+
+---
+
 # Workshop setup
 
 .center[
 <img src="img/pre_post_workshop.png"
      alt="Graphics that summarizes what happens before, during, and after a workshop: on-boarding sessions and debriefing"
-     style="height: 450px;"/>
+     style="width: 85%;"/>
 ]
 
 ---
@@ -102,7 +114,7 @@ WIP, ...
 
 <img src="img/collaborative-document/feedback.png"
      alt="Screenshot of feedback about whether speed is OK"
-     style="width: 100%;" />
+     style="width: 700px;" />
 
 We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-03-21-workshop/questions/)
 
@@ -113,7 +125,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 .center[
 <img src="img/lesson+exercises.png"
      alt="How to participate as learner: learners follow the live stream and collaborative document and participate in exercises"
-     style="width: 100%;"/>
+     style="width: 700px;"/>
 ]
 
 ---
@@ -259,10 +271,10 @@ Co-advertize and co-organize with us
 ## Images
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slides 5, 10, 11, 17: S. Wittke
-- Slide 13: ATC tower, P. R. Miller, CC-BY 2.0
-- Slide 13: Monitor setup, R. Darst
-- Slide 13: Logos, (c) respective organizations
+- Slides 6, 11, 12, 18: S. Wittke
+- Slide 14: ATC tower, P. R. Miller, CC-BY 2.0
+- Slide 14: Monitor setup, R. Darst
+- Slide 14: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
 
 ---
