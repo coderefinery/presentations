@@ -54,7 +54,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 .center[
 <img src="img/screenshot_testing_lesson_upper.png"
      alt="Screenshot of a lesson in Sphinx format, upper part"
-     style="height: 430px;"/>
+     style="height: 420px;"/>
 ]
 
 <!--
@@ -71,7 +71,7 @@ WIP, ...
 .center[
 <img src="img/screenshot_testing_lesson_lower.png"
      alt="Screenshot of a lesson in Sphinx format, lower part"
-     style="width: 100%;"/>
+     style="height: 450px;"/>
 ]
 
 ---
@@ -81,7 +81,7 @@ WIP, ...
 .center[
 <img src="img/pre_post_workshop.png"
      alt="Graphics that summarizes what happens before, during, and after a workshop: on-boarding sessions and debriefing"
-     style="width: 100%;"/>
+     style="width: 85%;"/>
 ]
 
 ---
