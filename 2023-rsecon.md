@@ -54,7 +54,7 @@ Radovan Bast, UiT - The Arcic University of Norway
 .center[
 <img src="img/screenshot_testing_lesson_upper.png"
      alt="Screenshot of a lesson in Sphinx format, upper part"
-     style="height: 450px;"/>
+     style="height: 430px;"/>
 ]
 
 <!--
