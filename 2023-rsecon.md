@@ -181,12 +181,22 @@ Co-advertize and co-organize with us
 
 ## About motivating/teaching
 
+- Teaching isn't a lecture anymore. It's more
+  .emph[like a live TV production], which *can* be as interactive as people in
+  a room.
+
+- .emph[Co-teaching] is a great way to onboard, get better quality, and reduce
+  stress
+
 - .emph[Good enough practices] better than perfect practices not
   applied
 
 - Instead of "good for others": ".emph[good for your future you] and as side
   effect good for others"
 
+---
+
+# What we have learned
 
 ## About scaling
 
@@ -233,6 +243,7 @@ Co-advertize and co-organize with us
 ]
 
 - **Join our next workshop** September 19-21 and 26-28, 2023: https://coderefinery.github.io/2023-09-19-workshop/
+- Tell all your students and researchers to watch
 - Send one or more **exercise teams** or **join as observer**
 - Use our material and give feedback
 
@@ -248,7 +259,7 @@ Co-advertize and co-organize with us
 ## Images
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slides 5, 10, 11, 16: S. Wittke
+- Slides 5, 10, 11, 17: S. Wittke
 - Slide 13: ATC tower, P. R. Miller, CC-BY 2.0
 - Slide 13: Monitor setup, R. Darst
 - Slide 13: Logos, (c) respective organizations
