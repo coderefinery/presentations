@@ -51,9 +51,9 @@ Radovan Bast, UiT - The Arcic University of Norway
 
 # Lessons
 
-<img src="img/testing_lesson_screenshot.png"
-     alt="Screenshot of a lesson in Sphinx format"
-     style="width: 350px;"/>
+<img src="img/screenshot_testing_lesson_upper.png"
+     alt="Screenshot of a lesson in Sphinx format, upper part"
+     style="height: 450px;"/>
 
 <!--
 Sphinx format with all markdown, no slides, multi-collaborator effort, built
@@ -61,6 +61,15 @@ around exercises, minimum one larger exercise per lesson, solutions in
 dropdown, discussion suggestions, instructor guide, making things citable is
 WIP, ...
 -->
+
+---
+
+# Lessons
+
+<img src="img/screenshot_testing_lesson_lower.png"
+     alt="Screenshot of a lesson in Sphinx format, lower part"
+     style="height: 450px;"/>
+
 
 ---
 
@@ -259,10 +268,10 @@ Co-advertize and co-organize with us
 ## Images
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slides 5, 10, 11, 17: S. Wittke
-- Slide 13: ATC tower, P. R. Miller, CC-BY 2.0
-- Slide 13: Monitor setup, R. Darst
-- Slide 13: Logos, (c) respective organizations
+- Slides 6, 11, 12, 18: S. Wittke
+- Slide 14: ATC tower, P. R. Miller, CC-BY 2.0
+- Slide 14: Monitor setup, R. Darst
+- Slide 14: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
 
 ---
