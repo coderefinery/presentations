@@ -76,35 +76,43 @@ Very scaleable workshop format
 # Current status: continuing as expected
 
 
-* Workshops continue and are growing.
-* Working on more advertising and getting more and more people
+- Workshops continue and are growing.
+
+- Working on more advertising and getting more and more people
   involved
-* Next workshop: September 19-21 and 26-28, 2023
-  * Anyone can direct their users towards us to.
-  * Form your own learning team and be their leader!
-  * Find link on <https://coderefinery.org>
+
+- Next workshop: September 19-21 and 26-28, 2023
+  - Anyone can direct their users towards us to.
+  - Form your own learning team and be their leader!
+  - Find link on <https://coderefinery.org>
 
 ---
 
 # Near-term sustainability
 
-* In-kind model seems to work.
-  * Staff take time of their work for the greater good.
-  * Open-source licenses are the working tool.
-  * Small working percentages a problem for focus.
-* This can almost surely continue after the project ends.
-* **Coordination** will be a challenge, though.
+- In-kind model seems to work.
+  - Staff take time of their work for the greater good.
+  - Open-source licenses are the working tool.
+  - Small working percentages a problem for focus.
+
+- This can almost surely continue after the project ends.
+
+- **Coordination** will be a challenge, though.
 
 ---
 
 # Longer-term sustainability
 
-* Non-profit association to manage money from diverse sources
-* Partners can pay some instead of dedicating own staff
-* Fewer staff can dedicate more time
-* Also opens up possibility of dedicated training for the general
+- Non-profit association to manage money from diverse sources
+
+- Partners can pay some instead of dedicating own staff
+
+- Fewer staff can dedicate more time
+
+- Also opens up possibility of dedicated training for the general
   public.
-* Significant unknowns and risks here.
+
+- Significant unknowns and risks here.
 
 ---
 
