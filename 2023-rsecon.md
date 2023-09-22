@@ -305,3 +305,8 @@ class: center, middle, inverse
 October 25 - 26, online, afternoon (CET)
 
 https://nordic-rse.org/events/2023-online-unconference/
+
+---
+class: center, middle, inverse
+
+## These slides: https://doi.org/10.5281/zenodo.8317154
