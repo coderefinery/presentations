@@ -7,16 +7,13 @@ class: gray-background
 
 .fat[2:] Our work
 
-.fat[3:] What we have learned
+.fat[3:] How we teach
 
-.fat[4:] Unsolved problems
-
-.fat[5:] How you can help
+.fat[4:] How you can help
 ]
 
 .right-column50[
-## Presenter info or some CR info
-
+## Jarno Rantaharju - Aalto University
 
 <img src="img/coderefinery.png" style="height: 250px;"/>
 ]
