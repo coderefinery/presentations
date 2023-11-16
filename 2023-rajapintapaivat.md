@@ -126,12 +126,10 @@ class: gray-background
 
 # How you can help
 
-.fat[1:] **Join as observer** and give feedback and suggestions
+.fat[1:] **Join as learner** and invite others who could use the knowledge
 
-.fat[2:] Co-organize, co-create, **co-teach** with us
+.fat[2:] **Join as observer** and give feedback and suggestions
 
-.fat[3:] Outreach, advertizing, **marketing**, social media
+.fat[3:] Co-organize, co-create, **co-teach** with us
 
-.fat[4:] **GitLab** future
-
-.fat[5:] Know-how about organizational **legal forms** in the Nordics
+.fat[4:] Outreach, advertizing, **marketing**, social media
