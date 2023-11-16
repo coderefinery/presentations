@@ -13,7 +13,7 @@ class: gray-background
 ]
 
 .right-column50[
-## Jarno Rantaharju - Aalto University
+### Jarno Rantaharju - Research Software Engineer at Aalto University
 
 <img src="img/coderefinery.png" style="height: 250px;"/>
 ]
