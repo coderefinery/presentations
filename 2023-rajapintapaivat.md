@@ -133,3 +133,6 @@ class: gray-background
 .fat[3:] Co-organize, co-create, **co-teach** with us
 
 .fat[4:] Outreach, advertizing, **marketing**, social media
+
+<img src="img/coderefinery.png" style="height: 250px;"/>
+
