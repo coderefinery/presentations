@@ -1,6 +1,6 @@
 class: gray-background
 
-## CodeRefinery - Practical Software Development and FAIR data Training for Researchers
+## CodeRefinery - Practical Software Development and FAIR Data Training for Researchers
 
 .left-column50[
 .fat[1:] Who we are
