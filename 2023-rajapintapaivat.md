@@ -1,6 +1,6 @@
 class: gray-background
 
-# CodeRefinery - a hub for FAIR Software practices
+## CodeRefinery - Practical Software Development and FAIR data Training for Researchers
 
 .left-column50[
 .fat[1:] Who we are
@@ -13,7 +13,7 @@ class: gray-background
 ]
 
 .right-column50[
-### Jarno Rantaharju - Research Software Engineer at Aalto University
+#### Jarno Rantaharju - Research Software Engineer at Aalto University
 
 <img src="img/coderefinery.png" style="height: 250px;"/>
 ]
