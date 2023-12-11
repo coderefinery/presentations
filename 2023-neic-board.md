@@ -29,7 +29,7 @@ to share the effort and bring better courses to your community.
 
 - Now in phase 3 (2022 - 2025)
 
-- 0.9 FTE/year funded by NordForsk
+- 0.9 FTE/year funded by NeIC
 
 - In-kind partners: NRIS/Sigma2, UiO, NAISS, ENCCS, CHC Aarhus, DeiC, CSC, Aalto U
 ]
