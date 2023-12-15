@@ -32,6 +32,8 @@ to share the effort and bring better courses to your community.
 - 0.9 FTE/year funded by NeIC
 
 - In-kind partners: NRIS/Sigma2, UiO, NAISS, ENCCS, CHC Aarhus, DeiC, CSC, Aalto U
+
+- Huge need for beginner and intermediate training
 ]
 
 ---
@@ -39,7 +41,6 @@ to share the effort and bring better courses to your community.
 # Benefit realization (1/2)
 
 .quote[I've been on many courses, I organize some bioinformatics courses myself, but it was certainly one of the best if not the best course I've attended. Thank you for your time and engagement :)]
-
 
 ---
 
@@ -51,7 +52,7 @@ to share the effort and bring better courses to your community.
 
 - **Reach**: We reach [500-1000 learners](https://coderefinery.org/about/statistics/) each year
 
-- **Community**: Total number of messages in our open chat: 92716
+- **Community**: Total number of messages in our open chat: 92844
 
 - **Nordic-RSE**: Yearly un-conference. First in-person conference in 2024.
 
