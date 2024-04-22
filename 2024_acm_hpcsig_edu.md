@@ -4,7 +4,7 @@ class: center, middle, gray-background
      alt="CodeRefinery logo"
      style="height: 250px;"/>
 
-# - Collaboratively training the next generation of Research Software Engineers
+## Collaboratively training the next generation of Research Software Engineers
 
 Samantha Wittke, CSC - IT Center for Science, Finland
 
