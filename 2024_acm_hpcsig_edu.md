@@ -21,7 +21,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 - A hub for FAIR research software practices
 - Since 2016, now **phase 3 until 2025**
-- Currently funded by NeiC
+- Currently funded by [NeIC](https://neic.no/)
 - Training network
 - Community
 
