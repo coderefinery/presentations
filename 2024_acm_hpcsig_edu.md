@@ -49,7 +49,23 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
+# Available lesson material
+
+TODO: here give short overview
+
+
+## These lessons have been tested
+
+- [9 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
+- We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
+- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
+- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
+
+---
+
 # Lessons
+
+TODO: replace with an image that shows tabs
 
 .center[
 <img src="img/screenshot_testing_lesson_upper.png"
@@ -66,20 +82,6 @@ WIP, ...
 
 ---
 
-# Collaborative document: Markdown
-
-- Interactive, anonymous, parallel, async
-- New question every 1-2 minutes!
-- ASCII-graph feedback
-
-<img src="img/collaborative-document/title.png"
-     alt="Screenshot of exercise title and links on collaborative document"
-     style="width: 100%;" />
-
-We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-03-21-workshop/questions/)
-
----
-
 # Participating as a learner
 
 TODO: show all different ways of participating, highlight BYOC
@@ -88,22 +90,9 @@ TODO: show all different ways of participating, highlight BYOC
 
 ---
 
-# Workshop stats
-
-
-- [7 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
-
-- We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
-
-- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
-
-- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
-
----
-
 # Feedback survey results
 
-TODO: summarize here
+TODO: summarize here in 3 slides
 
 ---
 
@@ -170,8 +159,24 @@ Co-advertize and co-organize with us
 
 ---
 
+# Collaborative document: Markdown
+
+- Interactive, anonymous, parallel, async
+- New question every 1-2 minutes!
+- ASCII-graph feedback
+
+TODO: update to show Q and A and a poll
+
+<img src="img/collaborative-document/title.png"
+     alt="Screenshot of exercise title and links on collaborative document"
+     style="width: 100%;" />
+
+We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-03-12-workshop/questions/)
+
+---
+
 .left-column50[
-## Future: Organization
+## Future: Community project
 
 - Communicate value for volunteers and organizations
 
@@ -180,8 +185,7 @@ Co-advertize and co-organize with us
 
 - More collaboration with similar projects ("helper exchange program")
 
-- Towards non-profit organization so that we can
-  participate in funding applications
+- Governance is community-driven
 ]
 
 .right-column50[
@@ -213,25 +217,7 @@ TODO: update this figure to make it more clear
 
 ---
 
-# Credits and license
-
-## Text
-
-- All text: CodeRefinery project, CC-BY 4.0
-
-
-## Images
-
-- Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slides 6, 11, 12, 18: S. Wittke
-- Slide 14: ATC tower, P. R. Miller, CC-BY 2.0
-- Slide 14: Monitor setup, R. Darst
-- Slide 14: Logos, (c) respective organizations
-- All other images: CodeRefinery project, CC-BY 4.0
-
----
-
-# We try to make it easy to join
+# We try to make it easier to join
 
 - **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
 
@@ -241,7 +227,7 @@ TODO: update this figure to make it more clear
   [Mastodon](https://fosstodon.org/@coderefinery),
   [Support](support@coderefinery.org)
 
-TODO: update with some newer image?
+TODO: update image, newsletter, digest, stats
 
 <img src="img/weekly-toot.png"
      alt="Screenshot of a weekly team meeting summary posted on Mastodon"
@@ -261,3 +247,21 @@ May 30 - 31, at Aalto University campus in Otaniemi, Espoo, Finland
 class: center, middle, inverse
 
 ## These slides: TODO
+
+---
+
+# Credits and license
+
+## Text
+
+- All text: CodeRefinery project, CC-BY 4.0
+
+
+## Images
+
+- Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
+- Slides 6, 11, 12, 18: S. Wittke
+- Slide 14: ATC tower, P. R. Miller, CC-BY 2.0
+- Slide 14: Monitor setup, R. Darst
+- Slide 14: Logos, (c) respective organizations
+- All other images: CodeRefinery project, CC-BY 4.0
