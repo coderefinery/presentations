@@ -66,16 +66,6 @@ WIP, ...
 
 ---
 
-# Lessons
-
-.center[
-<img src="img/screenshot_testing_lesson_lower.png"
-     alt="Screenshot of a lesson in Sphinx format, lower part"
-     style="height: 450px;"/>
-]
-
----
-
 # Collaborative document: Markdown
 
 - Interactive, anonymous, parallel, async
@@ -92,19 +82,15 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2023-
 
 # Participating as a learner
 
-TODO: Show all, but highlight bring your own classroom approach
+TODO: show all different ways of participating, highlight BYOC
 
-.center[
-<img src="img/lesson+exercises.png"
-     alt="How to participate as learner: learners follow the live stream and collaborative document and participate in exercises"
-     style="width: 700px;"/>
-]
+
 
 ---
 
 # Workshop stats
 
-.left-column50[
+
 - [7 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
@@ -112,13 +98,6 @@ TODO: Show all, but highlight bring your own classroom approach
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
 
 - Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
-]
-
-.right-column50[
-<img src="img/twitch-statistics.png"
-     alt="Twitch viewing statistics for an online workshop over the course of 6 workshop days"
-     style="width: 100%;"/>
-]
 
 ---
 
