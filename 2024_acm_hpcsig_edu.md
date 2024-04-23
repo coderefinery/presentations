@@ -93,6 +93,10 @@ WIP, ...
 
 ---
 
+## TODO: here I will add a screenshot from the Git lesson
+
+---
+
 <img src="img/CR_learner_participation.png"
      alt="Learner participation modes"
      style="width: 700px;"/>
@@ -226,9 +230,8 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 # We try to make it easier to join
 
+.left-column60[
 - **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
-
-.left-column50[
 
 - [Blog](https://coderefinery.org/blog/),
   [Newsletter and chat digest](https://coderefinery.org/about/newsletter/),
@@ -237,10 +240,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
   [Support](support@coderefinery.org)
 ]
 
-TODO: update stats
-
-.right-column50[
-
+.right-column40[
 <img src="img/CR_teammeeting_mastodon_post.jpg"
      alt="Screenshot of a weekly team meeting summary posted on Mastodon"
      style="height: 450px;"/>
