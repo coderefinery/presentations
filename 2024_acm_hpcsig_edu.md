@@ -99,8 +99,11 @@ WIP, ...
 
 # Participating as a learner
 
-TODO: show all different ways of participating, highlight BYOC
+TODO: this is draft image can be updated to make more clear
 
+<img src="img/CR_learner_participation.png"
+     alt="Learner participation modes"
+     style="width: 750px;"/>
 
 
 ---
