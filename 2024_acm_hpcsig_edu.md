@@ -237,12 +237,12 @@ TODO: update this figure to make it more clear
 - **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
 
 - [Blog](https://coderefinery.org/blog/),
-  [Newsletter](https://tinyletter.com/coderefinery),
+  [Newsletter and chat digest](https://coderefinery.org/about/newsletter/),
   [Twitter](https://twitter.com/coderefine),
   [Mastodon](https://fosstodon.org/@coderefinery),
   [Support](support@coderefinery.org)
 
-TODO: update image, newsletter, digest, stats
+TODO: update image, stats
 
 <img src="img/weekly-toot.png"
      alt="Screenshot of a weekly team meeting summary posted on Mastodon"
