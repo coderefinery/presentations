@@ -220,11 +220,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ## How you or your organization can participate
 
-TODO: update this figure to make it more clear
-
 .center[
-<img src="img/participate_organization.png"
-     alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or helpers or through in-kind support"
+<img src="img/participate_organization_byoc.png"
+     alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
      style="height: 370px;"/>
 ]
 
