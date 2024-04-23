@@ -178,10 +178,8 @@ Co-advertize and co-organize with us
 - New question every 1-2 minutes!
 - ASCII-graph feedback
 
-TODO: update to show Q and A and a poll
-
-<img src="img/collaborative-document/title.png"
-     alt="Screenshot of exercise title and links on collaborative document"
+<img src="img/notes.png"
+     alt="Screenshot of exercise title and questions in collaborative notes"
      style="width: 100%;" />
 
 We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-03-12-workshop/questions/)
