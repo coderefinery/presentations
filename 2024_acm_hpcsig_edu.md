@@ -103,12 +103,36 @@ WIP, ...
 
 ---
 
-# Feedback survey results
+## Results from [post-workshop survey 2024](https://github.com/coderefinery/2024-post-workshop-survey)
 
-TODO: summarize here in 3 slides
+- Sent out to workshop participants from 2022 and 2023
+- 129 answers
+
+<img src="img/2024-post-workshop-survey/time-saved.png"
+     alt="Plot estimating time saving"
+     style="width: 800px;"/>
 
 ---
 
+<img src="img/2024-post-workshop-survey/reusable.png"
+     alt="Plot about whether code is more reusable"
+     style="width: 800px;"/>
+
+<img src="img/2024-post-workshop-survey/collaboration.png"
+     alt="Plot about whether collaboration is easier"
+     style="width: 800px;"/>
+
+---
+
+<img src="img/2024-post-workshop-survey/colleagues.png"
+     alt="Plot about whether colleagues have been introduced"
+     style="width: 700px;"/>
+
+<img src="img/2024-post-workshop-survey/recommending.png"
+     alt="How likely are you to recommend?"
+     style="width: 500px;"/>
+
+---
 
 # Collaboration across funding borders
 
