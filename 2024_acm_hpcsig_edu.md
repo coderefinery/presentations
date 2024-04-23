@@ -214,10 +214,10 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 .center[
 <img src="img/participate_organization_byoc.png"
      alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 370px;"/>
+     style="height: 400px;"/>
 ]
 
-- **Join our next workshop** , autumn 2024; follow newsletter to get involved
+- **Join our next workshop** autumn 2024; follow our [newsletter](https://coderefinery.org/about/newsletter/) to get involved
 - Tell your students and researchers about it
 - Send one or more **exercise teams** or **join as observer**
 - Use our material and give feedback
