@@ -76,12 +76,12 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 # Lessons
 
-TODO: replace with an image that shows tabs
+We use [Sphinx](https://www.sphinx-doc.org/)/[sphinx-lesson](https://github.com/coderefinery/sphinx-lesson) to build our lessons from Markdown.
 
 .center[
 <img src="img/screenshot_testing_lesson_tabs.png"
      alt="Screenshot of a lesson in Sphinx format, showing tabs for different programming languages"
-     style="height: 420px;"/>
+     style="height: 500px;"/>
 ]
 
 <!--
@@ -93,14 +93,9 @@ WIP, ...
 
 ---
 
-# Participating as a learner
-
-TODO: this is draft image can be updated to make more clear
-
 <img src="img/CR_learner_participation.png"
      alt="Learner participation modes"
-     style="width: 750px;"/>
-
+     style="width: 700px;"/>
 
 ---
 
