@@ -51,30 +51,26 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 # [Available lesson material](https://coderefinery.org/lessons/)
 
-TODO: format, limit text?
-
 .left-column50[
-- Introduction to version control: From zero to using Git and GitHub for own projects
-- Collaborative distributed version control: Apply branching, pull/merge requests, forks, and collaboration using Git and GitHub.
-- Reproducible research: Documenting dependencies, environments, and computational steps in a reproducible way. We touch on containers.
-- Social coding and open software: Software and data licensing and software citation best practices.
+- **Introduction to version control**: Using Git and GitHub for own projects
+- **Collaborative version control**: Apply branching, pull/merge requests, forks, and collaboration.
+- **Reproducible research**: Documenting dependencies, environments, and computational steps in a reproducible way.
+- **Social coding and open software**: Software and data licensing and software citation best practices.
+- **Documentation**: with Markdown and Sphinx.
+- **Jupyter notebooks**: Best practices for reusable and reproducible notebooks.
 ]
 
 .right-column50[
-
-- Documentation: Different ways how a code project can be documented with Markdown and Sphinx.
-- Jupyter notebooks: Best practices for reusable and reproducible notebooks.
-- Automated testing: Mtivation for testing, about test design and tools that are typically used for automated testing of software.
-- Modular code development type-along: How to partition and organize projects as they grow from one screen-full to larger, how to make code portions reusable across projects/notebooks.
-]
+- **Automated testing**: Test design and tools that are typically used for automated testing of software.
+- **Modular code development**: How to partition and organize projects as they grow from one screen-full to larger.
 
 
-## These lessons have been tested
+### Tested in [9 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
 
-- [9 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
 - Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
+]
 
 ---
 
