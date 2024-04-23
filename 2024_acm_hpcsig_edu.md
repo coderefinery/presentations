@@ -239,17 +239,23 @@ TODO: update this figure to make it more clear
 
 - **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
 
+.left-column50[
+
 - [Blog](https://coderefinery.org/blog/),
   [Newsletter and chat digest](https://coderefinery.org/about/newsletter/),
   [Twitter](https://twitter.com/coderefine),
   [Mastodon](https://fosstodon.org/@coderefinery),
   [Support](support@coderefinery.org)
+]
 
-TODO: update image, stats
+TODO: update stats
 
-<img src="img/weekly-toot.png"
+.right-column50[
+
+<img src="img/CR_teammeeting_mastodon_post.jpg"
      alt="Screenshot of a weekly team meeting summary posted on Mastodon"
-     style="height: 200px;"/>
+     style="height: 450px;"/>
+]
 
 ---
 
