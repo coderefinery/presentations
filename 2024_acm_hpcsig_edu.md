@@ -296,7 +296,7 @@ class: center, middle, inverse
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
 - Slides 7,16: S. Wittke
-- Slide 14: ATC tower, P. R. Miller, CC-BY 2.0
-- Slide 14: Monitor setup, R. Darst
-- Slide 14: Logos, (c) respective organizations
+- Slide 11: ATC tower, P. R. Miller, CC-BY 2.0
+- Slide 11: Monitor setup, R. Darst
+- Slide 11: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
