@@ -145,9 +145,14 @@ WIP, ...
 
 0.9 FTE (2 persons) + [10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
 
-<img src="img/CR_partners.png"
-     alt="CodeRefinery partner logos"
-     style="width: 750px;"/>
+<img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
+<img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
+<img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
+<img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
+<img width="90px" src="img/naiss.jpg" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
+<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
 
 Co-advertize and co-organize with us
 
