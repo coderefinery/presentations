@@ -102,8 +102,10 @@ WIP, ...
 .center[
 <img src="img/git-lesson-tabs.png"
      alt="Screenshot of a the Git lesson in Sphinx format offering 4 tabs for different paths"
-     style="height: 500px;"/>
+     style="height: 400px;"/>
 ]
+
+### You can try our [lesson template](https://coderefinery.github.io/sphinx-lesson-template/)
 
 ---
 
