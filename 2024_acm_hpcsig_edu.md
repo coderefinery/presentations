@@ -265,10 +265,16 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 .left-column60[
 - **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
 
-- [Blog](https://coderefinery.org/blog/),
-- [Newsletter and chat digest](https://coderefinery.org/about/newsletter/),
-- [X/Twitter](https://twitter.com/coderefine),
-- [Mastodon](https://fosstodon.org/@coderefinery),
+- [Onboarding manual](https://coderefinery.github.io/manuals/onboarding/)
+
+- [Blog](https://coderefinery.org/blog/)
+
+- [Newsletter and chat digest](https://coderefinery.org/about/newsletter/)
+
+- [X/Twitter](https://twitter.com/coderefine)
+
+- [Mastodon](https://fosstodon.org/@coderefinery)
+
 - [Support e-mail](support@coderefinery.org)
 ]
 
