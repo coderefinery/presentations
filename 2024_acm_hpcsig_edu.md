@@ -52,17 +52,17 @@ Radovan Bast, UiT - The Arctic University of Norway
 # [Available lesson material](https://coderefinery.org/lessons/)
 
 .left-column50[
-- **Introduction to version control**: Using Git and GitHub for own projects
-- **Collaborative version control**: Apply branching, pull/merge requests, forks, and collaboration.
-- **Reproducible research**: Documenting dependencies, environments, and computational steps in a reproducible way.
-- **Social coding and open software**: Software and data licensing and software citation best practices.
-- **Documentation**: with Markdown and Sphinx.
-- **Jupyter notebooks**: Best practices for reusable and reproducible notebooks.
+- **Introduction to version control**: Git and GitHub for own projects
+- **Collaborative version control**: Branching, pull/merge requests, forks, and collaboration.
+- **Reproducible research**: Reproducible dependencies, environments, and computational steps.
+- **Social coding and open software**: Software and data licensing and software citation.
+- **How to document your research software**
+- **Reusable and reproducible Jupyter notebooks**
 ]
 
 .right-column50[
-- **Automated testing**: Test design and tools that are typically used for automated testing of software.
-- **Modular code development**: How to partition and organize projects as they grow from one screen-full to larger.
+- **Automated testing**: Motivation, test designi, and tools.
+- **Modular code development**: Organizing projects as they grow from one screen-full to larger.
 
 
 ### Tested in [9 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
