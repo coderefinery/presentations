@@ -186,7 +186,7 @@ Co-advertize and co-organize with us
 
 ## About scaling
 
-- "bring your own classroom" seems to be a way to scale
+- .emph["bring your own classroom"] seems to be a way to scale
 
 - .emph[Installation instructions and on-boarding] become more important
 
