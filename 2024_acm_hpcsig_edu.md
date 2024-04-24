@@ -97,7 +97,13 @@ WIP, ...
 
 ---
 
-## TODO: here I will add a screenshot from the Git lesson
+## Another example: Git lesson
+
+.center[
+<img src="img/git-lesson-tabs.png"
+     alt="Screenshot of a the Git lesson in Sphinx format offering 4 tabs for different paths"
+     style="height: 500px;"/>
+]
 
 ---
 
