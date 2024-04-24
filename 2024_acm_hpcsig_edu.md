@@ -79,7 +79,19 @@ Similar projects:
 
 ---
 
-# Placeholder: RSE
+# Connection to high-performance computing
+
+- Many partners with HPC involvement
+
+- Aalto University very active in inviting others to join HPC kickstart
+
+- [Tuesday Tools & Techniques for High Performance Computing](https://scicomp.aalto.fi/training/scip/ttt4hpc-2024/)
+
+- [ENCCS instructor training](https://enccs.github.io/instructor-training/) -> Materials based on CR train-the-trainer
+
+- NRIS (Norway) and LUMI (Finland) have adopted our training approach and material as template
+
+- We started sharing tools across borders at https://github.com/nordichpc
 
 ---
 
