@@ -43,9 +43,14 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 <img src="img/reproducible-research.jpg"
      alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing computing environment, publishing cresearch outputs"
-     style="height: 550px;"/>
+     style="height: 450px;"/>
 
 .cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
+
+Similar projects:
+[UNIVERSE-HPC](https://www.universe-hpc.ac.uk/),
+[DIGITAL RESEARCH ACADEMY](https://digital-research.academy/),
+[INTERSECT](https://intersect-training.org/), and probably many more ...
 
 ---
 
