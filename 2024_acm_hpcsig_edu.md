@@ -231,6 +231,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 - Support .emph[local events]
 
 - More asynchronous content coupled with online events
+  (".emph[flipped classroom] approach")
 ]
 
 ---
