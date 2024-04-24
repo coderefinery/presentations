@@ -213,14 +213,14 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 .left-column50[
 ## Future: Community project
 
-- Communicate value for volunteers and organizations
+- .emph[Communicate value] for volunteers and organizations
 
 - Research groups send their students to us instead of
   creating isolated material
 
-- More collaboration with similar projects ("helper exchange program")
+- .emph[More collaboration] with similar projects ("helper exchange program")
 
-- Governance is community-driven
+- Governance is .emph[community-driven]
 ]
 
 .right-column50[
