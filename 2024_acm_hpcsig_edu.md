@@ -79,19 +79,14 @@ Similar projects:
 
 ---
 
-# Connection to high-performance computing
+# Relation to research software engineering
 
-- Many partners with HPC involvement
+- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
 
-- Aalto University very active in inviting others to join HPC kickstart
+- [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
+  [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
 
-- [Tuesday Tools & Techniques for High Performance Computing](https://scicomp.aalto.fi/training/scip/ttt4hpc-2024/)
-
-- [ENCCS instructor training](https://enccs.github.io/instructor-training/) -> Materials based on CR train-the-trainer
-
-- NRIS (Norway) and LUMI (Finland) have adopted our training approach and material as template
-
-- We started sharing tools across borders at https://github.com/nordichpc
+(here we will add an image)
 
 ---
 
@@ -201,7 +196,19 @@ Co-advertize and co-organize with us
 
 ---
 
-# Placeholder: HPC slide
+# Connection to high-performance computing
+
+- Many partners with HPC involvement
+
+- Aalto University very active in inviting others to join HPC kickstart
+
+- [Tuesday Tools & Techniques for High Performance Computing](https://scicomp.aalto.fi/training/scip/ttt4hpc-2024/)
+
+- [ENCCS instructor training](https://enccs.github.io/instructor-training/) -> Materials based on CR train-the-trainer
+
+- NRIS (Norway) and LUMI (Finland) have adopted our training approach and material as template
+
+- We started sharing tools across borders at https://github.com/nordichpc
 
 ---
 
