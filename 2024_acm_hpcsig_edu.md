@@ -74,6 +74,10 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
+# Placeholder: RSE
+
+---
+
 # Lessons
 
 We use [Sphinx](https://www.sphinx-doc.org/)/[sphinx-lesson](https://github.com/coderefinery/sphinx-lesson) to build our lessons from Markdown.
@@ -172,6 +176,10 @@ Co-advertize and co-organize with us
 
 ---
 
+# Placeholder: HPC slide
+
+---
+
 # What we have learned
 
 ## About motivating/teaching
@@ -257,6 +265,10 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 - Tell your students and researchers about it
 - Send one or more **exercise teams** or **join as observer**
 - Use our material and give feedback
+
+---
+
+# Placeholder: What is in it for you?
 
 ---
 
