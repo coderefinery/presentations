@@ -293,7 +293,16 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
-# Placeholder: What is in it for you?
+# What is in it for you?
+
+- .emph[Joining is easier than organizing]:
+  It is easier to bring 10% to an event than to organize the 100% yourself
+
+- .emph[Material exchange]: let's not reinvent the wheel
+
+- .emph[Train-the-trainer]: we can help you to get started
+
+- .emph[Community as test-bed]: let's try out new ideas together
 
 ---
 
