@@ -226,9 +226,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 .right-column50[
 ## Teaching format
 
-- Continue large-scale workshops
+- Continue .emph[large-scale workshops]
 
-- Support local events
+- Support .emph[local events]
 
 - More asynchronous content coupled with online events
 ]
