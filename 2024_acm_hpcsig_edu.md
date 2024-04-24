@@ -61,7 +61,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 ]
 
 .right-column50[
-- **Automated testing**: Motivation, test designi, and tools.
+- **Automated testing**: Motivation, test design, and tools.
 - **Modular code development**: Organizing projects as they grow from one screen-full to larger.
 
 
@@ -97,9 +97,13 @@ WIP, ...
 
 ---
 
+# How to participate as a learner
+
+.center[
 <img src="img/CR_learner_participation.png"
      alt="Learner participation modes"
-     style="width: 700px;"/>
+     style="width: 650px;"/>
+]
 
 ---
 
