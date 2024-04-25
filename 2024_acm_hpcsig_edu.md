@@ -183,7 +183,7 @@ WIP, ...
 <img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
 <img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
 <img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
-<img width="90px" src="img/naiss.jpg" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
 <img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
 <img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
 
