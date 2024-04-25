@@ -40,10 +40,11 @@ Radovan Bast, UiT - The Arctic University of Norway
 ]
 
 ---
-
+.center[
 <img src="img/reproducible-research.jpg"
      alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing computing environment, publishing cresearch outputs"
      style="height: 450px;"/>
+]
 
 .cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
 
@@ -86,7 +87,11 @@ Similar projects:
 - [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
   [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
 
-(here we will add an image)
+.center[
+<img src="img/researcher_CR_RSE.png"
+     alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
+     style="width: 650px;"/>
+]
 
 ---
 
@@ -364,7 +369,7 @@ class: center, middle, inverse
 ## Images
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slides 8, 18: S. Wittke
+- Slides 5, 8, 18: S. Wittke
 - Slide 12: ATC tower, P. R. Miller, CC-BY 2.0
 - Slide 12: Monitor setup, R. Darst
 - Slide 12: Logos, (c) respective organizations
