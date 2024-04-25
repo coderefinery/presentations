@@ -211,7 +211,7 @@ Co-advertize and co-organize with us
 
 - [ENCCS instructor training](https://enccs.github.io/instructor-training/) -> Materials based on CR train-the-trainer
 
-- NRIS (Norway) and LUMI (Finland) have adopted our training approach and material as template
+- NRIS (Norway) and LUMI (EuroHPC-JU) have adopted our training approach and material as template
 
 - We started sharing tools across borders at https://github.com/nordichpc
 
