@@ -346,6 +346,12 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 class: center, middle, inverse
 
+.center[
+<img src="img/NordicRSE_TwitterCard.png"
+     alt="Nordic-RSE name with map of Nordics and Baltics"
+     style="width: 450px;"/>
+]
+
 # [Nordic RSE](https://nordic-rse.org/) Conference
 
 May 30 - 31, at Aalto University campus in Otaniemi, Espoo, Finland
