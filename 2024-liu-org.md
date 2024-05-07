@@ -346,11 +346,11 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 - How can skills taught and learned in CodeRefinery workshops be put to use for the field of computational materials science?
 
-- The National Academic Infrastructure for Supercomputing in Sweden (NAISS) caters for users of high performing computing resources at higher education institutes in Sweden. Computational materials science codes account for around 25% of the usage at NAISS systems.
+- The National Academic Infrastructure for Supercomputing in Sweden (NAISS) caters for users of high performing computing resources at higher education institutes in Sweden.
 
 - The PDC center for higher permance computing, KTH, is part of NAISS. PDC is operating the Dardel HPE Cray EX supercomputer, equipped with AMD CPUs and GPUs
 
-- Staff at PDC collaborate with staff at other NAISS centers and the LUMI supercomputer. For instance, best practice and expertise on one specific application program at one center, can be shared with staff and users at other centers.
+- Staff at PDC collaborate with staff at other NAISS centers and the LUMI supercomputer. Expertise on one specific application program at one center, can be shared between centers.
 
 ---
 
@@ -368,21 +368,21 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 - For maintaining and installing (new versions) of materials theory codes on Dardel, we are mainly using the EasyBuild system.
 
-- A program that has been EasyBuilt and installed on Dardel can (often) be straightforwardly ported to a build configuration for LUMI.
+- A program that has been EasyBuilt and installed on Dardel can (often) be straightforwardly ported to a build for LUMI.
 
 - Vice versa, a build on LUMI can be ported for Dardel. The easyconfig build configuration for Elk on Dardel has been ported to LUMI.
 
-- Example: For the Elk electronic structure code, compare the easyconfigs
+- Example: For the Elk electronic structure code, compare
 
   - Dardel [elk-9.2.12-cpeGNU-23.03.eb](https://github.com/PDC-support/PDC-SoftwareStack/blob/master/easybuild/easyconfigs/e/elk-9.2.12-cpeGNU-23.03.eb)
   - LUMI [Elk-8.7.10-cpeGNU-22.12.eb](https://github.com/Lumi-supercomputer/LUMI-EasyBuild-contrib/blob/main/easybuild/easyconfigs/e/Elk/Elk-8.7.10-cpeGNU-22.12.eb)
 
-- To build on Dardel Elk 9.2.12 under CPE 23.03, load and launch an EasyBuild with
+- To build Elk 9.2.12 on Dardel under CPE 23.03
 
-```
-ml PDC/23.03 easybuild-user/4.8.2
-eb elk-9.2.12-cpeGNU-23.03.eb --robot
-```
+  ```
+  ml PDC/23.03 easybuild-user/4.8.2
+  eb elk-9.2.12-cpeGNU-23.03.eb --robot
+  ```
 
 Reference page: [Installing software using EasyBuild](https://www.pdc.kth.se/support/documents/software_development/easybuild.html)
 
@@ -390,15 +390,11 @@ Reference page: [Installing software using EasyBuild](https://www.pdc.kth.se/sup
 
 # Development of teaching material for application programs
 
-- Example: Calculate the magnetic phase diagram of bcc Fe with the [UppASD](https://www.pdc.kth.se/software/software/UppASD/index_general.html) code for atomistic spin dynamics.
-
-- Exercise instructions: [Determination of Tc of a ferromagnetic material](https://uppasd.github.io/UppASD-manual/tutorial/#determination-of-t-c-of-a-ferromagnetic-material)
+- Example: Calculate the magnetic phase diagram of bcc Fe with the [UppASD](https://www.pdc.kth.se/software/software/UppASD/index_general.html) code for atomistic spin dynamics. Exercise instructions: [Determination of Tc of a ferromagnetic material](https://uppasd.github.io/UppASD-manual/tutorial/#determination-of-t-c-of-a-ferromagnetic-material)
 
 - Teaching material for UppASD has been extended and further developed in connection to an autumn school on UppASD in October 2022.
 
 - The material has been built with Sphinx/sphinx-lesson, edited in style and spirit of CodeRefinery lessons
-
-- Reference pages:
   - [UppASD manual](https://uppasd.github.io/UppASD-manual/)
   - [UppASD tutorial](https://uppasd.github.io/UppASD-tutorial/)
   - [UppASD autumn school 2022](https://www.pdc.kth.se/about/events/training/uppasd-autumn-school-2022-1.1187827)
@@ -434,14 +430,16 @@ May 30 - 31, at Aalto University campus in Otaniemi, Espoo, Finland
 
 ---
 
-# Credits and license
+# Thank you for your attention!
 
-## Text
+## Credits and license
+
+### Text
 
 - All text: CodeRefinery project, CC-BY 4.0
 
 
-## Images
+### Images
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
 - Slides 5, 8, 18: S. Wittke
