@@ -46,13 +46,15 @@ Similar projects:
 
 ---
 
-## How we teach
+## How we teach: together
 
 .center[
 <img src="img/CR_learner_participation.png"
      alt="Learner participation modes"
-     style="width: 680px;"/>
+     style="width: 640px;"/>
 ]
+
+.cite[(c) Samantha Wittke]
 
 ---
 
@@ -72,8 +74,6 @@ Similar projects:
 - Collect feedback during and after events
 
 - All our material and output is open source
-
-- Ambition: Preserve all our output with DOIs
 
 - Scale with "bring your own classroom"
 ]
@@ -153,3 +153,12 @@ Similar projects:
 - Give staff the .emph[freedom to experiment] with the tools they are expected to teach.
 
 - .emph[Exchange programs] for staff to learn from other institutions.
+
+---
+class: middle, inverse
+
+# In some courses you rent a good environment for 2 days but we want you to own the result and be able to share it.
+
+## These slides: https://doi.org/10.5281/zenodo.11317382
+
+All text: CC-BY 4.0
