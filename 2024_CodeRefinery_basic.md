@@ -1,13 +1,14 @@
 
 
 .left-column50[
+
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
-     style="height: 150px;"/>
+     style="height: 100px;"/>
 
-## Collaboratively training the next generation of Research Software Engineers
-## <https://coderefinery.org/>
-## 2024
+Collaboratively training the next generation of Research Software Engineers
+<https://coderefinery.org/>
+08-2024
 
 All texts and images: CodeRefinery project, CC-BY 4.0
 ]
