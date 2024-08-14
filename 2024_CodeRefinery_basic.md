@@ -7,6 +7,8 @@ class: center, middle, gray-background
 ## Collaboratively training the next generation of Research Software Engineers
 ## 2024
 
+All texts and images: CodeRefinery project, CC-BY 4.0
+
 ---
 
 # Team and project: [coderefinery.org](https://coderefinery.org/)
@@ -19,29 +21,6 @@ class: center, middle, gray-background
 - Currently funded by [NeIC](https://neic.no/)
 - Training network
 - Community
-
-
-### What CodeRefinery does
-
-- Teaching network
-- Share lessons, video recordings, manuals
-- All open source
-]
-
-.right-column50[
-<img src="img/pyramid.png"
-     alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
-     style="width: 420px;"/>
-]
-
----
-.center[
-<img src="img/reproducible-research.jpg"
-     alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing computing environment, publishing cresearch outputs"
-     style="height: 450px;"/>
-]
-
-.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
 
 ---
 
@@ -60,6 +39,8 @@ class: center, middle, gray-background
 - **Automated testing**: Motivation, test design, and tools.
 - **Modular code development**: Organizing projects as they grow from one screen-full to larger.
 
+
+All lessons are open source (CC-BY) and recordings from each workshop are available on [Youtube](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
 
 ### Tested in [9 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
 
@@ -136,22 +117,3 @@ class: center, middle, gray-background
      alt="Screenshot of a weekly team meeting summary posted on Mastodon"
      style="height: 450px;"/>
 ]
-
----
-class: center, middle, inverse
-
-## These slides: 
-
----
-
-# Credits and license
-
-## Text
-
-- All text: CodeRefinery project, CC-BY 4.0
-
-
-## Images
-
-- Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- All other images: CodeRefinery project, CC-BY 4.0
