@@ -74,7 +74,7 @@ All lessons are open source (CC-BY) and recordings from each workshop are availa
 
 # Join and/or stay up to date
 
-.left-column60[
+
 - **Chat with us**: <https://coderefinery.zulipchat.com> (community!)
 
 - [Onboarding manual](https://coderefinery.github.io/manuals/onboarding/)
@@ -87,11 +87,6 @@ All lessons are open source (CC-BY) and recordings from each workshop are availa
 
 - [Mastodon](https://fosstodon.org/@coderefinery)
 
-- [Support e-mail](support@coderefinery.org)
-]
+- Support e-mail:<support@coderefinery.org>
 
-.right-column40[
-<img src="img/CR_teammeeting_mastodon_post.jpg"
-     alt="Screenshot of a weekly team meeting summary posted on Mastodon"
-     style="height: 450px;"/>
-]
+
