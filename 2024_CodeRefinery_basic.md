@@ -13,25 +13,21 @@ All texts and images: CodeRefinery project, CC-BY 4.0
 
 ---
 
-.left-column50[
+
 ### What is CodeRefinery
 
 - A hub for FAIR research software practices
 - Since 2016, now **phase 3 until 2025**
 - A project, currently funded by [NeIC](https://neic.no/)
 - Training network
+- Reusable lesson materials
 - Community
 
-]
-
-.right-column50[
-# Relation to research software engineering
+### Relation to Research Software Engineering
 
 - We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
-
 - [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
   [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
-]
 
 .center[
 <img src="img/researcher_CR_RSE.png"
