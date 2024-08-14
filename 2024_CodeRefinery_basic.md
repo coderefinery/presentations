@@ -1,19 +1,19 @@
-class: center, middle, gray-background
 
+
+.left-column50[
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
-     style="height: 250px;"/>
+     style="height: 150px;"/>
 
 ## Collaboratively training the next generation of Research Software Engineers
+## <https://coderefinery.org/>
 ## 2024
 
 All texts and images: CodeRefinery project, CC-BY 4.0
+]
 
----
 
-# Team and project: [coderefinery.org](https://coderefinery.org/)
-
-.left-column50[
+.right-column50[
 ### What CodeRefinery is
 
 - A hub for FAIR research software practices
