@@ -1,27 +1,43 @@
 
 
-.left-column50[
+class: center, middle, gray-background
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
-     style="height: 100px;"/>
+     style="height: 250px;"/>
 
-Collaboratively training the next generation of Research Software Engineers
-<https://coderefinery.org/>
-08-2024
+## <https://coderefinery.org/>
+## 08-2024
 
 All texts and images: CodeRefinery project, CC-BY 4.0
-]
 
+---
 
-.right-column50[
-### What CodeRefinery is
+.left-column50[
+### What is CodeRefinery
 
 - A hub for FAIR research software practices
 - Since 2016, now **phase 3 until 2025**
-- Currently funded by [NeIC](https://neic.no/)
+- A project, currently funded by [NeIC](https://neic.no/)
 - Training network
 - Community
+
+]
+
+.right-column50[
+# Relation to research software engineering
+
+- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+
+- [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
+  [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
+]
+
+.center[
+<img src="img/researcher_CR_RSE.png"
+     alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
+     style="width: 650px;"/>
+]
 
 ---
 
@@ -40,29 +56,7 @@ All texts and images: CodeRefinery project, CC-BY 4.0
 - **Automated testing**: Motivation, test design, and tools.
 - **Modular code development**: Organizing projects as they grow from one screen-full to larger.
 
-
 All lessons are open source (CC-BY) and recordings from each workshop are available on [Youtube](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
-
-### Tested in [9 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
-
-- CodeRefinery reaches over [500 persons/year](https://coderefinery.org/about/statistics/)
-- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
-- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
-]
-
----
-
-# Relation to research software engineering
-
-- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
-
-- [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
-  [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
-
-.center[
-<img src="img/researcher_CR_RSE.png"
-     alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
-     style="width: 650px;"/>
 ]
 
 ---
@@ -79,19 +73,6 @@ All lessons are open source (CC-BY) and recordings from each workshop are availa
 - Tell your students and researchers about it (become an [ambassador](https://coderefinery.org/join/individuals/#coderefinery-ambassador))
 - Provide a local classroom or **join as observer**
 - Use our material and give feedback
-
----
-
-# What is in it for you?
-
-- .emph[Joining is easier than organizing]:
-  It is easier to bring 10% to an event than to organize the 100% yourself
-
-- .emph[Material exchange]: let's not reinvent the wheel
-
-- .emph[Train-the-trainer]: we can help you to get started
-
-- .emph[Community as test-bed]: let's try out new ideas together
 
 ---
 
