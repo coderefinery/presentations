@@ -77,6 +77,8 @@ All lessons are open source (CC-BY) and recordings from each workshop are availa
 
 - **Chat with us**: <https://coderefinery.zulipchat.com> (community!)
 
+- Become a [CodeRefinery ambassador](https://coderefinery.org/join/individuals/#coderefinery-ambassador) 
+
 - [Onboarding manual](https://coderefinery.github.io/manuals/onboarding/)
 
 - [Blog](https://coderefinery.org/blog/)
