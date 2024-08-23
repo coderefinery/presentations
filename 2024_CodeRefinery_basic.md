@@ -40,7 +40,7 @@ All texts and images: CodeRefinery project, CC-BY 4.0
 # [Available lesson material](https://coderefinery.org/lessons/)
 
 .center[
-<img src="img/CR_lesson.png"
+<img src="img/CR_lessons.png"
      alt="Visual representation of CodeRefinery lessons: introduction and collaborative version control, reproducible research, social coding and open software, documentation, Jupyter notebooks, automated testing, modular code development"
      style="width: 650px;"/>
 
