@@ -39,18 +39,10 @@ All texts and images: CodeRefinery project, CC-BY 4.0
 
 # [Available lesson material](https://coderefinery.org/lessons/)
 
-.left-column50[
-- **Introduction to version control**: Git and GitHub for own projects
-- **Collaborative version control**: Branching, pull/merge requests, forks, and collaboration.
-- **Reproducible research**: Reproducible dependencies, environments, and computational steps.
-- **Social coding and open software**: Software and data licensing and software citation.
-- **How to document your research software**
-- **Reusable and reproducible Jupyter notebooks**
-]
-
-.right-column50[
-- **Automated testing**: Motivation, test design, and tools.
-- **Modular code development**: Organizing projects as they grow from one screen-full to larger.
+.center[
+<img src="img/CR_lesson.png"
+     alt="Visual representation of CodeRefinery lessons: introduction and collaborative version control, reproducible research, social coding and open software, documentation, Jupyter notebooks, automated testing, modular code development"
+     style="width: 650px;"/>
 
 All lessons are open source (CC-BY) and recordings from each workshop are available on [Youtube](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
 ]
