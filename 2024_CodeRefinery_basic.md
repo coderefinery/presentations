@@ -7,9 +7,16 @@ class: center, middle, gray-background
      style="height: 250px;"/>
 
 ## <https://coderefinery.org/>
-## 08-2024
 
-All texts and images: CodeRefinery project, CC-BY 4.0
+## We train you in FAIR research software development
+
+[version: Aug 2024]
+
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+  <img src="img/cc-by-icon.svg"
+       alt="CC-BY icon"
+       style="height: 30px;"/>
+</a>
 
 ---
 
