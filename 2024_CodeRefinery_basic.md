@@ -17,10 +17,10 @@ All texts and images: CodeRefinery project, CC-BY 4.0
 ### What is CodeRefinery
 
 - A hub for FAIR research software practices
-- Since 2016, now **phase 3 until 2025**
-- A project, currently funded by [NeIC](https://neic.no/)
+- A project since 2016, currently funded by [NeIC](https://neic.no/)
 - Training network
-- Reusable lesson materials
+- Reaching about [500 learners/year](https://coderefinery.org/workshops/past/)
+- Reusable [lesson materials](https://coderefinery.org/lessons/)
 - Community
 
 ### Relation to Research Software Engineering
@@ -44,12 +44,21 @@ All texts and images: CodeRefinery project, CC-BY 4.0
      alt="Visual representation of CodeRefinery lessons: introduction and collaborative version control, reproducible research, social coding and open software, documentation, Jupyter notebooks, automated testing, modular code development"
      style="width: 750px;"/>
 
-All lessons are open source (CC-BY) and recordings from each workshop are available on [Youtube](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
+All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg) from each workshop are available 
 ]
 
 ---
+## How you can participate
 
-## How you or your organization can participate
+<img src="img/BYOC.png"
+     alt="Graphics that summarizes how learners can participate a CodeRefinery workshop"
+     style="width: 400px;"/>
+]
+
+
+---
+
+## How your organization can participate
 
 .center[
 <img src="img/participate_organization_byoc.png"
@@ -58,7 +67,7 @@ All lessons are open source (CC-BY) and recordings from each workshop are availa
 ]
 
 - [**Join our next workshop** September 2024](https://coderefinery.github.io/2024-09-10-workshop/)
-- Tell your students and researchers about it (become an [ambassador](https://coderefinery.org/join/individuals/#coderefinery-ambassador))
+- Tell your students and researchers about it
 - Provide a local classroom or **join as observer**
 - Use our material and give feedback
 
