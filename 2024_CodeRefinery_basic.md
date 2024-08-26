@@ -48,13 +48,16 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
 ]
 
 ---
-## How you can participate
+## How YOU can participate
 
 <img src="img/BYOC.png"
      alt="Graphics that summarizes how learners can participate a CodeRefinery workshop"
-     style="width: 400px;"/>
-]
+     style="width: 700px;"/>
 
+- [**Join our next workshop** September 2024](https://coderefinery.github.io/2024-09-10-workshop/)
+- Tell others about it
+- Provide a local classroom or **join as observer**
+- Use our material and give feedback
 
 ---
 
