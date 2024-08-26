@@ -54,7 +54,7 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
      alt="Graphics that summarizes how learners can participate a CodeRefinery workshop"
      style="width: 700px;"/>
 
-- [**Join our next workshop** September 2024](https://coderefinery.github.io/2024-09-10-workshop/)
+- [Join our next workshop](https://coderefinery.org/workshops/upcoming/)
 - Tell others about it
 - Provide a local classroom or **join as observer**
 - Use our material and give feedback
@@ -69,7 +69,7 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
      style="height: 400px;"/>
 ]
 
-- [**Join our next workshop** September 2024](https://coderefinery.github.io/2024-09-10-workshop/)
+- [Join our next workshop](https://coderefinery.org/workshops/upcoming/)
 - Tell your students and researchers about it
 - Provide a local classroom or **join as observer**
 - Use our material and give feedback
