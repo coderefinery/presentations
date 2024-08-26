@@ -44,7 +44,7 @@ All texts and images: CodeRefinery project, CC-BY 4.0
      alt="Visual representation of CodeRefinery lessons: introduction and collaborative version control, reproducible research, social coding and open software, documentation, Jupyter notebooks, automated testing, modular code development"
      style="width: 750px;"/>
 
-All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg) from each workshop are available 
+All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg) are available 
 ]
 
 ---
