@@ -21,7 +21,7 @@ class: center, middle, gray-background
 ---
 
 
-### What is CodeRefinery
+### What is CodeRefinery?
 
 - A hub for FAIR research software practices
 - A project since 2016, currently funded by [NeIC](https://neic.no/)
@@ -32,7 +32,7 @@ class: center, middle, gray-background
 
 ### Relation to Research Software Engineering
 
-- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+- We teach topics which are **helpful for researchers** and **essential for RSEs**.
 - [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
   [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
 
@@ -44,7 +44,7 @@ class: center, middle, gray-background
 
 ---
 
-# [Available lesson material](https://coderefinery.org/lessons/)
+# [Available lesson materials](https://coderefinery.org/lessons/)
 
 .center[
 <img src="img/CR_lessons.png"
@@ -100,6 +100,6 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
 
 - [Mastodon](https://fosstodon.org/@coderefinery)
 
-- Support e-mail:<support@coderefinery.org>
+- Support e-mail: <support@coderefinery.org>
 
 
