@@ -128,17 +128,6 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
-# Benefits for local organizers
-
-- No need to organize whole workshop, instructors, learning material
-- Adjust side quests according to need
-- Supporting own people
-- Testbed for "such a course"
-- onboarding and orientation
-- direct support and help-line
-
----
-
 # Experiences - TU Delft, NL
 
 > [...]
@@ -184,12 +173,19 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
+
 # What is in it for you?
 
 - .emph[Joining is easier than organizing]:
   It is easier to bring 10% to an event than to organize the 100% yourself
 
-- .emph[Material exchange]: let's not reinvent the wheel
+- .emph[Material / Experience exchange]: let's not reinvent the wheel
+
+- .emph[onboarding and orientation]
+
+- .emph[Side quests] according to own work/need
+
+- .emph[talk to own people] - direct support and help-line
 
 - .emph[Train-the-trainer]: we can help you to get started
 
@@ -261,7 +257,7 @@ class: center, middle, inverse
 
 ## Images
 
-XX
+XX (currently old ones, needs to be updated)
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
 - Slides 5, 8, 18: S. Wittke
