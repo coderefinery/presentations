@@ -25,13 +25,6 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ### Who we are
 
-<img src="img/atc.jpg"
-     alt="Air traffic control tower"
-     style="height: 200px;"/>
-<img src="img/monitor-setup.jpg"
-     alt="Streaming setup during Python for Scientific Computing"
-     style="height: 200px;"/>
-
 0.9 FTE (2 persons) + [10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
 
 <img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
