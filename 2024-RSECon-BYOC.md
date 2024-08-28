@@ -16,42 +16,40 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 # Team and project: [coderefinery.org](https://coderefinery.org/)
 
-.left-column50[
 ### What we are
 
 - A hub for FAIR research software practices
-- Since 2016, now **phase 3 until 2025**
-- Currently funded by [NeIC](https://neic.no/)
+- Since 2016, currently funded by [NeIC](https://neic.no/)
 - Training network
-- Community
+- Community (in our Zulip chat)
 
+### Who we are
+
+<img src="img/atc.jpg"
+     alt="Air traffic control tower"
+     style="height: 200px;"/>
+<img src="img/monitor-setup.jpg"
+     alt="Streaming setup during Python for Scientific Computing"
+     style="height: 200px;"/>
+
+0.9 FTE (2 persons) + [10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
+
+<img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
+<img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
+<img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
+<img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
+<img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
+<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
 
 ### What we do
 
-- We teach and co-organize
+- We teach and co-organize workshops
+- 2 annual main "tools" workshop + many others
 - Share lessons, video recordings, manuals
-- All open source
-]
-
-.right-column50[
-<img src="img/pyramid.png"
-     alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
-     style="width: 420px;"/>
-]
-
----
-.center[
-<img src="img/reproducible-research.jpg"
-     alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing computing environment, publishing cresearch outputs"
-     style="height: 450px;"/>
-]
-
-.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
-
-Similar projects:
-[UNIVERSE-HPC](https://www.universe-hpc.ac.uk/),
-[DIGITAL RESEARCH ACADEMY](https://digital-research.academy/),
-[INTERSECT](https://intersect-training.org/), and probably many more ...
+- Teaching development
+- All open source and access and mostly under CC-BY license
 
 ---
 
@@ -95,75 +93,10 @@ Similar projects:
 
 ---
 
-# Collaboration across funding borders
-
-<img src="img/atc.jpg"
-     alt="Air traffic control tower"
-     style="height: 200px;"/>
-<img src="img/monitor-setup.jpg"
-     alt="Streaming setup during Python for Scientific Computing"
-     style="height: 200px;"/>
-
-0.9 FTE (2 persons) + [10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
-
-<img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
-<img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
-<img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
-<img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
-<img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
-<img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
-<img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
-<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
-
-Co-advertize and co-organize with us
-
-<img src="img/logos/tud.png"
-     alt="TU Delft logo"
-     style="height: 35px;"/>
-<img src="img/logos/nl-escience-center.png"
-     alt="The Netherlands eScience Center logo"
-     style="height: 35px;"/>
-<img src="img/logos/vu.png"
-     alt="VU Amsterdam logo"
-     style="height: 40px;"/>
-
----
-
-# Lessons
-
-We use [Sphinx](https://www.sphinx-doc.org/)/[sphinx-lesson](https://github.com/coderefinery/sphinx-lesson) to build our lessons from Markdown.
-
-.center[
-<img src="img/screenshot_testing_lesson_tabs.png"
-     alt="Screenshot of a lesson in Sphinx format, showing tabs for different programming languages"
-     style="height: 500px;"/>
-]
-
-<!--
-Sphinx format with all markdown, no slides, multi-collaborator effort, built
-around exercises, minimum one larger exercise per lesson, solutions in
-dropdown, discussion suggestions, instructor guide, making things citable is
-WIP, ...
--->
-
----
-
-## Another example: Git lesson
-
-.center[
-<img src="img/git-lesson-tabs.png"
-     alt="Screenshot of a the Git lesson in Sphinx format offering 4 tabs for different paths"
-     style="height: 400px;"/>
-]
-
-### You can try our [lesson template](https://coderefinery.github.io/sphinx-lesson-template/)
-
----
-
 # How to participate as a learner
 
 .center[
-<img src="img/CR_learner_participation.png"
+<img src="img/BYOC.png"
      alt="Learner participation modes"
      style="width: 650px;"/>
 ]
@@ -172,7 +105,8 @@ WIP, ...
 
 # Collaborative document: Markdown
 
-- Interactive, anonymous, parallel, async
+- Real time *interaction* between learners and instructors 
+- Anonymous, parallel, asynchronous
 - New question every 1-2 minutes!
 - ASCII-graph feedback
 
@@ -184,99 +118,73 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
-## Results from [post-workshop survey 2024](https://github.com/coderefinery/2024-post-workshop-survey)
+# Scaling with Community support - Bring your own classroom
 
-- Sent out to workshop participants from 2022 and 2023
-- 129 answers
-
-<img src="img/2024-post-workshop-survey/time-saved.png"
-     alt="Plot estimating time saving"
-     style="width: 800px;"/>
-
----
-
-<img src="img/2024-post-workshop-survey/reusable.png"
-     alt="Plot about whether code is more reusable"
-     style="width: 800px;"/>
-
-<img src="img/2024-post-workshop-survey/collaboration.png"
-     alt="Plot about whether collaboration is easier"
-     style="width: 800px;"/>
+- (local) partners host a "watching party"
+- online or in-person
+- maintaining sense of community for streamed workshop
+- own team lead as support
+- supportive and comfortable group environment
 
 ---
 
-<img src="img/2024-post-workshop-survey/colleagues.png"
-     alt="Plot about whether colleagues have been introduced"
-     style="width: 700px;"/>
+# Benefits for local organizers
 
-<img src="img/2024-post-workshop-survey/recommending.png"
-     alt="How likely are you to recommend?"
-     style="width: 500px;"/>
-
-
+- No need to organize whole workshop, instructors, learning material
+- Adjust side quests according to need
+- Supporting own people
+- Testbed for "such a course"
+- onboarding and orientation
+- direct support and help-line
 
 ---
 
-# Bring your own classroom
+# Experiences - TU Delft, NL
+
+> [...]
+> - [BYOC] allowed us to advance with the implementation of our Vision for Research Data & Software Management training and the implementation of TU Delft Research Software Policy by providing high quality and well-received training on FAIR software practices. 
+> - The involvement of our data stewards, software engineers and trainers as helpers in the CodeRefinery workshops have also provided them with a great opportunity to continuously improve their skills and learn from this great community. 
+> - The CodeRefinery learning materials are openly available and of excellent quality. We often refer our researchers to use them as consultation materials on our websites and/or guides.
+>[...] (Paula Martinez Lavanchy)
+
+---
+
+# Experiences - EMBL, DE
+
+> [...] a significant challenge: those that didn’t read carefully the workshop description on our website expected us to be the instructors and higher levels of interactivity with them. Besides this point on expectations management, I think your format really allows to reach the biggest possible audience, while also fostering the creation of local communities. We had in-room discussions during the breaks and created a local chat channel for the participants. That was used also in the following days while they were testing the skills learned on their setups. We were inspired by your format in designing ours for the BioNT project. (Lisanna Paladin)
+
+---
+
+# Experiences - NTNU, NO
+
+> [...] As a person taking the course from home during the pandemic I thought it was a bit difficult to motivate myself all along the 6 half days. This is probably why I thought it could be interesting to organize rooms here at NTNU in order to have people sitting, talking, sharing and helping each other, ... One of the biggest challenge is to keep the whole classroom from first to last day ... I think it's impossible 🙂 [...] 
+> I would assume that in person course would definitley be more successfull ... However, I undestand the difficulty when the instructors come from different countries and when you want to offer the workshop for free ! (Candy Eugenie Charlotte Anquetil Ep Deck)
+
+---
+
+# Experiences - DTU, DK
+
+> [...] We organized a physical room with everyone around one big table attending together in a kind of hackathon style, with our employer kindly sponsoring lunch and coffee to keep us going. Through the CodeRefinery online training, my participants were taken from no or very basic knowledge of scientific coding tools and practices to using version control, unit tests and collaborative workflows in the scientific work. [...]
+> I think the most challenging part for me was perhaps on the second run to facilitate the second of the two weeks, where the format had just been changed to less hands-on exercise based and more discussion based. [...]
+> In general, I believe attending these workshops as a group helped tremendously compared to attending individually (and compared to my fall back solution of teaching people individually which is always less effective due to other commitments, distractions etc.) due to being able to learn together and discuss in person with team mates. (Jakob Sauer Jørgensen)
 
 ---
 
 # What we have learned
 
-XX
-
 - Dedicated host needed
-- Confusion about the format
-- Timing
-- Week 1 vs week 2
-- ...
 
----
+- The format is new and confusing
 
-.left-column50[
-## Future: Community project
+- Exercise session timing is crucial
 
-- .emph[Communicate value] for volunteers and organizations
+- Week 1 vs week 2, exercises vs demo
 
-- Research groups send their students to us instead of
-  creating isolated material
-
-- .emph[More collaboration] with similar projects ("helper exchange program")
-
-- Governance is .emph[community-driven]
-]
-
-.right-column50[
-## Teaching format
-
-- Continue .emph[large-scale workshops]
-
-- Support .emph[local events]
-
-- More asynchronous content coupled with online events
-  (".emph[flipped classroom] approach")
-]
-
----
-
-## How you or your organization can participate
-
-.center[
-<img src="img/participate_organization_byoc.png"
-     alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 400px;"/>
-]
-
-- **Join our next workshop** starting next week; follow our [newsletter](https://coderefinery.org/about/newsletter/) to get involved
-- Tell your students and researchers about it
-- Send one or more **exercise teams** or **join as observer**
-- Use our material and give feedback
+- Feedback from local hosts is invaluable for further developing the format, Thank you <3 
 
 ---
 
 # What is in it for you?
-
-XX
 
 - .emph[Joining is easier than organizing]:
   It is easier to bring 10% to an event than to organize the 100% yourself
@@ -288,6 +196,29 @@ XX
 - .emph[Community as test-bed]: let's try out new ideas together
 
 ---
+
+# Many ways to join the experience
+
+.center[
+<img src="img/participate_organization_byoc.png"
+     alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
+     style="height: 400px;"/>
+]
+
+- **Join our next workshop** starting next week
+     - Learner
+     - Team leader/helper
+     - Local partner
+     - Organizer
+     - Observer
+- Tell your students and researchers about it (become an ambassador)
+- Use our material and give feedback
+
+.center[Let's work together to advance FAIR research software practices!]
+
+---
+
+
 
 # We try to make it easier to join
 
