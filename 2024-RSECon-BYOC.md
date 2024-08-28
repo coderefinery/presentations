@@ -94,6 +94,14 @@ Radovan Bast, UiT - The Arctic University of Norway
      style="width: 650px;"/>
 ]
 
+## Scaling with Community support - Bring your own classroom
+
+- (local) partners host a "watching party"
+- online or in-person
+- maintaining sense of community for streamed workshop
+- own team lead as support
+- supportive and comfortable group environment
+
 ---
 
 # Collaborative document: Markdown
@@ -111,15 +119,6 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
-# Scaling with Community support - Bring your own classroom
-
-- (local) partners host a "watching party"
-- online or in-person
-- maintaining sense of community for streamed workshop
-- own team lead as support
-- supportive and comfortable group environment
-
----
 
 # Experiences - TU Delft, NL
 
@@ -127,20 +126,23 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 > - [BYOC] allowed us to advance with the implementation of our Vision for Research Data & Software Management training and the implementation of TU Delft Research Software Policy by providing high quality and well-received training on FAIR software practices. 
 > - The involvement of our data stewards, software engineers and trainers as helpers in the CodeRefinery workshops have also provided them with a great opportunity to continuously improve their skills and learn from this great community. 
 > - The CodeRefinery learning materials are openly available and of excellent quality. We often refer our researchers to use them as consultation materials on our websites and/or guides.
->[...] (Paula Martinez Lavanchy)
+>[...] 
+> (Paula Martinez Lavanchy)
 
 ---
 
 # Experiences - EMBL, DE
 
-> [...] a significant challenge: those that didn’t read carefully the workshop description on our website expected us to be the instructors and higher levels of interactivity with them. Besides this point on expectations management, I think your format really allows to reach the biggest possible audience, while also fostering the creation of local communities. We had in-room discussions during the breaks and created a local chat channel for the participants. That was used also in the following days while they were testing the skills learned on their setups. We were inspired by your format in designing ours for the BioNT project. (Lisanna Paladin)
+> [...] a significant challenge: those that didn’t read carefully the workshop description on our website expected us to be the instructors and higher levels of interactivity with them. Besides this point on expectations management, I think your format really allows to reach the biggest possible audience, while also fostering the creation of local communities. We had in-room discussions during the breaks and created a local chat channel for the participants. That was used also in the following days while they were testing the skills learned on their setups. We were inspired by your format in designing ours for the BioNT project. 
+> (Lisanna Paladin)
 
 ---
 
 # Experiences - NTNU, NO
 
 > [...] As a person taking the course from home during the pandemic I thought it was a bit difficult to motivate myself all along the 6 half days. This is probably why I thought it could be interesting to organize rooms here at NTNU in order to have people sitting, talking, sharing and helping each other, ... One of the biggest challenge is to keep the whole classroom from first to last day ... I think it's impossible 🙂 [...] 
-> I would assume that in person course would definitley be more successfull ... However, I undestand the difficulty when the instructors come from different countries and when you want to offer the workshop for free ! (Candy Eugenie Charlotte Anquetil Ep Deck)
+> I would assume that in person course would definitley be more successfull ... However, I undestand the difficulty when the instructors come from different countries and when you want to offer the workshop for free ! 
+> (Candy Eugenie Charlotte Anquetil Ep Deck)
 
 ---
 
@@ -148,7 +150,8 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 > [...] We organized a physical room with everyone around one big table attending together in a kind of hackathon style, with our employer kindly sponsoring lunch and coffee to keep us going. Through the CodeRefinery online training, my participants were taken from no or very basic knowledge of scientific coding tools and practices to using version control, unit tests and collaborative workflows in the scientific work. [...]
 > I think the most challenging part for me was perhaps on the second run to facilitate the second of the two weeks, where the format had just been changed to less hands-on exercise based and more discussion based. [...]
-> In general, I believe attending these workshops as a group helped tremendously compared to attending individually (and compared to my fall back solution of teaching people individually which is always less effective due to other commitments, distractions etc.) due to being able to learn together and discuss in person with team mates. (Jakob Sauer Jørgensen)
+> In general, I believe attending these workshops as a group helped tremendously compared to attending individually (and compared to my fall back solution of teaching people individually which is always less effective due to other commitments, distractions etc.) due to being able to learn together and discuss in person with team mates. 
+> (Jakob Sauer Jørgensen)
 
 ---
 
@@ -159,6 +162,8 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 - The format is new and confusing
 
 - Exercise session timing is crucial
+
+- Collaborative document needs to be managed
 
 - Week 1 vs week 2, exercises vs demo
 
@@ -191,17 +196,14 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 .center[
 <img src="img/participate_organization_byoc.png"
      alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 400px;"/>
+     style="height: 300px;"/>
 ]
 
-- **Join our next workshop** starting next week
-     - Learner
-     - Team leader/helper
-     - Local partner
-     - Organizer
-     - Observer
+
+- **Join our upcoming workshop** starting next week
 - Tell your students and researchers about it (become an ambassador)
 - Use our material and give feedback
+
 
 .center[Let's work together to advance FAIR research software practices!]
 
@@ -209,7 +211,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 
 
-# We try to make it easier to join
+# Join us! 
 
 .left-column60[
 - **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
