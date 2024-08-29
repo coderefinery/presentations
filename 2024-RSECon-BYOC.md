@@ -121,18 +121,19 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 .quote[
 [...]
-- [BYOC] allowed us to advance with the **implementation of our vision** for
-  Research Data & Software Management training and the implementation of TU
-  Delft Research Software Policy by providing high quality and well-received
-  training on FAIR software practices. 
-- The involvement of our data stewards, software engineers and trainers as
-  helpers in the CodeRefinery workshops have also provided them with a **great
-  opportunity to continuously improve their skills** and learn from this great
-  community. 
-- The CodeRefinery learning materials are **openly available and of excellent
-  quality**. We often refer our researchers to use them as consultation materials
-  on our websites and/or guides.
+[BYOC] allowed us to advance with the **implementation of our vision** for
+Research Data & Software Management training and the implementation of TU Delft
+Research Software Policy by providing high quality and well-received training
+on FAIR software practices. 
 
+The involvement of our data stewards, software engineers and trainers as
+helpers in the CodeRefinery workshops have also provided them with a **great
+opportunity to continuously improve their skills** and learn from this great
+community. 
+
+The CodeRefinery learning materials are **openly available and of excellent
+quality**. We often refer our researchers to use them as consultation materials
+on our websites and/or guides.
 [...]
 ]
 
