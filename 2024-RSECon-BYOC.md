@@ -79,7 +79,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 ---
 
 
-# How can learners participate a workshop?
+# How can learners participate?
 
 .center[
 <img src="img/BYOC.png"
