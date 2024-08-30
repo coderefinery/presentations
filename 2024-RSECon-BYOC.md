@@ -7,6 +7,7 @@ class: center, middle, gray-background
 ## Bring your own Classroom to a CodeRefinery workshop
 
 Samantha Wittke, CSC - IT Center for Science, Finland
+
 Radovan Bast, UiT - The Arctic University of Norway
 
 <img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
@@ -22,32 +23,13 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-# CodeRefinery
+# CodeRefinery - A hub for FAIR research software practices
 
-.left-column50[
-### What we are
-
-- A hub for FAIR research software practices
-- Since 2016, currently funded by [NeIC](https://neic.no/)
-- Training network
-- Community 
-
-]
-
-.right-column50[
-### What we do
-
-- We teach and co-organize workshops
-- 2 annual main "tools" workshop + many others
-- Share lessons, video recordings, manuals
-- Teaching development
-- All open source and access and mostly under CC-BY license
-]
-
-.center[
-### Relation to research software engineering
+- Project currently funded by [NeIC](https://neic.no/)
 
 - We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+
+- Two main "tools" workshops a year and many others
 
 - [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
   [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
@@ -57,7 +39,7 @@ Radovan Bast, UiT - The Arctic University of Norway
      style="width: 650px;"/>
 ]
 
---- 
+---
 
 # [Available lesson material](https://coderefinery.org/lessons/)
 
@@ -66,7 +48,6 @@ Radovan Bast, UiT - The Arctic University of Norway
 - **Collaborative version control**: Branching, pull/merge requests, forks, and collaboration.
 - **Reproducible research**: Reproducible dependencies, environments, and computational steps.
 - **Social coding and open software**: Software and data licensing and software citation.
-
 ]
 
 .right-column50[
@@ -80,14 +61,10 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
-- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
-
 
 ---
 
-# Interactive streamed workshop?
-
-Collaborative notes!
+# Interactive streamed workshop? - Collaborative notes!
 
 - Real time *interaction* between learners and instructors 
 - Anonymous, parallel, asynchronous
@@ -99,12 +76,10 @@ Collaborative notes!
      alt="Screenshot of exercise title and questions in collaborative notes"
      style="width: 100%;" />
 
-We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-03-12-workshop/questions/)
-
 ---
 
 
-# How can learners participate?
+# How can learners participate a workshop?
 
 .center[
 <img src="img/BYOC.png"
@@ -114,11 +89,11 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ### Scaling with Community support - Bring your own classroom
 
-- (local) partners host a "watching party"
-- online or in-person
-- maintaining sense of community for streamed workshop
-- own team lead as support
-- supportive and comfortable group environment
+- (Local) partners host a "watching party"
+- Online or in-person
+- Maintaining sense of community for streamed workshop
+- Own team lead as support
+- Supportive and comfortable group environment
 
 
 ---
@@ -242,38 +217,30 @@ in person with team mates.
 .center[
 <img src="img/participate_organization_byoc.png"
      alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 400px;"/>
+     style="height: 500px;"/>
 ]
-
-.center[Let's work together to advance FAIR research software practices!]
 
 ---
 
 # Thank you for your attention!
 
-.left-column60[
-### We welcome everyone to join us :)
+### Join us!
 
-Contact:
-- **Chat with us**: [https://coderefinery.zulipchat.com](https://coderefinery.zulipchat.com)
-- [Support e-mail](support@coderefinery.org)
+- Contact: [CodeRefinery Zulip chat](https://coderefinery.zulipchat.com) & support@coderefinery.org
 
-Visit: [coderefinery.org](https://coderefinery.org/)
+- Website: [coderefinery.org](https://coderefinery.org/)
 
-]
+### These slides
 
-.right-column40[
-
-Link to slides: XX
-
-All text: CodeRefinery project, CC-BY 4.0
+XX
 
 ### Image credits
 
 - Slide 2: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
 
-]
+All text: CodeRefinery project, CC-BY 4.0
+
 
 
 
