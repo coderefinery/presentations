@@ -27,9 +27,9 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 - Project currently funded by [NeIC](https://neic.no/)
 
-- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs]
 
-- Two main "tools" workshops a year and many others
+- Two main "tools" workshops a year + other events
 
 - [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
   [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
@@ -37,8 +37,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 <img src="img/researcher_CR_RSE.png"
      alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
      style="width: 650px;"/>
-]
-
+     
 ---
 
 # [Available lesson material](https://coderefinery.org/lessons/)
@@ -51,13 +50,13 @@ Radovan Bast, UiT - The Arctic University of Norway
 ]
 
 .right-column50[
-- **How to document your research software**
+- **Documenting research software**
 - **Reusable and reproducible Jupyter notebooks**
 - **Automated testing**: Motivation, test design, and tools.
 - **Modular code development**: Organizing projects as they grow from one screen-full to larger.
 ]
 
-### Tested in [9 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
+### [9 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
@@ -78,7 +77,6 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-
 # How can learners participate?
 
 .center[
@@ -94,7 +92,6 @@ Radovan Bast, UiT - The Arctic University of Norway
 - Maintaining sense of community for streamed workshop
 - Own team lead as support
 - Supportive and comfortable group environment
-
 
 ---
 
@@ -230,6 +227,8 @@ in person with team mates.
 
 - Website: [coderefinery.org](https://coderefinery.org/)
 
+- [Next Workshop](https://coderefinery.github.io/2024-09-10-workshop) starting September 10th! 
+
 ### These slides
 
 XX
@@ -240,8 +239,3 @@ XX
 - All other images: CodeRefinery project, CC-BY 4.0
 
 All text: CodeRefinery project, CC-BY 4.0
-
-
-
-
-
