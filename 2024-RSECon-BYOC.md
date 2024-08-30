@@ -26,8 +26,11 @@ Radovan Bast, UiT - The Arctic University of Norway
 # Table of Content
 
 1. About the CodeRefinery project and workshops
+
 2. Bring your own classroom
+
 3. Lessons learned
+
 4. How can you join?
 
 ---
@@ -52,18 +55,25 @@ Radovan Bast, UiT - The Arctic University of Norway
 # [Available lesson material](https://coderefinery.org/lessons/)
 
 .left-column50[
-- **Introduction to version control**: Git and GitHub for own projects
-- **Collaborative version control**: Branching, pull/merge requests, forks, and collaboration.
-- **Reproducible research**: Reproducible dependencies, environments, and computational steps.
+- **Introduction to version control**
+
+- **Collaborative version control**
+
+- **Reproducible research**
+
+- **Social coding and open software**
 
 ]
 
 .right-column50[
-- **Social coding and open software**: Software and data licensing and software citation.
+
 - **Documenting research software**
+
 - **Reusable and reproducible Jupyter notebooks**
-- **Automated testing**: Motivation, test design, and tools.
-- **Modular code development**: Organizing projects as they grow from one screen-full to larger.
+
+- **Automated testing**
+
+- **Modular code development**
 ]
 
 .center[
@@ -76,11 +86,13 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-## Problem with large streamed workshops?
+# Problem with large streamed workshops?
 
 Lost interactivity!
 
-## What helps?
+<br><br>
+
+# What helps?
 
 - Tools (e.g. collaborative notes)
 - Bring your own classroom
