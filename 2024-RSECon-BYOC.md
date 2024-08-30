@@ -22,7 +22,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 - A hub for FAIR research software practices
 - Since 2016, currently funded by [NeIC](https://neic.no/)
 - Training network
-- Community (in our Zulip chat)
+- Community 
 
 ]
 
@@ -51,6 +51,22 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
+
+# Relation to research software engineering
+
+- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+
+- [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
+  [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
+
+.center[
+<img src="img/researcher_CR_RSE.png"
+     alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
+     style="width: 650px;"/>
+]
+
+--- 
+
 # [Available lesson material](https://coderefinery.org/lessons/)
 
 .left-column50[
@@ -77,20 +93,28 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-# Relation to research software engineering
+# How can we reach so many people?
 
-- We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+We stream!
 
-- [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
-  [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
+# But how can this be interactive?
 
-.center[
-<img src="img/researcher_CR_RSE.png"
-     alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
-     style="width: 650px;"/>
-]
+Collaborative notes!
+
+- Real time *interaction* between learners and instructors 
+- Anonymous, parallel, asynchronous
+- New question every 1-2 minutes!
+- ASCII-graph feedback
+- We use HedgeDoc hosted by Aalto University
+
+<img src="img/notes.png"
+     alt="Screenshot of exercise title and questions in collaborative notes"
+     style="width: 100%;" />
+
+We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-03-12-workshop/questions/)
 
 ---
+
 
 # How to participate as a learner
 
@@ -108,20 +132,6 @@ Radovan Bast, UiT - The Arctic University of Norway
 - own team lead as support
 - supportive and comfortable group environment
 
----
-
-# Collaborative document: Markdown
-
-- Real time *interaction* between learners and instructors 
-- Anonymous, parallel, asynchronous
-- New question every 1-2 minutes!
-- ASCII-graph feedback
-
-<img src="img/notes.png"
-     alt="Screenshot of exercise title and questions in collaborative notes"
-     style="width: 100%;" />
-
-We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-03-12-workshop/questions/)
 
 ---
 
@@ -205,37 +215,37 @@ in person with team mates.
 
 # What we have learned
 
-- Dedicated host needed
+- The format is new and confusing -> Communicating changes is hard
 
-- The format is new and confusing
+- Needs dedicated host for workshop and classroom
 
 - Exercise session timing is crucial
 
 - Collaborative document needs to be managed
 
-- Week 1 vs week 2, exercises vs demo -> Communicating changes is hard
+- Week 1 vs week 2, exercises vs demo 
 
 - Feedback from local hosts is invaluable for further developing the format, Thank you <3 
 
 ---
 
 
-# What is in it for you?
+# Benefits of bringing your own classroom
 
 - .emph[Joining is easier than organizing]:
-  It is easier to bring 10% to an event than to organize the 100% yourself
+  It is easier to bring 10% to an event than to organize it 100% yourself
 
-- .emph[Material / Experience exchange]: let's not reinvent the wheel
+- Material / Experience .emph[exchange]: Let's not reinvent the wheel
 
-- .emph[onboarding and orientation]
+- Onboarding and orientation
 
 - .emph[Side quests] according to own work/need
 
-- .emph[talk to own people] - direct support and help-line
+- Work with .emph[own people] - direct support and help-line
 
-- .emph[Train-the-trainer]: we can help you to get started
+- .emph[Train-the-trainer]: We can help you to get started
 
-- .emph[Community as test-bed]: let's try out new ideas together
+- .emph[Community] as test-bed: Let's try out new ideas together
 
 ---
 
@@ -244,7 +254,7 @@ in person with team mates.
 .center[
 <img src="img/participate_organization_byoc.png"
      alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 300px;"/>
+     style="height: 200px;"/>
 ]
 
 
@@ -257,14 +267,12 @@ in person with team mates.
 
 ---
 
-
-
-# Join us! 
+# Thank you for your attention!
 
 .left-column60[
-- **Chat with us**: https://coderefinery.zulipchat.com (ask questions about coding or learn about new tools)
+## We welcome everyone to join us :)
 
-- [Onboarding manual](https://coderefinery.github.io/manuals/onboarding/)
+- **Chat with us**: https://coderefinery.zulipchat.com 
 
 - [Blog](https://coderefinery.org/blog/)
 
@@ -275,36 +283,23 @@ in person with team mates.
 - [Mastodon](https://fosstodon.org/@coderefinery)
 
 - [Support e-mail](support@coderefinery.org)
+  
+- [Manuals](https://coderefinery.github.io/manuals/onboarding/)
 ]
 
 .right-column40[
-<img src="img/CR_teammeeting_mastodon_post.jpg"
-     alt="Screenshot of a weekly team meeting summary posted on Mastodon"
-     style="height: 450px;"/>
-]
 
-
----
-class: center, middle, inverse
-
-## These slides: XX
-
----
-
-# Credits and license
-
-## Text
+These slides: XX
 
 - All text: CodeRefinery project, CC-BY 4.0
 
+## Image credits
 
-## Images
-
-XX (currently old ones, needs to be updated)
-
-- Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slides 5, 8, 18: S. Wittke
-- Slide 12: ATC tower, P. R. Miller, CC-BY 2.0
-- Slide 12: Monitor setup, R. Darst
-- Slide 12: Logos, (c) respective organizations
+- Slide 2: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
+
+]
+
+
+
+
