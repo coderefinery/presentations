@@ -7,14 +7,22 @@ class: center, middle, gray-background
 ## Bring your own Classroom to a CodeRefinery workshop
 
 Samantha Wittke, CSC - IT Center for Science, Finland
-
 Radovan Bast, UiT - The Arctic University of Norway
+
+<img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
+<img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
+<img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
+<img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
+<img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
+<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
 
 ## RSECon, Newcastle 2024
 
 ---
 
-# Team and project: [coderefinery.org](https://coderefinery.org/)
+# CodeRefinery
 
 .left-column50[
 ### What we are
@@ -36,30 +44,14 @@ Radovan Bast, UiT - The Arctic University of Norway
 - All open source and access and mostly under CC-BY license
 ]
 
-### Who we are
-
-0.9 FTE (2 persons) + [10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
-
-<img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
-<img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
-<img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
-<img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
-<img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
-<img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
-<img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
-<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
-
----
-
-
-# Relation to research software engineering
+.center[
+### Relation to research software engineering
 
 - We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
 
 - [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
   [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
 
-.center[
 <img src="img/researcher_CR_RSE.png"
      alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
      style="width: 650px;"/>
@@ -93,11 +85,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-## How can we reach so many people?
-
-We stream!
-
-## But how can this be interactive?
+# Interactive streamed workshop?
 
 Collaborative notes!
 
@@ -249,19 +237,13 @@ in person with team mates.
 
 ---
 
-# Many ways to join the experience
+# How can you / your organization join?
 
 .center[
 <img src="img/participate_organization_byoc.png"
      alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 300px;"/>
+     style="height: 400px;"/>
 ]
-
-
-- **Join our upcoming workshop** starting next week
-- Tell your students and researchers about it (become an ambassador)
-- Use our material and give feedback
-
 
 .center[Let's work together to advance FAIR research software practices!]
 
@@ -272,19 +254,12 @@ in person with team mates.
 .left-column60[
 ### We welcome everyone to join us :)
 
-- **Chat with us**: https://coderefinery.zulipchat.com 
-
-- [Blog](https://coderefinery.org/blog/)
-
-- [Newsletter and chat digest](https://coderefinery.org/about/newsletter/)
-
-- [X/Twitter](https://twitter.com/coderefine)
-
-- [Mastodon](https://fosstodon.org/@coderefinery)
-
+Contact:
+- **Chat with us**: [https://coderefinery.zulipchat.com](https://coderefinery.zulipchat.com)
 - [Support e-mail](support@coderefinery.org)
-  
-- [Manuals](https://coderefinery.github.io/manuals/onboarding/)
+
+Visit: [coderefinery.org](https://coderefinery.org/)
+
 ]
 
 .right-column40[
