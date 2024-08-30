@@ -93,11 +93,11 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-# How can we reach so many people?
+## How can we reach so many people?
 
 We stream!
 
-# But how can this be interactive?
+## But how can this be interactive?
 
 Collaborative notes!
 
@@ -116,15 +116,15 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 ---
 
 
-# How to participate as a learner
+# How can learners participate?
 
 .center[
 <img src="img/BYOC.png"
      alt="Learner participation modes"
-     style="width: 650px;"/>
+     style="width: 550px;"/>
 ]
 
-## Scaling with Community support - Bring your own classroom
+### Scaling with Community support - Bring your own classroom
 
 - (local) partners host a "watching party"
 - online or in-person
@@ -213,19 +213,19 @@ in person with team mates.
 
 ---
 
-# What we have learned
+# What have we learned?
 
-- The format is new and confusing -> Communicating changes is hard
+- The format is new and confusing -> .emph[Communicating] changes is hard
 
-- Needs dedicated host for workshop and classroom
+- Needs .emph[dedicated host] for workshop and classroom
 
-- Exercise session timing is crucial
+- Exercise session .emph[timing is crucial]
 
 - Collaborative document needs to be managed
 
 - Week 1 vs week 2, exercises vs demo 
 
-- Feedback from local hosts is invaluable for further developing the format, Thank you <3 
+- Feedback from local hosts is invaluable for further developing the format, **Thank you <3** 
 
 ---
 
@@ -254,7 +254,7 @@ in person with team mates.
 .center[
 <img src="img/participate_organization_byoc.png"
      alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 200px;"/>
+     style="height: 300px;"/>
 ]
 
 
@@ -270,7 +270,7 @@ in person with team mates.
 # Thank you for your attention!
 
 .left-column60[
-## We welcome everyone to join us :)
+### We welcome everyone to join us :)
 
 - **Chat with us**: https://coderefinery.zulipchat.com 
 
@@ -289,11 +289,11 @@ in person with team mates.
 
 .right-column40[
 
-These slides: XX
+Link to slides: XX
 
-- All text: CodeRefinery project, CC-BY 4.0
+All text: CodeRefinery project, CC-BY 4.0
 
-## Image credits
+### Image credits
 
 - Slide 2: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
