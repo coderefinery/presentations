@@ -76,23 +76,25 @@ Radovan Bast, UiT - The Arctic University of Norway
 - **Modular code development**
 ]
 
-.center[
-### [9 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
+
+### Developed over [9 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
-- We stream our workshops - for many different reasons
-]
+- We stream our workshops - for many reasons
+
 
 ---
 
 # Problem with large streamed workshops?
 
+.center[
 Lost interactivity!
+]
 
 <br><br>
 
-# What helps?
+# What can help?
 
 - Tools (e.g. collaborative notes)
 - Bring your own classroom
