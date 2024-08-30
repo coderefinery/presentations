@@ -1,4 +1,4 @@
-class: center, middle, gray-background
+class: center, middle
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
@@ -23,6 +23,15 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
+# Table of Content
+
+1. About the CodeRefinery project and workshops
+2. Bring your own classroom
+3. Lessons learned
+4. How can you join?
+
+---
+
 # CodeRefinery - A hub for FAIR research software practices
 
 - Project currently funded by [NeIC](https://neic.no/)
@@ -36,7 +45,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 <img src="img/researcher_CR_RSE.png"
      alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
-     style="width: 650px;"/>
+     style="width: 600px;"/>
      
 ---
 
@@ -46,10 +55,11 @@ Radovan Bast, UiT - The Arctic University of Norway
 - **Introduction to version control**: Git and GitHub for own projects
 - **Collaborative version control**: Branching, pull/merge requests, forks, and collaboration.
 - **Reproducible research**: Reproducible dependencies, environments, and computational steps.
-- **Social coding and open software**: Software and data licensing and software citation.
+
 ]
 
 .right-column50[
+- **Social coding and open software**: Software and data licensing and software citation.
 - **Documenting research software**
 - **Reusable and reproducible Jupyter notebooks**
 - **Automated testing**: Motivation, test design, and tools.
@@ -61,34 +71,29 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
+- We stream our workshops - for many different reasons
 ]
 
 ---
 
-# Interactive streamed workshop? 
-## - Collaborative notes!
+## Problem with large streamed workshops?
 
-- Real time *interaction* between learners and instructors 
-- Anonymous, parallel, asynchronous
-- New question every 1-2 minutes!
-- ASCII-graph feedback
-- We use HedgeDoc hosted by Aalto University
+Lost interactivity!
 
-<img src="img/notes.png"
-     alt="Screenshot of exercise title and questions in collaborative notes"
-     style="width: 100%;" />
+## What helps?
+
+- Tools (e.g. collaborative notes)
+- Bring your own classroom
 
 ---
 
-# How can learners participate?
+# Bring your own classroom
 
 .center[
 <img src="img/BYOC.png"
      alt="Learner participation modes"
      style="width: 550px;"/>
 ]
-
-### Scaling with Community support - Bring your own classroom
 
 - (Local) partners host a "watching party"
 - Online or in-person
@@ -98,95 +103,51 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
+# Experiences
+
 .quote[
-[...]
-[BYOC] allowed us to advance with the **implementation of our vision** for
+[...] allowed us to advance with the **implementation of our vision** for
 Research Data & Software Management training and the implementation of TU Delft
-Research Software Policy by providing high quality and well-received training
-on FAIR software practices. 
-
-The involvement of our data stewards, software engineers and trainers as
-helpers in the CodeRefinery workshops have also provided them with a **great
-opportunity to continuously improve their skills** and learn from this great
-community. 
-
-The CodeRefinery learning materials are **openly available and of excellent
-quality**. We often refer our researchers to use them as consultation materials
-on our websites and/or guides.
-[...]
+Research Software Policy [...]
 ]
-
 (Paula Martinez Lavanchy, TU Delft, NL)
 
----
-
 .quote[
-[...] a significant challenge: those that didn’t read carefully the workshop
-description on our website expected us to be the instructors and higher
-levels of interactivity with them. Besides this point on expectations
-management, I think your format really **allows to reach the biggest possible
-audience**, while also fostering the **creation of local communities**. We had
-in-room discussions during the breaks and created a local chat channel for
-the participants. That was used also in the following days while they were
-testing the skills learned on their setups. We were **inspired by your format**
-in designing ours for the BioNT project. 
+[...] I think your format really **allows to reach the biggest possible
+audience**, while also fostering the **creation of local communities**. [...]
 ]
-
 (Lisanna Paladin, EMBL, DE)
 
 ---
 
+# Experiences
+
 .quote[
-[...] As a person taking the course from home during the pandemic I thought it
-was a bit difficult to motivate myself all along the 6 half days. This is
-probably why I thought it could be interesting to organize rooms here at NTNU
-in order to have people sitting, talking, sharing and helping each other, ...
-One of the biggest **challenge is to keep the whole classroom from first to last
+[...] One of the biggest **challenge is to keep the whole classroom from first to last
 day** ... I think it's impossible 🙂 [...] 
-
-I would assume that **in person course** would definitely be more successful ...
-However, I understand the difficulty when the instructors come from different
-countries and when you want to offer the workshop for free!
 ]
-
-(Candy Eugenie Charlotte Anquetil Ep Deck, NTNU, NO)
-
----
+(Candy Deck, NTNU, NO)
 
 .quote[
-[...] We organized a physical room with everyone around one big table attending
-together in a kind of hackathon style, with our employer kindly sponsoring
-lunch and coffee to keep us going. Through the CodeRefinery online training, my
-participants were taken **from no or very basic knowledge of scientific coding
-tools and practices** to using version control, unit tests and collaborative
-workflows in the scientific work. [...]
-
-I think the most challenging part for me was perhaps on the second run to
-facilitate the second of the two weeks, where the format had just been changed
-to less hands-on exercise based and more discussion based. [...]
-
-In general, I believe **attending these workshops as a group helped tremendously**
-compared to attending individually (and compared to my fall back solution of
-teaching people individually which is always less effective due to other
-commitments, distractions etc.) due to being able to learn together and discuss
+[...] In general, I believe **attending these workshops as a group helped tremendously**
+compared to attending individually [...] due to being able to learn together and discuss
 in person with team mates. 
 ]
-
 (Jakob Sauer Jørgensen, DTU, DK)
+
+Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classroom/)!
 
 ---
 
 # What have we learned?
 
-- The format is new and confusing -> .emph[Communicating] changes is hard
-
-- Needs .emph[dedicated host] for workshop and classroom
+- The format is new and confusing 
 
 - Exercise session .emph[timing is crucial]
 
 - Collaborative document needs to be managed
 
-- Week 1 vs week 2, exercises vs demo 
+- Clearly communicate what learners are supposed to be doing
 
 - Feedback from local hosts is invaluable for further developing the format, **Thank you <3** 
 
@@ -195,10 +156,7 @@ in person with team mates.
 
 # Benefits of bringing your own classroom
 
-- .emph[Joining is easier than organizing]:
-  It is easier to bring 10% to an event than to organize it 100% yourself
-
-- Material / Experience .emph[exchange]: Let's not reinvent the wheel
+- Get the .emph[interactivity] of own classroom without organizing a full course
 
 - Onboarding and orientation
 
