@@ -25,13 +25,13 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 # Table of Content
 
+<br><br>
+
 1. About the CodeRefinery project and workshops
 
 2. Bring your own classroom
 
-3. Lessons learned
-
-4. How can you join?
+3. How can you join?
 
 ---
 
@@ -39,12 +39,11 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 - Project currently funded by [NeIC](https://neic.no/)
 
+- Tightly connected to [Nordic RSE](https://nordic-rse.org/)
+
+- Two main online workshops a year, free of charge, everyone welcome
+
 - We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs]
-
-- Two main "tools" workshops a year + other events
-
-- [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
-  [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
 
 <img src="img/researcher_CR_RSE.png"
      alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
@@ -161,7 +160,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 - Collaborative document needs to be managed
 
-- Clearly communicate what learners are supposed to be doing
+- .emph[Clearly communicate] what learners are supposed to be doing
 
 - Feedback from local hosts is invaluable for further developing the format, **Thank you <3** 
 
@@ -172,7 +171,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 - Get the .emph[interactivity] of own classroom without organizing a full course
 
-- Onboarding and orientation
+- Get onboarding and orientation
 
 - .emph[Side quests] according to own work/need
 
