@@ -16,12 +16,25 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 # Team and project: [coderefinery.org](https://coderefinery.org/)
 
+.left-column50[
 ### What we are
 
 - A hub for FAIR research software practices
 - Since 2016, currently funded by [NeIC](https://neic.no/)
 - Training network
 - Community (in our Zulip chat)
+
+]
+
+.right-column50[
+### What we do
+
+- We teach and co-organize workshops
+- 2 annual main "tools" workshop + many others
+- Share lessons, video recordings, manuals
+- Teaching development
+- All open source and access and mostly under CC-BY license
+]
 
 ### Who we are
 
@@ -36,14 +49,6 @@ Radovan Bast, UiT - The Arctic University of Norway
 <img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
 <img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
 
-### What we do
-
-- We teach and co-organize workshops
-- 2 annual main "tools" workshop + many others
-- Share lessons, video recordings, manuals
-- Teaching development
-- All open source and access and mostly under CC-BY license
-
 ---
 
 # [Available lesson material](https://coderefinery.org/lessons/)
@@ -53,21 +58,22 @@ Radovan Bast, UiT - The Arctic University of Norway
 - **Collaborative version control**: Branching, pull/merge requests, forks, and collaboration.
 - **Reproducible research**: Reproducible dependencies, environments, and computational steps.
 - **Social coding and open software**: Software and data licensing and software citation.
-- **How to document your research software**
-- **Reusable and reproducible Jupyter notebooks**
+
 ]
 
 .right-column50[
+- **How to document your research software**
+- **Reusable and reproducible Jupyter notebooks**
 - **Automated testing**: Motivation, test design, and tools.
 - **Modular code development**: Organizing projects as they grow from one screen-full to larger.
-
+]
 
 ### Tested in [9 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
 - Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
-]
+
 
 ---
 
@@ -207,7 +213,7 @@ in person with team mates.
 
 - Collaborative document needs to be managed
 
-- Week 1 vs week 2, exercises vs demo
+- Week 1 vs week 2, exercises vs demo -> Communicating changes is hard
 
 - Feedback from local hosts is invaluable for further developing the format, Thank you <3 
 
