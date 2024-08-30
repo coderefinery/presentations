@@ -56,14 +56,17 @@ Radovan Bast, UiT - The Arctic University of Norway
 - **Modular code development**: Organizing projects as they grow from one screen-full to larger.
 ]
 
+.center[
 ### [9 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
+]
 
 ---
 
-# Interactive streamed workshop? - Collaborative notes!
+# Interactive streamed workshop? 
+## - Collaborative notes!
 
 - Real time *interaction* between learners and instructors 
 - Anonymous, parallel, asynchronous
@@ -214,7 +217,7 @@ in person with team mates.
 .center[
 <img src="img/participate_organization_byoc.png"
      alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 500px;"/>
+     style="height: 450px;"/>
 ]
 
 ---
