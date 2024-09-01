@@ -46,7 +46,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 - We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs]
 
 <img src="img/researcher_CR_RSE.png"
-     alt="From researcher to researcher who codes to CodeRefinery to Research Software Engineer"
+     alt="A handdrawn graphic showing the pathway from researcher to researcher who codes to CodeRefinery to Research Software Engineer, each of the steps does not only lead to the next step, but multiple lines indicate that it is only one possible next step"
      style="width: 600px;"/>
      
 ---
@@ -88,7 +88,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 # Problem with large streamed workshops?
 
 .center[
-Lost interactivity!
+Interactivity & sense of community
 ]
 
 <br><br>
@@ -104,15 +104,14 @@ Lost interactivity!
 
 .center[
 <img src="img/BYOC.png"
-     alt="Learner participation modes"
+     alt="Hand drawn graphic in grey and purple showing the CodeRefinery livestream on the left with two instructors teaching git, on the right hand side, the three workshop participation modes are shown: individual learners, online classroom and local classroom, in the middle a telescope is shown indicating that everyone watches the stream, underneath an large arrow with the words interact and notes are shown indicating that interaction between instructors and learners happens via collaborative notes. Small arrows between learners in the local and online classroom indicate another level of interaction."
      style="width: 550px;"/>
 ]
 
 - (Local) partners host a "watching party"
 - Online or in-person
-- Maintaining sense of community for streamed workshop
 - Own team lead as support
-- Supportive and comfortable group environment
+- Small group
 
 ---
 
@@ -148,13 +147,15 @@ in person with team mates.
 ]
 (Jakob Sauer Jørgensen, DTU, DK)
 
+<br>
+
 Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classroom/)!
 
 ---
 
 # What have we learned?
 
-- The format is new and confusing 
+- The format is new and confusing
 
 - Exercise session .emph[timing is crucial]
 
@@ -162,7 +163,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 - .emph[Clearly communicate] what learners are supposed to be doing
 
-- Feedback from local hosts is invaluable for further developing the format, **Thank you <3** 
+- Feedback from local hosts is invaluable for further developing the format, **Thank you <3**
 
 ---
 
@@ -195,7 +196,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 # Thank you for your attention!
 
-### Join us!
+### Join us
 
 - Contact: [CodeRefinery Zulip chat](https://coderefinery.zulipchat.com) & support@coderefinery.org
 
