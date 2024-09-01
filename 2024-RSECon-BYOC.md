@@ -85,7 +85,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-# Problem with large streamed workshops?
+## Problem with large streamed workshops?
 
 .center[
 Interactivity & sense of community
@@ -97,7 +97,7 @@ Interactivity & sense of community
 
 <br>
 
-# What can help?
+## What can help?
 
 - Tools (e.g. collaborative notes)
 - Bring your own classroom
@@ -112,6 +112,8 @@ Interactivity & sense of community
      style="width: 650px;"/>
 ]
 
+<br>
+
 - (Local) partners host a "watching party"
 - Online or in-person
 - Own team lead as support
@@ -121,12 +123,16 @@ Interactivity & sense of community
 
 # Experiences
 
+<br>
+
 .quote[
 [...] allowed us to advance with the **implementation of our vision** for
 Research Data & Software Management training and the implementation of TU Delft
 Research Software Policy [...]
 ]
 (Paula Martinez Lavanchy, TU Delft, NL)
+
+<br>
 
 .quote[
 [...] I think your format really **allows to reach the biggest possible
@@ -138,11 +144,15 @@ audience**, while also fostering the **creation of local communities**. [...]
 
 # Experiences
 
+<br>
+
 .quote[
 [...] One of the biggest **challenge is to keep the whole classroom from first to last
 day** ... I think it's impossible 🙂 [...] 
 ]
 (Candy Deck, NTNU, NO)
+
+<br>
 
 .quote[
 [...] In general, I believe **attending these workshops as a group helped tremendously**
@@ -159,6 +169,8 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 # What have we learned?
 
+<br>
+
 - The format is new and confusing
 
 - Exercise session .emph[timing is crucial]
@@ -173,6 +185,8 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 
 # Benefits of bringing your own classroom
+
+<br>
 
 - Get the .emph[interactivity] of own classroom without organizing a full course
 
@@ -193,7 +207,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 .center[
 <img src="img/joining.png"
      alt="Graphics that summarizes how people and organizations can participate: by advertizing, by sending observers or organizing local classroom or through becoming a co-instructor. Each of the ways has a little graphic next to it: news scroll, telesecope, box with four figures, one of which with glasses, two figures with glasses and hats."
-     style="height: 450px;"/>
+     style="height: 400px;"/>
 ]
 
 ---
