@@ -210,7 +210,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 #### These slides
 
-XX
+10.5281/zenodo.13625954
 
 #### Credits and license
 
