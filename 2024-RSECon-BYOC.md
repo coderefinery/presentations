@@ -89,9 +89,13 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 .center[
 Interactivity & sense of community
+
+<img src="img/interaction.png"
+     alt="Graphics that shows how workshop participants can hear and see the instructors on stream but the instructors cannot hear or see the participants. This is indicated by an arrow with a speech bubble and an eye going from the CodeRefinery stream indicated by a box with two figures with glasses and hats and the words git to a crowd of figures. Another arrow from the crowd to the instructors shows a question mark"
+     style="height: 300px;"/>
 ]
 
-<br><br>
+<br>
 
 # What can help?
 
@@ -105,7 +109,7 @@ Interactivity & sense of community
 .center[
 <img src="img/BYOC.png"
      alt="Hand drawn graphic in grey and purple showing the CodeRefinery livestream on the left with two instructors teaching git, on the right hand side, the three workshop participation modes are shown: individual learners, online classroom and local classroom, in the middle a telescope is shown indicating that everyone watches the stream, underneath an large arrow with the words interact and notes are shown indicating that interaction between instructors and learners happens via collaborative notes. Small arrows between learners in the local and online classroom indicate another level of interaction."
-     style="width: 550px;"/>
+     style="width: 650px;"/>
 ]
 
 - (Local) partners host a "watching party"
@@ -187,16 +191,16 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 # How can you / your organization join?
 
 .center[
-<img src="img/participate_organization_byoc.png"
-     alt="Graphics that summarizes how organizations can participate: by advertizing, by sending observers or organizing local teams or through in-kind support"
-     style="height: 450px;"/>
+<img src="img/joining.png"
+     alt="Graphics that summarizes how people and organizations can participate: by advertizing, by sending observers or organizing local classroom or through becoming a co-instructor. Each of the ways has a little graphic next to it: news scroll, telesecope, box with four figures, one of which with glasses, two figures with glasses and hats."
+     style="height: 550px;"/>
 ]
 
 ---
 
 # Thank you for your attention!
 
-### Join us
+#### Join us
 
 - Contact: [CodeRefinery Zulip chat](https://coderefinery.zulipchat.com) & support@coderefinery.org
 
@@ -204,13 +208,12 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 - [Next Workshop](https://coderefinery.github.io/2024-09-10-workshop) starting September 10th! 
 
-### These slides
+#### These slides
 
 XX
 
-### Image credits
+#### Credits and license
 
 - Slide 2: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
-
-All text: CodeRefinery project, CC-BY 4.0
+- All text: CodeRefinery project, CC-BY 4.0
