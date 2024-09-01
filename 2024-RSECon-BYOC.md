@@ -6,7 +6,7 @@ class: center, middle
 
 ## Bring your own Classroom to a CodeRefinery workshop
 
-Samantha Wittke, CSC - IT Center for Science, Finland
+Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)
 
 Radovan Bast, UiT - The Arctic University of Norway
 
