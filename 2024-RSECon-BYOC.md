@@ -23,15 +23,15 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-# Table of Content
+# What is this presentation about?
 
 <br><br>
 
-1. About the CodeRefinery project and workshops
+1. The CodeRefinery project and workshops
 
-2. Bring your own classroom
+2. The bring your own classroom approach
 
-3. How can you join?
+3. How you can join
 
 ---
 
@@ -152,8 +152,6 @@ day** ... I think it's impossible 🙂 [...]
 ]
 (Candy Deck, NTNU, NO)
 
-<br>
-
 .quote[
 [...] In general, I believe **attending these workshops as a group helped tremendously**
 compared to attending individually [...] due to being able to learn together and discuss
@@ -203,6 +201,8 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 ---
 
 # How can you / your organization join?
+
+<br>
 
 .center[
 <img src="img/joining.png"
