@@ -2,7 +2,7 @@ class: center, middle
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
-     style="height: 250px;"/>
+     style="height: 200px;"/>
 
 ## Bring your own Classroom to a CodeRefinery workshop
 
@@ -92,7 +92,7 @@ Interactivity & sense of community
 
 <img src="img/interaction.png"
      alt="Graphics that shows how workshop participants can hear and see the instructors on stream but the instructors cannot hear or see the participants. This is indicated by an arrow with a speech bubble and an eye going from the CodeRefinery stream indicated by a box with two figures with glasses and hats and the words git to a crowd of figures. Another arrow from the crowd to the instructors shows a question mark"
-     style="height: 300px;"/>
+     style="height: 200px;"/>
 ]
 
 <br>
@@ -193,7 +193,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 .center[
 <img src="img/joining.png"
      alt="Graphics that summarizes how people and organizations can participate: by advertizing, by sending observers or organizing local classroom or through becoming a co-instructor. Each of the ways has a little graphic next to it: news scroll, telesecope, box with four figures, one of which with glasses, two figures with glasses and hats."
-     style="height: 550px;"/>
+     style="height: 450px;"/>
 ]
 
 ---
