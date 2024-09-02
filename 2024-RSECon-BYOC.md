@@ -54,25 +54,25 @@ Radovan Bast, UiT - The Arctic University of Norway
 # [Available lesson material](https://coderefinery.org/lessons/)
 
 .left-column50[
-- **Introduction to version control**
+- Introduction to version control
 
-- **Collaborative version control**
+- Collaborative version control
 
-- **Reproducible research**
+- Reproducible research
 
-- **Social coding and open software**
+- Social coding and open software
 
 ]
 
 .right-column50[
 
-- **Documenting research software**
+- Documenting research software
 
-- **Reusable and reproducible Jupyter notebooks**
+- Reusable and reproducible Jupyter notebooks
 
-- **Automated testing**
+- Automated testing
 
-- **Modular code development**
+- Modular code development
 ]
 
 
