@@ -66,7 +66,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 .right-column50[
 
-- Documenting research software
+- Documentation
 
 - Reusable and reproducible Jupyter notebooks
 
