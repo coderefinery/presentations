@@ -169,7 +169,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 <br>
 
-- The format is new and confusing
+- The format is unusual and requires some getting used to
 
 - Exercise session .emph[timing is crucial]
 
