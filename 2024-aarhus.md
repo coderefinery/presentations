@@ -2,7 +2,11 @@ class: center, middle, gray-background
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
-     style="height: 250px;"/>
+     style="height: 160px;"/>
+&nbsp;
+<img src="img/uit-rse-logo.png"
+     alt="UiT RSE logo"
+     style="height: 180px;"/>
 
 ## Competence Development, the CodeRefinery way
 
@@ -30,6 +34,30 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
+## Plan for today
+
+.left-column60[
+- What is CodeRefinery?
+
+- The evolution of research software engineering (RSE)
+
+- Learning software engineering craft in the age of AI?
+
+- Thoughts about how to support career development of RSEs
+
+- Fostering collaboration between RSEs and researchers
+
+- Which competences might be needed in the future?
+]
+
+.right-column30[
+<img src="img/coderefinery.png"
+     alt="CodeRefinery logo"
+     style="height: 150px;"/>
+]
+
+---
+
 ## What is CodeRefinery?
 
 - A hub for FAIR research software practices
@@ -42,7 +70,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ### Relation to research software engineering
 
-- We teach topics which are **helpful for researchers** and **essential for RSEs**.
+- We teach topics which are **helpful for researchers** and **essential for RSEs**
 - [Nordic RSE](https://nordic-rse.org/) colleagues hang out and discuss on the
   [CodeRefinery community chat](https://coderefinery.zulipchat.com/)
 
@@ -57,7 +85,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 .center[
 <img src="img/reproducible-research.jpg"
      alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing computing environment, publishing cresearch outputs"
-     style="height: 450px;"/>
+     style="height: 460px;"/>
 ]
 
 .cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
@@ -164,42 +192,110 @@ Similar projects:
      style="width: 500px;"/>
 
 ---
+class: middle, inverse, center
 
-## Competence building for staff (1/3)
+# The evolution of research software engineering (RSE)
+
+---
+
+- what is an RSE?
+- term is now 10 years old
+- How has the role of research software engineers (RSEs) changed in academia, particularly in the social
+  sciences and humanities
+- what future trends might we expect?
+
+---
+class: middle, inverse, center
+
+# Learning software engineering craft in the age of AI?
+
+---
+
+With the rise of AI, how do we ensure that essential software engineering
+skills are not overlooked? How do we balance the excitement around AI with the
+need for robust software infrastructures?
+
+- transition from laptop to supercomputer
+- transition from one researcher to the next
+- diversity: take ownership of system quality, performance, and ethical considerations like bias and fairness
+- critical thinking
+- being able to adapt requires being able to understand
+- AI generated result might not optimize for being easy for humans to understand and transform
+- erosion of creativity and innovation?
+   - but then again it can be like seeing somebody else work and learning new things from them
+- craftsmanship and skill mastery
+- tool dependency and lock-in
+- being able to share knowledge: papers, data, code, models, licensing, reusability
+
+---
+class: middle, inverse, center
+
+# Thoughts about how to support career development of RSEs
+
+---
+
+Insights on how institutions can better support RSEs in developing sustainable
+academic careers, particularly in light of the hybrid roles many of them occupy
+(part researcher, part engineer).
+
+- 70/20/10 model
+- encourage open-source work
+- encourage own research and own funding applications
+- working one or two days a week in a research group (or vice versa)
+- exchange programs
+- ability to build own groups
+- X-Y problem
+- talking to people instead of email only
+- encourage sharing work and credit sharing work
+
+---
+class: middle, inverse, center
+
+# Fostering collaboration between RSEs and researchers
+
+---
+
+What are some best practices for fostering collaboration between RSEs and
+researchers, and how can these be scaled across different institutions and
+disciplines?
+
+- guiding/mentoring instead of just doing
+- choice of language/technology: maintainability
+- funding silos
+- time reporting and cost objects
+- identify those who want to help and allow them to
+- exchange programs
+- co-teaching
+- conferences
+- RSE conferences
+- researchers collaborating vs IT staff collaborating
+
+---
+class: middle, inverse, center
+
+# Which competences might be needed in the future?
+
+---
+
+- containerization
+- sharing work with your future self
+- training
+- decommisioning/sunsetting
+
+---
 
 - Teaching isn't a lecture anymore. It's more
   .emph[like a live TV production], which *can* be as interactive as people in
   a room.
-
 - .emph[Co-teaching] is a great way to onboard, get better quality, and reduce
   stress.
-
-- We need to exchange best practices in .emph[installation instructions] and on-boarding.
-
-- There is a case for .emph[self-paced learning using short videos] (e.g. MOOCs). We all
-  need collaboration and training in these tools.
-
----
-
-## Competence building for staff (2/3)
-
 - .emph[FAIR practices] also for training material.
-
 - For technical topics, the lone lecturer with their own private PowerPoint/PDF
   slide deck might be a thing of the past.
-
 - Collaboration requires .emph[communication and coordination]. We need to normalize communication as part of work.
-
 - We all need .emph[training in how to train] and how to mentor.
-
----
-
-## Competence building for staff (3/3)
-
 - .emph[AI] will bring new users to the door of HPC. We need to be ready to welcome and support them.
-
 - Give staff the .emph[freedom to experiment] with the tools they are expected to teach.
-
 - .emph[Exchange programs] for staff to learn from other institutions.
 
 ---
