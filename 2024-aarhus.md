@@ -269,17 +269,84 @@ need for robust software infrastructures?
 
 ---
 
-- transition from laptop to supercomputer
-- transition from one researcher to the next
-- diversity: take ownership of system quality, performance, and ethical considerations like bias and fairness
-- critical thinking
-- being able to adapt requires being able to understand
-- AI generated result might not optimize for being easy for humans to understand and transform
-- erosion of creativity and innovation?
-   - but then again it can be like seeing somebody else work and learning new things from them
-- craftsmanship and skill mastery
-- tool dependency and lock-in
-- being able to share knowledge: papers, data, code, models, licensing, reusability
+## AI tools used in software engineering: Q&A
+
+<img src="img/competence-development/chatgpt.png"
+     alt="Screenshot from a ChatGPT conversation"
+     style="height: 400px;"/>
+
+---
+
+## AI tools used in software engineering: Code completion
+
+<img src="img/competence-development/code-completion.gif"
+     alt="Screencast showing how AI suggests code completion"
+     style="height: 400px;"/>
+
+---
+
+## AI tools used in software engineering
+
+.left-column50[
+### Sometimes I am the mentor
+
+- Code completion
+
+- Write a test based on an implementation
+
+- Write an implementation based on a test
+
+- ...
+]
+
+.right-column50[
+### Sometimes I am the apprentice
+
+- Explain a concept
+
+- Improve code
+
+- Show a better alternative
+
+- ...
+]
+
+---
+class: middle, inverse, center
+
+Erwin Knoll's law of media accuracy:
+
+## "Everything you read in the newspapers is absolutely true except for the rare story of which you happen to have firsthand knowledge."
+
+---
+
+## We need experts with craftsmanship, skill mastery, and critical thinking
+
+
+### Moving solutions from laptop to supercomputer and from one person to another
+
+- Sharing knowledge involves: Papers, data, code, models, dependencies, computational steps, licensing, reusability.
+
+
+
+### Software development is often adapting previous solutions to new problems
+
+- AI generated result might not optimize for being easy for humans to understand and transform.
+- But we need to understand if we want to adapt.
+- Choice of language/technology and maintainability.
+
+---
+
+## Other risks
+
+- Tool dependency and lock-in.
+
+- Lack of oversight: Ethical considerations like bias and fairness.
+
+- Lack of diversity.
+
+- Erosion of creativity and innovation?
+   - But then again AI can be used as mentor and present solutions that are new to the user.
 
 ---
 class: middle, inverse, center
@@ -291,18 +358,54 @@ particularly in light of the hybrid roles many of them occupy (part researcher,
 part engineer).
 
 ---
+class: middle, inverse, center
 
-- 70/20/10 model
-- encourage open-source work
-- encourage own research and own funding applications
-- working one or two days a week in a research group (or vice versa)
-- exchange programs
-- ability to build own groups
-- X-Y problem
-- talking to people instead of email only
-- encourage sharing work and credit sharing work
-- Give staff the .emph[freedom to experiment] with the tools they are expected to teach.
+# .huge[70/20/10]
+
+# .huge[model]
+
+---
+
+## Remember how you learned about tab completion?
+
+.left-column50[
+<img src="img/competence-development/tab-completion.gif"
+     alt="Screencast showing tab completion in a terminal"
+     style="height: 400px;"/>
+]
+
+.right-column50[
+You saw somebody else use it.
+
+.quote["Oh, that's cool, I want that too"]
+
+The value of .emph[seeing somebody else work] and .emph[mentoring] is huge.
+]
+
+---
+
+### Recognition
+
+- Encourage own funding applications.
+- Make it possible to build own groups.
+
+
+### Learning from others
+
+- 1-2 days/week immersion in a research group (or vice versa).
 - .emph[Exchange programs] for staff to learn from other institutions.
+
+
+### Encourage sharing work
+
+- Being able to showcase work on CV does not have to be a way to lose staff but
+  can be a way to attract staff.
+
+
+### If we want to teach we also have to learn
+
+- .emph[Freedom to experiment] with the tools we are expected to teach.
+- Encourage .emph[open-source work] to support the tools we depend on.
 
 ---
 class: middle, inverse, center
@@ -315,16 +418,17 @@ disciplines?
 
 ---
 
+- X-Y problem
+- talking to people instead of email only
 - guiding/mentoring instead of just doing
-- choice of language/technology: maintainability
+- meeting in the coffee room
+
+---
+
 - funding silos
 - time reporting and cost objects
-- identify those who want to help and allow them to
-- exchange programs
-- co-teaching
-- conferences
-- RSE conferences
 - researchers collaborating vs IT staff collaborating
+- identify those who want to help and allow them to
 
 ---
 class: middle, inverse, center

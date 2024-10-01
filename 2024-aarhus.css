@@ -157,6 +157,11 @@ a {
   font-style: italic;
 }
 
+.huge {
+  font-size: 2.5em;
+  line-height: 1.0;
+}
+
 .quote {
   color: #856190;
   font-family: 'Kalam', cursive;
