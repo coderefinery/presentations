@@ -263,11 +263,11 @@ class: middle, inverse, center
 
 # Learning software engineering craft in the age of AI?
 
----
-
 With the rise of AI, how do we ensure that essential software engineering
 skills are not overlooked? How do we balance the excitement around AI with the
 need for robust software infrastructures?
+
+---
 
 - transition from laptop to supercomputer
 - transition from one researcher to the next
@@ -286,11 +286,11 @@ class: middle, inverse, center
 
 # Thoughts about how to support career development of RSEs
 
----
+How can institutions support RSEs in developing sustainable academic careers,
+particularly in light of the hybrid roles many of them occupy (part researcher,
+part engineer).
 
-Insights on how institutions can better support RSEs in developing sustainable
-academic careers, particularly in light of the hybrid roles many of them occupy
-(part researcher, part engineer).
+---
 
 - 70/20/10 model
 - encourage open-source work
@@ -301,17 +301,19 @@ academic careers, particularly in light of the hybrid roles many of them occupy
 - X-Y problem
 - talking to people instead of email only
 - encourage sharing work and credit sharing work
+- Give staff the .emph[freedom to experiment] with the tools they are expected to teach.
+- .emph[Exchange programs] for staff to learn from other institutions.
 
 ---
 class: middle, inverse, center
 
 # Fostering collaboration between RSEs and researchers
 
----
-
 What are some best practices for fostering collaboration between RSEs and
 researchers, and how can these be scaled across different institutions and
 disciplines?
+
+---
 
 - guiding/mentoring instead of just doing
 - choice of language/technology: maintainability
@@ -331,26 +333,29 @@ class: middle, inverse, center
 
 ---
 
-- containerization
-- sharing work with your future self
-- training
-- decommisioning/sunsetting
+## Which competences might be needed in the future?
 
----
+### Sharing work with your future self (and others)
 
-- Teaching isn't a lecture anymore. It's more
-  .emph[like a live TV production], which *can* be as interactive as people in
-  a room.
+- Papers, data, code, models, dependencies, computational steps.
+- Dependency management and .emph[containerization] (operating system inside a file).
+- Navigating the licensing landscape.
+
+
+### Learning and training others
+
+- We all need .emph[training in how to train] and how to mentor.
 - .emph[Co-teaching] is a great way to onboard, get better quality, and reduce
   stress.
 - .emph[FAIR practices] also for training material.
 - For technical topics, the lone lecturer with their own private PowerPoint/PDF
   slide deck might be a thing of the past.
-- Collaboration requires .emph[communication and coordination]. We need to normalize communication as part of work.
-- We all need .emph[training in how to train] and how to mentor.
-- .emph[AI] will bring new users to the door of HPC. We need to be ready to welcome and support them.
-- Give staff the .emph[freedom to experiment] with the tools they are expected to teach.
-- .emph[Exchange programs] for staff to learn from other institutions.
+
+
+### Being able to decommission services
+
+- Papers are "forever" but services are not. The main skill in decommissioning
+  is possibly communication.
 
 ---
 class: middle, inverse
