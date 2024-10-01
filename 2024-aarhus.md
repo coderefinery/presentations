@@ -39,15 +39,15 @@ Radovan Bast, UiT - The Arctic University of Norway
 .left-column60[
 - What is CodeRefinery?
 
-- The evolution of research software engineering (RSE)
+- The evolution of .emph[research software engineering] (RSE)
 
-- Learning software engineering craft in the age of AI?
+- Learning software engineering craft in the .emph[age of AI]?
 
-- Thoughts about how to support career development of RSEs
+- Thoughts about how to support .emph[career development] of RSEs
 
-- Fostering collaboration between RSEs and researchers
+- Fostering .emph[collaboration] between RSEs and researchers
 
-- Which competences might be needed in the future?
+- Which .emph[competences] might be needed in the future?
 ]
 
 .right-column30[
@@ -61,7 +61,7 @@ Radovan Bast, UiT - The Arctic University of Norway
 ## What is CodeRefinery?
 
 - A hub for FAIR research software practices
-- A project since 2016, currently funded by [NeIC](https://neic.no/)
+- A project since 2016, funded by [NeIC](https://neic.no/) and many partners
 - Training network
 - Reaching about [500 learners/year](https://coderefinery.org/workshops/past/)
 - Reusable [lesson materials](https://coderefinery.org/lessons/)
@@ -126,16 +126,6 @@ Similar projects:
 
 ## How we teach: <ins>together</ins>
 
-.center[
-<img src="img/BYOC.png"
-     alt="Graphics that summarizes how learners can participate a CodeRefinery workshop"
-     style="width: 700px;"/>
-]
-
----
-
-## How we teach: <ins>together</ins>
-
 .left-column80[
 - Co-teaching: Pilot and co-pilot
 
@@ -192,17 +182,81 @@ Similar projects:
      style="width: 500px;"/>
 
 ---
+
+<img src="img/2024-post-workshop-survey/academic-discipline.png"
+     alt="Number of responses by academic discipline"
+     style="width: 650px;"/>
+
+---
 class: middle, inverse, center
 
 # The evolution of research software engineering (RSE)
 
 ---
 
-- what is an RSE?
-- term is now 10 years old
-- How has the role of research software engineers (RSEs) changed in academia, particularly in the social
-  sciences and humanities
-- what future trends might we expect?
+## Software-related challenges in research
+
+<img src="img/best-practices-paper/title.png"
+     alt="Title and authors of the paper 'Best Practices for Scientific Computing'"
+     style="width: 700px;"/>
+
+.cite[https://doi.org/10.1371/journal.pbio.1001745]
+
+---
+
+## Software-related challenges in research
+
+<img src="img/best-practices-paper/detail1.png"
+     alt="Detail from the introductio of the paper"
+     style="width: 600px;"/>
+
+.cite[https://doi.org/10.1371/journal.pbio.1001745]
+
+---
+
+## Software-related challenges in research
+
+<img src="img/best-practices-paper/detail2.png"
+     alt="Detail from the introductio of the paper"
+     style="width: 600px;"/>
+
+.cite[https://doi.org/10.1371/journal.pbio.1001745]
+
+---
+
+## Research software engineers
+
+.. are people who combine .emph[professional software expertise] with an .emph[understanding of research] .cite[https://researchsoftware.org/]
+
+- Often people **who grew up in research** and liked computing and programming
+
+- ... or people **who come from software development** drawn towards meaningful and impactful work of academia
+
+
+### About the term "RSE"
+
+- Term "research software engineer" was coined in 2012 at the Collaborations Workshop organized by the Software Sustainability Institute.
+- [Podcast celebrating 10 years of RSE](https://www.software.ac.uk/news/celebrating-10-years-rse)
+- [Society of Research Software Engineering](https://society-rse.org/)
+- Recent conference: [RSECon 2024](https://rsecon24.society-rse.org/)
+- May 2024: First [Nordic-RSE](https://nordic-rse.org/) conference.
+
+---
+
+## How has the role of RSEs changed in academia
+
+- Students and researchers who work on RSE, often in isolation, without knowing about the RSE community, and often not credited for their RSE work
+- RSE appears as job title
+- Centralized RSE groups appear as support units
+
+
+## What future trends might we expect?
+
+- .emph[Career paths] for RSEs
+- More academic .emph[credit] for open science and reusable software
+- More collaboration between RSEs and university libraries
+- RSEs have access to .emph[grant applications] and can build their own groups
+- Organizations which recognize this early will have a .emph[competitive advantage]
 
 ---
 class: middle, inverse, center
