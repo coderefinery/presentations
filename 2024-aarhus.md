@@ -263,6 +263,14 @@ class: middle, inverse, center
 
 ## Lessons learned from running a local RSE group
 
+<img src="img/competence-development/cake.jpg"
+     alt="RSE cake"
+     style="height: 450px;"/>
+
+---
+
+## Lessons learned from running a local RSE group
+
 - We expected more questions about code review and code structure.
 
 - Surprisingly many questions about statistics and AI model choices and
@@ -464,6 +472,19 @@ https://nordic-rse.org/communities/map/
 
 ---
 
+## Centralized support has the tendency to reduce to emails
+
+- Many questions never get asked via email or ticketing system.
+
+- Guide/mentor instead of just fixing it ("teach how to fish").
+
+- Sometimes the best way to get feedback about services is the coffee room ->
+  create spaces where researchers and RSE support can meet.
+
+- It has been very effective for us to introduce .emph[office hours].
+
+---
+
 .left-column40[
 # The [Xy problem](http://xyproblem.info/)
 
@@ -490,52 +511,27 @@ https://nordic-rse.org/communities/map/
 ]
 
 ---
-
-## Centralized support has the tendency to reduce to emails
-
-- Many questions never get asked via email or ticketing system.
-
-- Guide/mentor instead of just fixing it ("teach how to fish").
-
-- Sometimes the best way to get feedback about services is the coffee room ->
-  create spaces where researchers and RSE support can meet.
-
-- It has been very effective for us to introduce .emph[office hours].
-
----
 class: middle, inverse, center
 
 # Which competences might be needed in the future?
 
 ---
 
-## Which competences might be needed in the future?
+## Which competences might be needed in the future? (1/2)
 
 ### Sharing work with your future self (and others)
 
 - Papers, data, code, models, dependencies, computational steps.
+
 - Dependency management and .emph[containerization] (operating system inside a file).
+
 - Navigating the licensing landscape.
 
-
-### Learning and training others
-
-- We all need .emph[training in how to train] and how to mentor.
-- .emph[Co-teaching] is a great way to onboard, get better quality, and reduce
-  stress.
-- .emph[FAIR practices] also for training material.
-- For technical topics, the lone lecturer with their own private PowerPoint/PDF
-  slide deck might be a thing of the past.
-
-
-### Being able to decommission services
-
-- Papers are "forever" but services are not. The main skill in decommissioning
-  is possibly communication.
+- Sharing a problem.
 
 ---
 
-## Containerization allows us to "time travel"
+## Containerization allows us to do "time travel"
 
 .left-column40[
 ### Most codes are used longer than they can be maintained
@@ -548,6 +544,28 @@ Eventually they become "impossible" to install -> **containerize into an older O
 
 Researcher needs latest software -> **containerize into a more recent OS**
 ]
+
+---
+
+## Which competences might be needed in the future? (2/2)
+
+### Learning and training others
+
+- We all need .emph[training in how to train] and how to mentor.
+
+- .emph[Co-teaching] is a great way to onboard, get better quality, and reduce
+  stress.
+
+- .emph[FAIR practices] also for training material.
+
+- For technical topics, the lone lecturer with their own private PowerPoint/PDF
+  slide deck might be a thing of the past.
+
+
+### Being able to decommission services
+
+- Papers are "forever" but services are not. The main skill in decommissioning
+  is possibly communication.
 
 ---
 class: middle, inverse
