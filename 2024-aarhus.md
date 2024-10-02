@@ -34,12 +34,10 @@ Radovan Bast, UiT - The Arctic University of Norway
 
 ---
 
-## Plan for today
-
 .left-column60[
 - What is CodeRefinery?
 
-- The evolution of .emph[research software engineering] (RSE)
+- The evolution of .emph[research software engineering] (RSE) - and my lessons learned
 
 - Learning software engineering craft in the .emph[age of AI]?
 
@@ -51,6 +49,8 @@ Radovan Bast, UiT - The Arctic University of Norway
 ]
 
 .right-column30[
+## Plan for today
+
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
      style="height: 150px;"/>
@@ -247,7 +247,7 @@ class: middle, inverse, center
 
 - Students and researchers who work on RSE, often in isolation, without knowing about the RSE community, and often not credited for their RSE work
 - RSE appears as job title
-- Centralized RSE groups appear as support units
+- .emph[Centralized RSE groups] appear as support units
 
 
 ## What future trends might we expect?
@@ -257,6 +257,25 @@ class: middle, inverse, center
 - More collaboration between RSEs and university libraries
 - RSEs have access to .emph[grant applications] and can build their own groups
 - Organizations which recognize this early will have a .emph[competitive advantage]
+- The .emph[in-person contact] will become more important but also less easy to achieve
+
+---
+
+## Lessons learned from running a local RSE group
+
+- We expected more questions about code review and code structure.
+
+- Surprisingly many questions about statistics and AI model choices and
+  "niche" libraries.
+
+- Students and researchers love it but university has "no dedicated budget for it".
+
+- It helps to have sponsors high up in the administration. Spend time on
+  explaining it well.
+
+- We can see that people are happy but we need to measure it.
+
+- Document as you go (like when you visit your general practitioner).
 
 ---
 class: middle, inverse, center
@@ -314,6 +333,13 @@ need for robust software infrastructures?
 ---
 class: middle, inverse, center
 
+# AI tools might help to democratize access to programming
+
+## Will we still need training in programming?
+
+---
+class: middle, inverse, center
+
 Erwin Knoll's law of media accuracy:
 
 ## "Everything you read in the newspapers is absolutely true except for the rare story of which you happen to have firsthand knowledge."
@@ -333,7 +359,7 @@ Erwin Knoll's law of media accuracy:
 
 - AI generated result might not optimize for being easy for humans to understand and transform.
 - But we need to understand if we want to adapt.
-- Choice of language/technology and maintainability.
+- Choice of language/technology and .emph[maintainability].
 
 ---
 
@@ -346,7 +372,7 @@ Erwin Knoll's law of media accuracy:
 - Lack of diversity.
 
 - Erosion of creativity and innovation?
-   - But then again AI can be used as mentor and present solutions that are new to the user.
+   - But then again sometimes I use AI as a mentor that presents solutions that are new to me.
 
 ---
 class: middle, inverse, center
@@ -363,24 +389,6 @@ class: middle, inverse, center
 # .huge[70/20/10]
 
 # .huge[model]
-
----
-
-## Remember how you learned about tab completion?
-
-.left-column50[
-<img src="img/competence-development/tab-completion.gif"
-     alt="Screencast showing tab completion in a terminal"
-     style="height: 400px;"/>
-]
-
-.right-column50[
-You saw somebody else use it.
-
-.quote["Oh, that's cool, I want that too"]
-
-The value of .emph[seeing somebody else work] and .emph[mentoring] is huge.
-]
 
 ---
 
@@ -408,6 +416,24 @@ The value of .emph[seeing somebody else work] and .emph[mentoring] is huge.
 - Encourage .emph[open-source work] to support the tools we depend on.
 
 ---
+
+## Remember how you learned about tab completion?
+
+.left-column50[
+<img src="img/competence-development/tab-completion.gif"
+     alt="Screencast showing tab completion in a terminal"
+     style="height: 400px;"/>
+]
+
+.right-column50[
+You saw somebody else use it.
+
+.quote["Oh, that's cool, I want that too"]
+
+The value of .emph[seeing somebody else work] and .emph[mentoring] is huge.
+]
+
+---
 class: middle, inverse, center
 
 # Fostering collaboration between RSEs and researchers
@@ -418,17 +444,63 @@ disciplines?
 
 ---
 
-- X-Y problem
-- talking to people instead of email only
-- guiding/mentoring instead of just doing
-- meeting in the coffee room
+.left-column50[
+<img src="img/competence-development/map.png"
+     alt="Community map of RSEs in the Nordics"
+     style="width: 400px;"/>
+
+https://nordic-rse.org/communities/map/
+]
+
+.right-column40[
+- We cannot have experts in everything everywhere.
+
+- How to collaborate across funding silos?
+
+- Identify those who want to help and allow them to.
+
+- We may need to adjust time reporting and .emph[cost objects]/projects.
+]
 
 ---
 
-- funding silos
-- time reporting and cost objects
-- researchers collaborating vs IT staff collaborating
-- identify those who want to help and allow them to
+.left-column40[
+# The [Xy problem](http://xyproblem.info/)
+
+<img src="img/competence-development/want.jpg"
+     alt="tell me what you want what you really really want"
+     style="height: 200px;"/>
+]
+
+.right-column60[
+- Researcher wants to do X
+- Researcher thinks that **y** is a way to solve X
+- Researcher tries **y** and hits a problem
+- .emph[Researcher asks for help with **y**]
+- After much interaction it becomes clear that the researcher really wants
+  help with X, and that **y** wasn't even a suitable solution for X
+
+
+### Reverse Xy problem
+
+- Staff answers what users ask for but doesn't go deeper.
+- Reason: Issues can get closed faster, which appears good.
+
+.cite[thanks to R. Darst for pointing this out]
+]
+
+---
+
+## Centralized support has the tendency to reduce to emails
+
+- Many questions never get asked via email or ticketing system.
+
+- Guide/mentor instead of just fixing it ("teach how to fish").
+
+- Sometimes the best way to get feedback about services is the coffee room ->
+  create spaces where researchers and RSE support can meet.
+
+- It has been very effective for us to introduce .emph[office hours].
 
 ---
 class: middle, inverse, center
@@ -460,6 +532,22 @@ class: middle, inverse, center
 
 - Papers are "forever" but services are not. The main skill in decommissioning
   is possibly communication.
+
+---
+
+## Containerization allows us to "time travel"
+
+.left-column40[
+### Most codes are used longer than they can be maintained
+
+Eventually they become "impossible" to install -> **containerize into an older OS**
+]
+
+.right-column40[
+### Multi-user systems need to be conservative
+
+Researcher needs latest software -> **containerize into a more recent OS**
+]
 
 ---
 class: middle, inverse
