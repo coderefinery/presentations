@@ -354,6 +354,16 @@ Erwin Knoll's law of media accuracy:
 
 ---
 
+.center[
+<img src="img/reproducible-research.jpg"
+     alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing computing environment, publishing cresearch outputs"
+     style="height: 550px;"/>
+]
+
+.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
+
+---
+
 ## We need experts with craftsmanship, skill mastery, and critical thinking
 
 
@@ -400,31 +410,6 @@ class: middle, inverse, center
 
 ---
 
-### Recognition
-
-- Encourage own funding applications.
-- Make it possible to build own groups.
-
-
-### Learning from others
-
-- 1-2 days/week immersion in a research group (or vice versa).
-- .emph[Exchange programs] for staff to learn from other institutions.
-
-
-### Encourage sharing work
-
-- Being able to showcase work on CV does not have to be a way to lose staff but
-  can be a way to attract staff.
-
-
-### If we want to teach we also have to learn
-
-- .emph[Freedom to experiment] with the tools we are expected to teach.
-- Encourage .emph[open-source work] to support the tools we depend on.
-
----
-
 ## Remember how you learned about tab completion?
 
 .left-column50[
@@ -440,6 +425,31 @@ You saw somebody else use it.
 
 The value of .emph[seeing somebody else work] and .emph[mentoring] is huge.
 ]
+
+---
+
+### Learning from others
+
+- 1-2 days/week immersion in a research group (or vice versa).
+- .emph[Exchange programs] for staff to learn from other institutions.
+
+
+### If we want to teach we also have to learn
+
+- .emph[Freedom to experiment] with the tools we are expected to teach.
+- Encourage .emph[open-source work] to support the tools we depend on.
+
+
+### Encourage sharing work
+
+- Being able to showcase work on CV does not have to be a way to lose staff but
+  can be a way to attract staff.
+
+
+### Recognition
+
+- Encourage own funding applications.
+- Make it possible to build own groups.
 
 ---
 class: middle, inverse, center
@@ -549,6 +559,12 @@ Researcher needs latest software -> **containerize into a more recent OS**
 
 ## Which competences might be needed in the future? (2/2)
 
+### Being able to decommission services
+
+- Papers are "forever" but services are not. The main skill in decommissioning
+  is possibly communication.
+
+
 ### Learning and training others
 
 - We all need .emph[training in how to train] and how to mentor.
@@ -560,12 +576,6 @@ Researcher needs latest software -> **containerize into a more recent OS**
 
 - For technical topics, the lone lecturer with their own private PowerPoint/PDF
   slide deck might be a thing of the past.
-
-
-### Being able to decommission services
-
-- Papers are "forever" but services are not. The main skill in decommissioning
-  is possibly communication.
 
 ---
 class: middle, inverse
