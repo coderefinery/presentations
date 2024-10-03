@@ -572,6 +572,6 @@ class: middle, inverse
 
 # In some courses you rent a good environment for 2 days but we want you to own the result and be able to share it.
 
-## These slides: https://example.org
+## These slides: https://doi.org/10.5281/zenodo.13883843
 
 All text: CC-BY 4.0
