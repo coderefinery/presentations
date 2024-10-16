@@ -26,6 +26,20 @@ class: center, middle, gray-background
 - Reusable [lesson materials](https://coderefinery.org/lessons/)
 - Community
 
+
+### What we do
+
+- We teach and co-organize
+- Share lessons, video recordings, manuals
+- All open source
+]
+
+.right-column50[
+<img src="img/pyramid.png"
+     alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
+     style="width: 420px;"/>
+]
+
 ---
 
 ### Collaboration across funding borders
@@ -55,21 +69,6 @@ Co-advertize and co-organize with us
 
 ---
 
-### What we do
-
-- We teach and co-organize
-- Share lessons, video recordings, manuals
-- All open source
-]
-
-.right-column50[
-<img src="img/pyramid.png"
-     alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
-     style="width: 420px;"/>
-]
-
----
-
 # [Available lesson materials](https://coderefinery.org/lessons/)
 
 .center[
@@ -82,7 +81,7 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
 
 ---
 
-# [Available lesson material](https://coderefinery.org/lessons/)
+# [Available lesson materials](https://coderefinery.org/lessons/)
 
 .left-column50[
 - **Introduction to version control**: Git and GitHub for own projects
@@ -98,16 +97,6 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
 - **Modular code development**: Organizing projects as they grow.
 ]
 
-
-### [10 online and 28 in-person](https://coderefinery.org/workshops/past/) "standard" workshops
-
-- We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
-- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
-- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
-
-- "Bring Your Own Code" sessions
-
-- in addition: "on-demand" workshops to targeted audiences
 
 ---
 
@@ -222,4 +211,17 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
+### [10 online and 28 in-person](https://coderefinery.org/workshops/past/) "standard" workshops
+
+- We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
+- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
+- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
+
+- "Bring Your Own Code" sessions
+
+- in addition: "on-demand" workshops to targeted audiences
+
+---
+.center[
 # Thank you for your attention!
+]
