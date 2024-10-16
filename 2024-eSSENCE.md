@@ -14,7 +14,7 @@ class: center, middle, gray-background
 
 ---
 
-# Team and project: [https://coderefinery.org](https://coderefinery.org/)
+## Team and project: [https://coderefinery.org](https://coderefinery.org/)
 
 
 ### What is CodeRefinery?
