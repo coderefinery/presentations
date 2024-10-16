@@ -207,7 +207,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
-### [10 online and 28 in-person](https://coderefinery.org/workshops/past/) "standard" workshops
+### Workshops
+
+**[10 online and 28 in-person](https://coderefinery.org/workshops/past/) "standard" workshops**
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
@@ -218,4 +220,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 ---
 .center[
 # Thank you for your attention!
+
+<img src="img/coderefinery.png"
+     alt="CodeRefinery logo"
+     style="height: 250px;"/>
+     
 ]
