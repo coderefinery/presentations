@@ -16,7 +16,6 @@ class: center, middle, gray-background
 
 # Team and project: [https://coderefinery.org](https://coderefinery.org/)
 
-.left-column50[
 
 ### What is CodeRefinery?
 
@@ -26,6 +25,8 @@ class: center, middle, gray-background
 - Reusable [lesson materials](https://coderefinery.org/lessons/)
 - Community
 
+---
+.left-column50[
 
 ### What we do
 
@@ -83,19 +84,14 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
 
 # [Available lesson materials](https://coderefinery.org/lessons/)
 
-.left-column50[
 - **Introduction to version control**: Git and GitHub for own projects
 - **Collaborative version control**: Branching, pull/merge requests, forks, and collaboration.
 - **Reproducible research**: Reproducible dependencies, environments, and computational steps.
 - **Social coding and open software**: Software and data licensing and software citation.
-]
-
-.right-column50[
 - **How to document your research software**
 - **Reusable and reproducible Jupyter notebooks**
 - **Automated testing**: Motivation, test design, and tools.
 - **Modular code development**: Organizing projects as they grow.
-]
 
 
 ---
@@ -107,7 +103,7 @@ We use [Sphinx](https://www.sphinx-doc.org/)/[sphinx-lesson](https://github.com/
 .center[
 <img src="img/screenshot_testing_lesson_tabs.png"
      alt="Screenshot of a lesson in Sphinx format, showing tabs for different programming languages"
-     style="height: 500px;"/>
+     style="height: 450px;"/>
 ]
 
 We demonstrate GitHub actions for automated testing.
@@ -126,7 +122,7 @@ WIP, ...
 .center[
 <img src="img/git-lesson-tabs.png"
      alt="Screenshot of a the Git lesson in Sphinx format offering 4 tabs for different paths"
-     style="height: 400px;"/>
+     style="height: 450px;"/>
 ]
 
 ### You can try our [lesson template](https://coderefinery.github.io/sphinx-lesson-template/)
@@ -216,9 +212,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
 - Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
-
 - "Bring Your Own Code" sessions
-
 - in addition: "on-demand" workshops to targeted audiences
 
 ---
