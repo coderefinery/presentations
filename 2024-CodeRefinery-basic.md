@@ -96,7 +96,9 @@ All lessons are open source (CC-BY) and [recordings](https://www.youtube.com/cha
 
 - [Newsletter and chat digest](https://coderefinery.org/about/newsletter/)
 
-- [X/Twitter](https://twitter.com/coderefine)
+- [BlueSky](https://bsky.app/profile/coderefinery.org)
+
+- [LinkedIn](https://www.linkedin.com/company/coderefinery-research-software-development/)
 
 - [Mastodon](https://fosstodon.org/@coderefinery)
 
