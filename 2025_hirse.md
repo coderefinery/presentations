@@ -23,7 +23,7 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 # The problem - Research code challenges
 
-.left-column60[
+.left-column50[
 - Many researchers write code but lack formal training.
 - Collaboration on code can be frustrating and inefficient.
 - Research often relies on poorly documented, non-reproducible code.
@@ -31,6 +31,8 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 ]
 
 .right-column40[
+<br>
+<br>
 .remark["It works on my machine"]
 ]
 
@@ -39,7 +41,7 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 # Enter, CodeRefinery
 
 .left-column50[
-Our mission: 
+**Our mission:** 
 
 - A community-driven, publicly funded project.
 - Hands-on training in practical coding tools for research.
@@ -63,8 +65,7 @@ Similar efforts:
 ]
 
 
---- 
-
+---
 
 # Collaboration across funding borders
 
@@ -167,21 +168,24 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 ]
 
 
-✅ Join a workshop as a learner
-✅ Bring your team and learn together
-✅ Host a local classroom for colleagues
-✅ Use CodeRefinery materials for your own training
+- ✅ Join a workshop as a learner
+- ✅ Bring your team and learn together
+- ✅ Host a local classroom for colleagues
+- ✅ Use CodeRefinery materials for your own training
 
-> Joining is easier than organizing alone
+.remark[Joining is easier than organizing alone]
 
 ---
 
 # How you can contribute
 
-- 🙌 Teach with us – Become a co-instructor.
-- 📝 Contribute to lesson materials – Improve and expand our content.
-- 💡 Provide feedback – Help us refine our approach.
-- 🚀 Share your knowledge – Run your own training events using our materials.
+ 🙌 **Teach with us** – Become a co-instructor.
+
+ 📝 **Contribute to lesson materials** – Improve and expand our content.
+ 
+ 💡 **Provide feedback** – Help us refine our approach.
+ 
+ 🚀 **Share your knowledge** – Run your own training events using our materials.
 
 ---
 
@@ -245,9 +249,11 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ## Next workshop
 
+.center[
 <img src="img/mar25_ws_qr.png"
      alt="QR code linking to March CodeRefinery workshop page"
      style="height: 250px;"/>
+]
 
 - March 25-27 and April 1-3, 2025 09-13.30 CET 
 - For free and online
@@ -257,9 +263,11 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 # [Nordic RSE](https://nordic-rse.org/) Conference
 
+.center[
 <img src="img/NRSE.png"
      alt="Nordic-RSE logo"
      style="height: 250px;"/>
+]
 
 - May 20 -21, 2025 in Gothenburg, Sweden
 - Registration and abstract submission open: <https://nordic-rse.org/nrse2025/>
