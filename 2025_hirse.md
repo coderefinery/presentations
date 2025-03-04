@@ -54,14 +54,17 @@ Our mission:
      alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
      style="width: 420px;"/>
 
-Similar efforts: 
-[UNIVERSE-HPC](https://www.universe-hpc.ac.uk/),
-[DIGITAL RESEARCH ACADEMY](https://digital-research.academy/),
-[INTERSECT](https://intersect-training.org/),
-[SURESOFT](https://suresoft.dev/) and probably many more ...
+<br>
+<br>
+
+Similar efforts:
+[UNIVERSE-HPC](https://www.universe-hpc.ac.uk/), [DIGITAL RESEARCH ACADEMY](https://digital-research.academy/),[INTERSECT](https://intersect-training.org/), [SURESOFT](https://suresoft.dev/) and probably many more ...
+
 ]
 
+
 --- 
+
 
 # Collaboration across funding borders
 
@@ -86,20 +89,22 @@ Similar efforts:
 <img width="90px" src="img/hi.png" alt="logo: University of Iceland">
 <img width="90px" src="img/uio.jpg" alt="logo: Oslo University">
 
+
 ---
+
 
 # What we teach: Practical skills for researchers
 
-> We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
 
-- Git & Version Control – No more lost files or confusion over changes.
-- Reproducible Research – Ensure results can be verified and reused.
-- Collaborative Coding – Work efficiently with colleagues & open-source communities.
-- Efficient Coding Techniques – Write cleaner, modular, and scalable code.
-- Documentation & Testing – Make your code understandable and error-free.
-- Open Science & FAIR Principles – Share your work for maximum impact.
+- **Git & Version Control** – No more lost files or confusion over changes.
+- **Reproducible Research** – Ensure results can be verified and reused.
+- **Collaborative Coding** – Work efficiently with colleagues & open-source communities.
+- **Efficient Coding Techniques** – Write cleaner, modular, and scalable code.
+- **Documentation & Testing** – Make your code understandable and error-free.
+- **Open Science & FAIR Principles** – Share your work for maximum impact.
 
-[Lesson materials available](https://coderefinery.org/lessons/)
+[All Lesson materials available](https://coderefinery.org/lessons/)
 
 .center[
 <img src="img/researcher_CR_RSE.png"
@@ -139,21 +144,17 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 # Beyond the workshop - community
 
-.column-left50[
+.center[
+<img src="img/community.png"
+     alt="The CodeRefinery community in hand drawn pictures: CR workshop teaching, chat, meetings, other teaching"
+     style="width: 40%;" />
+]
 
 - Networking – Connect with peers and experts.
 - Collaborative projects – Work with others on teaching and outreach.
 - Specialized workshops – Covering High-Performance Computing (HPC) and more.
 - Open learning materials – Use, modify, and contribute!
 
-]
-
-
-.column-right50[
-<img src="img/community.png"
-     alt="The CodeRefinery community in hand drawn pictures: CR workshop teaching, chat, meetings, other teaching"
-     style="width: 40%;" />
-]
 
 ---
 
@@ -162,7 +163,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 .center[
 <img src="img/CR_learner_participation.png"
      alt="Learner participation modes"
-     style="width: 650px;"/>
+     style="width: 450px;"/>
 ]
 
 
@@ -177,10 +178,10 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 # How you can contribute
 
-🙌 Teach with us – Become a co-instructor.
-📝 Contribute to lesson materials – Improve and expand our content.
-💡 Provide feedback – Help us refine our approach.
-🚀 Share your knowledge – Run your own training events using our materials.
+- 🙌 Teach with us – Become a co-instructor.
+- 📝 Contribute to lesson materials – Improve and expand our content.
+- 💡 Provide feedback – Help us refine our approach.
+- 🚀 Share your knowledge – Run your own training events using our materials.
 
 ---
 
@@ -192,9 +193,13 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
 - Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
 
+.remark["Thank you for six great days of learning Git, testing, modular code, Sphinx (!) and more. I already started incorporating Sphinx in my current project.]
+
+.remark["I write my codes now in such a way that the person who will be taking over my job would have less time figuring out what is going on."]
+
 --- 
 
-## Results from [post-workshop survey 2024](https://github.com/coderefinery/2024-post-workshop-survey)
+# Results from [post-workshop survey 2024](https://github.com/coderefinery/2024-post-workshop-survey)
 
 - Sent out to workshop participants from 2022 and 2023
 - 129 answers
@@ -227,21 +232,21 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 # Get involved!
 
-- Visit coderefinery.org
+- Visit [coderefinery.org](https://coderefinery.org/)
 - Follow [newsletter](https://coderefinery.org/about/newsletter/)
 - Check out our [blog](https://coderefinery.org/blog/)
-- Register for an upcoming workshop
-- Become an ambassador
-- Join our community discussions in Zulip
-- Follow us on social media & stay connected
+- Register for an [upcoming workshop](https://coderefinery.org/workshops/upcoming/)
+- Become an [ambassador](https://coderefinery.org/join/individuals/#coderefinery-ambassador)
+- Join our community discussions in [Zulip](https://coderefinery.zulipchat.com)
+- Follow us on social media (BlueSky, Mastodon, LinkedIn) & stay connected
 - Contact us if you have any questions, [Support e-mail](support@coderefinery.org)
 
 ---
 
 ## Next workshop
 
-<img src="img/coderefinery.png"
-     alt="CodeRefinery logo"
+<img src="img/mar25_ws_qr.png"
+     alt="QR code linking to March CodeRefinery workshop page"
      style="height: 250px;"/>
 
 - March 25-27 and April 1-3, 2025 09-13.30 CET 
