@@ -16,10 +16,13 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 <br>
 - The CodeRefinery project
+
 <br>
 - CodeRefinery workshops
+
 <br>
 - The community
+
 <br>
 - How to engage, contribute, and benefit from our resources
 
@@ -27,15 +30,22 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 # The problem - Research code challenges
 
-- Many researchers write code but lack formal training.
-- Collaboration on code can be frustrating and inefficient.
-- Research often relies on poorly documented, non-reproducible code.
-- Good coding practices are often not part of standard academic training.
+<br>
+- Many researchers write code but lack formal training
+
+<br>
+- Collaboration on code can be frustrating and inefficient
+
+<br>
+- Research code is often poorly documented and non-reproducible
+
+<br>
+- Good coding practices are often not part of standard academic training
 
 <br>
 <br>
 
-.remark["It works on my machine"]
+.center[.remark["It works on my machine"]]
 
 
 ---
@@ -49,9 +59,9 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 - Focus on “good enough” software practices to improve efficiency.
 - Support for Open Science and FAIR software development.
 
-<img src="img/basics_adv_specialist_pyramid"
+<img src="img/basics_adv_specialist_pyramid.png"
      alt="Pyramid image with data science and programming as base, in the middle CodeRefinery providing advanced training, and on top: specialist training"
-     style="width: 420px;"/>
+     style="width: 220px;"/>
 
 <br>
 <br>
@@ -72,17 +82,17 @@ Similar efforts:
 
 [~ 10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
 
-<img height="80px" src="img/neic.png" alt="logo: NeiC">
-<img height="80px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
-<img height="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
-<img height="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
-<img height="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
-<img height="80px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
-<img height="80px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
-<img height="80px" src="img/nris.png" alt="logo: NRIS/Sigma2">
-<img height="80px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
-<img height="80px" src="img/hi.png" alt="logo: University of Iceland">
-<img height="80px" src="img/uio.jpg" alt="logo: Oslo University">
+<img height="60px" src="img/neic.png" alt="logo: NeiC">
+<img height="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
+<img height="60px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
+<img height="60px" src="img/chc.png" alt="logo: Center for Humanities Computing">
+<img height="60px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<img height="60px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
+<img height="60px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img height="60px" src="img/nris.png" alt="logo: NRIS/Sigma2">
+<img height="60px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
+<img height="60px" src="img/hi.png" alt="logo: University of Iceland">
+<img height="60px" src="img/uio.jpg" alt="logo: Oslo University">
 
 
 ---
@@ -118,9 +128,7 @@ Similar efforts:
 - **Format:** Online and reverse hybrid through local classrooms
 - **Hands-on exercises** – Not just lectures, but real tool experience
 - **Collaborative learning** – Learn alongside peers with expert guidance
-- **Beginner-friendly** – No prior experience required!*
-
-.minifont[* with the tools we teach. ]
+- **Beginner-friendly** – No prior experience with the tools we teach required!
 
 ---
 
@@ -160,6 +168,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 <br>
 .remark[Joining is easier than organizing alone]
 <br>
+<br>
 
 ✅ Join a workshop as a learner or observer
 
@@ -178,13 +187,13 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 <br>
 <br>
 
- 🙌 **Teach with us** – Become a co-instructor.
+ 🙌 **Teach with us** – Become a co-instructor
 
- 📝 **Contribute to lesson materials** – Improve and expand our content.
+ 📝 **Contribute to lesson materials** – Improve and expand our content
  
- 💡 **Provide feedback** – Help us refine our approach.
+ 💡 **Provide feedback** – Help us refine our approach
  
- 🚀 **Share your knowledge** – Run your own training events using our materials.
+ 🚀 **Share your knowledge** – Run your own training events using our materials
 
 ---
 
@@ -240,13 +249,21 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 <br>
 
 - Visit [coderefinery.org](https://coderefinery.org/)
+
 - Follow [newsletter](https://coderefinery.org/about/newsletter/)
+
 - Check out our [blog](https://coderefinery.org/blog/)
+
 - Register for an [upcoming workshop](https://coderefinery.org/workshops/upcoming/)
+
 - Become an [ambassador](https://coderefinery.org/join/individuals/#coderefinery-ambassador)
+
 - Join our community discussions in [Zulip](https://coderefinery.zulipchat.com)
+
 - Follow us on social media (BlueSky, Mastodon, LinkedIn) & stay connected
+
 - Contact us if you have any questions, [Support e-mail](support@coderefinery.org)
+
 
 ---
 
@@ -262,12 +279,14 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 <br>
 
 - March 25-27 and April 1-3, 2025 09-13.30 CET 
-- For free and online
+
+- For free and online with satellite classrooms
+
 - Registration open: <https://coderefinery.github.io/2025-03-25-workshop>
 
 ---
 
-# [Nordic RSE](https://nordic-rse.org/) Conference
+# [Nordic RSE](https://nordic-rse.org/) Conference 2025
 
 .center[
 <img src="img/NRSE.png"
@@ -279,6 +298,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 <br>
 
 - May 20 -21, 2025 in Gothenburg, Sweden
+
 - Registration and abstract submission open: <https://nordic-rse.org/nrse2025/>
 
 ---
@@ -296,8 +316,8 @@ class: center, middle, inverse
 
 ## Images
 
-- Slide 12: ATC tower, P. R. Miller, CC-BY 2.0
-- Slide 12: Monitor setup, R. Darst
-- Slide 12: Logos, (c) respective organizations
+- Slide 5: ATC tower, P. R. Miller, CC-BY 2.0
+- Slide 5: Monitor setup, R. Darst
+- Slide 5: Logos, (c) respective organizations
 - Slide 17: Nordic-RSE logo, (c) Nordic-RSE
 - All other images: CodeRefinery project, CC-BY 4.0
