@@ -298,7 +298,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 ---
 class: center, middle, inverse
 
-## These slides: TODO: upload
+## These slides: 10.5281/zenodo.14983966
 
 ---
 
