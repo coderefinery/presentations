@@ -15,15 +15,13 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 # Content for today
 
 <br>
+
 - The CodeRefinery project
 
-<br>
 - CodeRefinery workshops
 
-<br>
 - The community
 
-<br>
 - How to engage, contribute, and benefit from our resources
 
 ---
@@ -31,15 +29,13 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 # The problem - Research code challenges
 
 <br>
+
 - Many researchers write code but lack formal training
 
-<br>
 - Collaboration on code can be frustrating and inefficient
 
-<br>
 - Research code is often poorly documented and non-reproducible
 
-<br>
 - Good coding practices are often not part of standard academic training
 
 <br>
@@ -54,17 +50,18 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 **Our mission since 2016:** 
 
-- A community-driven, publicly funded project.
-- Hands-on training in practical coding tools for research.
-- Focus on “good enough” software practices to improve efficiency.
-- Support for Open Science and FAIR software development.
+- A community-driven, publicly funded project
+- Hands-on training in practical coding tools for research
+- Focus on “good enough” software practices to improve efficiency
+- Support for Open Science and FAIR software development
 
+
+.center[
 <img src="img/basics_adv_specialist_pyramid.png"
      alt="Pyramid image with data science and programming as base, in the middle CodeRefinery providing advanced training, and on top: specialist training"
-     style="width: 220px;"/>
+     style="width: 320px;"/>
+]
 
-<br>
-<br>
 
 Similar efforts:
 [UNIVERSE-HPC](https://www.universe-hpc.ac.uk/), [DIGITAL RESEARCH ACADEMY](https://digital-research.academy/),[INTERSECT](https://intersect-training.org/), [SURESOFT](https://suresoft.dev/) and probably many more ...
@@ -100,16 +97,16 @@ Similar efforts:
 
 # We teach practical skills for researchers
 
-.remark[We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].]
+.remark[Topics which are .emph[helpful for researchers] and .emph[essential for RSEs].]
 
-- **Git & Version Control** – No more lost files or confusion over changes.
-- **Reproducible Research** – Ensure results can be verified and reused.
-- **Collaborative Coding** – Work efficiently with colleagues & open-source communities.
-- **Efficient Coding Techniques** – Write cleaner, modular, and scalable code.
-- **Documentation & Testing** – Make your code understandable and error-free.
-- **Open Science & FAIR Principles** – Share your work for maximum impact.
+- **Git & Version Control** – No more lost files or confusion over changes
+- **Reproducible Research** – Ensure results can be verified and reused
+- **Collaborative Coding** – Work efficiently with colleagues & open-source communities
+- **Efficient Coding Techniques** – Write cleaner, modular, and scalable code
+- **Documentation & Testing** – Make your code understandable and error-free
+- **Open Science & FAIR Principles** – Share your work for maximum impact
 
-[All Lesson materials available](https://coderefinery.org/lessons/)
+[All Lesson materials available under CC BY 4.0 license](https://coderefinery.org/lessons/)
 
 .center[
 <img src="img/researcher_CR_RSE.png"
@@ -166,7 +163,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 # How you can benefit
 
 <br>
+.center[
 .remark[Joining is easier than organizing alone]
+]
 <br>
 <br>
 
@@ -189,9 +188,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
  🙌 **Teach with us** – Become a co-instructor
 
- 📝 **Contribute to lesson materials** – Improve and expand our content
+ 📝 **Contribute to lesson materials** – Improve and expand lesson content
  
- 💡 **Provide feedback** – Help us refine our approach
+ 💡 **Provide feedback** – Help us refine teaching and materials
  
  🚀 **Share your knowledge** – Run your own training events using our materials
 
@@ -202,10 +201,10 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 ### Tested in [10 large online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
-- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
-- Over [100 helpers/ exercise leaders](https://coderefinery.org/about/contributors/)
+- Over [30 instructors / speakers](https://coderefinery.org/about/contributors/)
+- Over [100 helpers / exercise leaders](https://coderefinery.org/about/contributors/)
 
-.remark["Thank you for six great days of learning Git, testing, modular code, Sphinx (!) and more. I already started incorporating Sphinx in my current project.]
+.remark["Thank you for six great days of learning Git, testing, modular code, Sphinx (!) and more. I already started incorporating Sphinx in my current project."]
 
 .remark["I write my codes now in such a way that the person who will be taking over my job would have less time figuring out what is going on."]
 
@@ -245,8 +244,6 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 # Get involved!
 
-<br>
-<br>
 
 - Visit [coderefinery.org](https://coderefinery.org/)
 
@@ -262,7 +259,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 - Follow us on social media (BlueSky, Mastodon, LinkedIn) & stay connected
 
-- Contact us if you have any questions, [Support e-mail](support@coderefinery.org)
+- Contact us if you have any questions, [support e-mail](support@coderefinery.org)
 
 
 ---
@@ -279,10 +276,8 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 <br>
 
 - March 25-27 and April 1-3, 2025 09-13.30 CET 
-
 - For free and online with satellite classrooms
-
-- Registration open: <https://coderefinery.github.io/2025-03-25-workshop>
+- **Registration open**: <https://coderefinery.github.io/2025-03-25-workshop>
 
 ---
 
@@ -298,8 +293,7 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 <br>
 
 - May 20 -21, 2025 in Gothenburg, Sweden
-
-- Registration and abstract submission open: <https://nordic-rse.org/nrse2025/>
+- **Registration and abstract submission open**: <https://nordic-rse.org/nrse2025/>
 
 ---
 class: center, middle, inverse
