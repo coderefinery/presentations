@@ -14,46 +14,43 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 # Content for today
 
+<br>
 - The CodeRefinery project
+<br>
 - CodeRefinery workshops
+<br>
 - The community
+<br>
 - How to engage, contribute, and benefit from our resources
 
 ---
 
 # The problem - Research code challenges
 
-.left-column50[
 - Many researchers write code but lack formal training.
 - Collaboration on code can be frustrating and inefficient.
 - Research often relies on poorly documented, non-reproducible code.
 - Good coding practices are often not part of standard academic training.
-]
 
-.right-column40[
 <br>
 <br>
+
 .remark["It works on my machine"]
-]
+
 
 ---
 
 # Enter, CodeRefinery
 
-.left-column50[
-**Our mission:** 
+**Our mission since 2016:** 
 
 - A community-driven, publicly funded project.
 - Hands-on training in practical coding tools for research.
 - Focus on “good enough” software practices to improve efficiency.
 - Support for Open Science and FAIR software development.
 
-...since 2016
-]
-
-.right-column50[
-<img src="img/pyramid.png"
-     alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
+<img src="img/basics_adv_specialist_pyramid"
+     alt="Pyramid image with data science and programming as base, in the middle CodeRefinery providing advanced training, and on top: specialist training"
      style="width: 420px;"/>
 
 <br>
@@ -61,9 +58,6 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 Similar efforts:
 [UNIVERSE-HPC](https://www.universe-hpc.ac.uk/), [DIGITAL RESEARCH ACADEMY](https://digital-research.academy/),[INTERSECT](https://intersect-training.org/), [SURESOFT](https://suresoft.dev/) and probably many more ...
-
-]
-
 
 ---
 
@@ -78,25 +72,25 @@ Similar efforts:
 
 [~ 10 persons in-kind + volunteers](https://coderefinery.org/about/contributors/)
 
-<img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
-<img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
-<img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
-<img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
-<img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
-<img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
-<img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
-<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
-<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
-<img width="90px" src="img/hi.png" alt="logo: University of Iceland">
-<img width="90px" src="img/uio.jpg" alt="logo: Oslo University">
+<img height="80px" src="img/neic.png" alt="logo: NeiC">
+<img height="80px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
+<img height="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
+<img height="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
+<img height="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<img height="80px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
+<img height="80px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img height="80px" src="img/nris.png" alt="logo: NRIS/Sigma2">
+<img height="80px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
+<img height="80px" src="img/hi.png" alt="logo: University of Iceland">
+<img height="80px" src="img/uio.jpg" alt="logo: Oslo University">
 
 
 ---
 
 
-# What we teach: Practical skills for researchers
+# We teach practical skills for researchers
 
-We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].
+.remark[We teach topics which are .emph[helpful for researchers] and .emph[essential for RSEs].]
 
 - **Git & Version Control** – No more lost files or confusion over changes.
 - **Reproducible Research** – Ensure results can be verified and reused.
@@ -121,10 +115,12 @@ We teach topics which are .emph[helpful for researchers] and .emph[essential for
      alt="Graphical representation of the setup of a CodeRefinery workshop with lessons on stream, learners individual, in a team or local classroom and interaction via notes"
      style="width: 100%;" />
 
-- Format: Online and reverse hybrid through local classrooms.
-- Hands-on exercises – Not just lectures, but real coding experience.
-- Collaborative learning – Learn alongside peers with expert guidance.
-- Beginner-friendly – No prior experience required!
+- **Format:** Online and reverse hybrid through local classrooms
+- **Hands-on exercises** – Not just lectures, but real tool experience
+- **Collaborative learning** – Learn alongside peers with expert guidance
+- **Beginner-friendly** – No prior experience required!*
+
+.minifont[* with the tools we teach. ]
 
 ---
 
@@ -151,33 +147,36 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
      style="width: 40%;" />
 ]
 
-- Networking – Connect with peers and experts.
-- Collaborative projects – Work with others on teaching and outreach.
-- Specialized workshops – Covering High-Performance Computing (HPC) and more.
-- Open learning materials – Use, modify, and contribute!
+- **Networking** – Connect with peers and experts.
+- **Collaborative projects** – Work with others on teaching and outreach.
+- **Specialized workshops** – Covering High-Performance Computing (HPC) and more.
+- **Open learning materials** – Use, modify, and contribute!
 
 
 ---
 
 # How you can benefit
 
-.center[
-<img src="img/CR_learner_participation.png"
-     alt="Learner participation modes"
-     style="width: 450px;"/>
-]
-
-
-- ✅ Join a workshop as a learner
-- ✅ Bring your team and learn together
-- ✅ Host a local classroom for colleagues
-- ✅ Use CodeRefinery materials for your own training
-
+<br>
 .remark[Joining is easier than organizing alone]
+<br>
+
+✅ Join a workshop as a learner or observer
+
+✅ Bring your team and learn together
+
+✅ Host a local classroom for others to learn together
+
+✅ Use CodeRefinery materials for your own training
+
+
 
 ---
 
 # How you can contribute
+
+<br>
+<br>
 
  🙌 **Teach with us** – Become a co-instructor.
 
@@ -201,7 +200,8 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 .remark["I write my codes now in such a way that the person who will be taking over my job would have less time figuring out what is going on."]
 
---- 
+
+---
 
 # Results from [post-workshop survey 2024](https://github.com/coderefinery/2024-post-workshop-survey)
 
@@ -236,6 +236,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 # Get involved!
 
+<br>
+<br>
+
 - Visit [coderefinery.org](https://coderefinery.org/)
 - Follow [newsletter](https://coderefinery.org/about/newsletter/)
 - Check out our [blog](https://coderefinery.org/blog/)
@@ -247,13 +250,16 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
 
 ---
 
-## Next workshop
+# Next CodeRefinery workshop
 
 .center[
 <img src="img/mar25_ws_qr.png"
      alt="QR code linking to March CodeRefinery workshop page"
      style="height: 250px;"/>
 ]
+
+<br>
+<br>
 
 - March 25-27 and April 1-3, 2025 09-13.30 CET 
 - For free and online
@@ -268,6 +274,9 @@ We publish Q&A for each workshop: [Example](https://coderefinery.github.io/2024-
      alt="Nordic-RSE logo"
      style="height: 250px;"/>
 ]
+
+<br>
+<br>
 
 - May 20 -21, 2025 in Gothenburg, Sweden
 - Registration and abstract submission open: <https://nordic-rse.org/nrse2025/>
@@ -290,5 +299,5 @@ class: center, middle, inverse
 - Slide 12: ATC tower, P. R. Miller, CC-BY 2.0
 - Slide 12: Monitor setup, R. Darst
 - Slide 12: Logos, (c) respective organizations
-- Slide XX: Nordic-RSE logo, (c) Nordic-RSE
+- Slide 17: Nordic-RSE logo, (c) Nordic-RSE
 - All other images: CodeRefinery project, CC-BY 4.0

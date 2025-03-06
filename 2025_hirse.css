@@ -24,6 +24,10 @@ body {
   background: #272822;
 }
 
+.minifont {
+  font-size: 2.2em;
+}
+
 .gray-background {
   background: #d6cbd6;
 }
