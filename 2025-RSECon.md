@@ -75,7 +75,7 @@ Similar efforts:
 
 # FAIR training materials
 
-<img src="img/ten_simple_rules.png"
+<img src="img/ten_simple_rules.tiff"
      alt="Ten simple rules for FAIR training material (https://doi.org/10.1371/journal.pcbi.1007854)"
      style="height: 250px;"/>
 
