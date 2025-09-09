@@ -66,7 +66,7 @@ Similar efforts:
 
 <br>
 
-### Developed over [10 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
+### Developed over [11 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
@@ -98,10 +98,10 @@ Similar efforts:
 
 ---
 
-# CodeRefinery in the matrix
+# CodeRefinery in the grid
 
-<img src="img/matrix.png"
-     alt="CodeRefinery in the matrix"
+<img src="img/grid.png"
+     alt="CodeRefinery in the grid"
      style="height: 250px;"/>
 
 ---
