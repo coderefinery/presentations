@@ -1,7 +1,7 @@
 class: center, middle
 
 <img src="img/coderefinery.png"
-     alt="CodeRefinery logos"
+     alt="CodeRefinery logo"
      style="height: 250px;"/>
 
 ## CodeRefinery training materials
@@ -75,7 +75,7 @@ Similar efforts:
 
 # FAIR training materials
 
-<img src="img/ten_simple_rules.tiff"
+<img src="img/ten_simple_rules.png"
      alt="Ten simple rules for FAIR training material (https://doi.org/10.1371/journal.pcbi.1007854)"
      style="height: 250px;"/>
 
@@ -106,4 +106,4 @@ Similar efforts:
 
 ---
 
-# Let's connect!
+# Happy to connect!
