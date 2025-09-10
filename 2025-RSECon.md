@@ -15,30 +15,36 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 # CodeRefinery - the project
 
-- Partnership
+- Partnership / Training collaborative
      - 9 universities and infrastructure providers 
-     - under Nordic e-infrastructure collaboration
+     - under Nordic e-Infrastructure Collaboration
 - ~20 people working in-kind together with a broader community
 
-<img height="30px" src="img/neic.png" alt="logo: NeiC">
-<img height="30px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
-<img height="30px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
-<img height="30px" src="img/chc.png" alt="logo: Center for Humanities Computing">
-<img height="30px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
-<img height="30px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
-<img height="30px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
-<img height="30px" src="img/nris.png" alt="logo: NRIS/Sigma2">
-<img height="30px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
-<img height="30px" src="img/hi.png" alt="logo: University of Iceland">
-<img height="30px" src="img/uio.jpg" alt="logo: Oslo University">
+<br>
+
+**coderefinery.org**
+
+<br>
+
+<img height="50px" src="img/neic.png" alt="logo: NeiC">
+<img height="50px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
+<img height="50px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
+<img height="50px" src="img/chc.png" alt="logo: Center for Humanities Computing">
+<img height="50px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<img height="50px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
+<img height="50px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img height="50px" src="img/nris.png" alt="logo: NRIS/Sigma2">
+<img height="50px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
+<img height="50px" src="img/hi.png" alt="logo: University of Iceland">
+<img height="50px" src="img/uio.jpg" alt="logo: Oslo University">
 
 ---
 
-**Our mission since 2016:** 
+# Our mission since 2016
 
 - Hands-on training in practical tools and techniques for researchers who code
 - Focus on integration into normal researcher workflow
-- Reusable teaching material
+- Reusable teaching materials
 - Course format development
 - Open community for RSE and support enthusiasts
 
@@ -56,7 +62,7 @@ Similar efforts:
 
 ---
 
-# [Available lesson material](https://coderefinery.org/lessons/) - All CC-BY
+# [Available lesson materials](https://coderefinery.org/lessons/) - All CC-BY
 
 
 - Introduction to version control & collaborative version control
@@ -76,7 +82,7 @@ Similar efforts:
 
 ---
 
-# FAIR training materials
+# FAIR training material
 
 <img src="img/ten_simple_rules.png"
      alt="Ten simple rules for FAIR training material (https://doi.org/10.1371/journal.pcbi.1007854)"
@@ -103,7 +109,7 @@ Similar efforts:
 
 ---
 
-# CodeRefinery in the grid
+# CodeRefinery in the dRTP grid
 
 <img src="img/grid.png"
      alt="CodeRefinery in the grid"
