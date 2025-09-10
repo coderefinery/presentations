@@ -21,7 +21,7 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 <img height="30px" src="img/uio.jpg" alt="logo: Oslo University">
 
 
-#### RSECon25 - dRTP training catalog workshop
+#### RSECon25 - dRTP training catalog BoF
 
 ---
 
@@ -65,6 +65,9 @@ Similar efforts:
 ]
 
 <br>
+<br>
+<br>
+
 
 ### Developed over [11 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
@@ -77,7 +80,7 @@ Similar efforts:
 
 <img src="img/ten_simple_rules.png"
      alt="Ten simple rules for FAIR training material (https://doi.org/10.1371/journal.pcbi.1007854)"
-     style="height: 250px;"/>
+     style="height: 400px;"/>
 
 > Wiegers, L., & van Gelder, C. W. G. (2019). Illustration for "Ten simple rules for making training materials FAIR" (1.0). Zenodo. https://doi.org/10.5281/zenodo.3593258
 
@@ -85,16 +88,27 @@ Similar efforts:
 
 # Where are we wrt to FAIR training materials?
 
+
 1) Share - GitHub ✔️
+
 2) Describe properly - CFF but no full metadata 🛠️
+
 3) Give unique identity - Zenodo DOI ✔️
+
 4) Register online ❎
+
 5) Define access rules - open ✔️
+
 6) Use interoperable format - markdown, sphinx & GitHub pages ✔️
+
 7) Make reusable for trainers - CC-BY & instructor notes ✔️
+
 8) Make usable for trainees - target audience, prerequisites & learning objectives ✔️
+
 9) Welcome contributions - we do but no CONTRIBUTING file 🛠️
+
 10) Keep materials up to date - before every workshop ✔️
+
 
 ---
 
@@ -102,8 +116,10 @@ Similar efforts:
 
 <img src="img/grid.png"
      alt="CodeRefinery in the grid"
-     style="height: 250px;"/>
+     style="height: 450px;"/>
 
 ---
+
+class: center, middle, inverse
 
 # Happy to connect!
