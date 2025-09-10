@@ -8,6 +8,18 @@ class: center, middle
 
 Samantha Wittke, CSC - IT Center for Science, Finland
 
+
+#### RSECon25 - dRTP training catalog BoF
+
+---
+
+# CodeRefinery - the project
+
+- Partnership
+     - 9 universities and infrastructure providers 
+     - under Nordic e-infrastructure collaboration
+- ~20 people working in-kind together with a broader community
+
 <img height="30px" src="img/neic.png" alt="logo: NeiC">
 <img height="30px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
 <img height="30px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
@@ -20,19 +32,15 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 <img height="30px" src="img/hi.png" alt="logo: University of Iceland">
 <img height="30px" src="img/uio.jpg" alt="logo: Oslo University">
 
-
-#### RSECon25 - dRTP training catalog BoF
-
 ---
-
-# CodeRefinery
 
 **Our mission since 2016:** 
 
-- A community-driven, publicly funded project
-- Hands-on training in practical coding tools for research
-- Focus on “good enough” software practices to improve efficiency
-- Support for Open Science and FAIR software development
+- Hands-on training in practical tools and techniques for researchers who code
+- Focus on integration into normal researcher workflow
+- Reusable teaching material
+- Course format development
+- Open community for RSE and support enthusiasts
 
 
 .center[
@@ -43,8 +51,8 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 
 Similar efforts:
-[INTERSECT](https://intersect-training.org/), [SURESOFT](https://suresoft.dev/), 
-[DIGITAL RESEARCH ACADEMY](https://digital-research.academy/), [The Carpentries FAIR RS](https://carpentries-incubator.github.io/fair-research-software/) and probably many more ..
+[INTERSECT](https://intersect-training.org/), [Suresoft](https://suresoft.dev/), 
+[Digital Research Academy](https://digital-research.academy/), [The Carpentries FAIR RS](https://carpentries-incubator.github.io/fair-research-software/), [FAIR2](https://github.com/FAIR2-for-research-software) and probably many more ..
 
 ---
 
@@ -64,7 +72,7 @@ Similar efforts:
 ### Developed over [11 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
-- Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
+- Over [30 instructors/speakers/contributors](https://coderefinery.org/about/contributors/)
 
 ---
 
@@ -72,7 +80,7 @@ Similar efforts:
 
 <img src="img/ten_simple_rules.png"
      alt="Ten simple rules for FAIR training material (https://doi.org/10.1371/journal.pcbi.1007854)"
-     style="height: 400px;"/>
+     style="height: 350px;"/>
 
 > Wiegers, L., & van Gelder, C. W. G. (2019). Illustration for "Ten simple rules for making training materials FAIR" (1.0). Zenodo. https://doi.org/10.5281/zenodo.3593258
 
@@ -88,7 +96,7 @@ Similar efforts:
 5. Define access rules - open ✔️
 6. Use interoperable format - markdown, sphinx & GitHub pages ✔️
 7. Make reusable for trainers - CC-BY & instructor notes ✔️
-8. Make usable for trainees - target audience, prerequisites & learning objectives ✔️
+8. Make usable for trainees - audience, prerequisites & learning objectives ✔️
 9. Welcome contributions - we do but no CONTRIBUTING file 🛠️
 10. Keep materials up to date - before every workshop ✔️
 
