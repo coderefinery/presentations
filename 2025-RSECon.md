@@ -121,4 +121,4 @@ class: center, middle, inverse
 
 # Happy to connect and discuss!
 
-### samantha.wittke@csc.fi
+# samantha.wittke@csc.fi
