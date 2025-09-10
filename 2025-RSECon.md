@@ -22,7 +22,7 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 <br>
 
-**coderefinery.org**
+## coderefinery.org
 
 <br>
 
@@ -42,7 +42,7 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 
 # Our mission since 2016
 
-- Hands-on training in practical tools and techniques for researchers who code
+- **Hands-on training** in practical tools and techniques for researchers who code
 - Focus on integration into normal researcher workflow
 - Reusable teaching materials
 - Course format development
@@ -119,4 +119,6 @@ Similar efforts:
 
 class: center, middle, inverse
 
-# Happy to connect!
+# Happy to connect and discuss!
+
+### samantha.wittke@csc.fi
