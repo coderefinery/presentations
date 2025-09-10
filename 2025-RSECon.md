@@ -50,24 +50,16 @@ Similar efforts:
 
 # [Available lesson material](https://coderefinery.org/lessons/) - All CC-BY
 
-.left-column50[
-- Introduction to version control
-- Collaborative version control
+
+- Introduction to version control & collaborative version control
 - Reproducible research
 - Social coding and open software
-]
-
-.right-column50[
 - Documentation
 - Reusable and reproducible Jupyter notebooks
 - Automated testing
 - Modular code development
-]
 
 <br>
-<br>
-<br>
-
 
 ### Developed over [11 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
@@ -89,25 +81,16 @@ Similar efforts:
 # Where are we wrt to FAIR training materials?
 
 
-1) Share - GitHub ✔️
-
-2) Describe properly - CFF but no full metadata 🛠️
-
-3) Give unique identity - Zenodo DOI ✔️
-
-4) Register online ❎
-
-5) Define access rules - open ✔️
-
-6) Use interoperable format - markdown, sphinx & GitHub pages ✔️
-
-7) Make reusable for trainers - CC-BY & instructor notes ✔️
-
-8) Make usable for trainees - target audience, prerequisites & learning objectives ✔️
-
-9) Welcome contributions - we do but no CONTRIBUTING file 🛠️
-
-10) Keep materials up to date - before every workshop ✔️
+1. Share - GitHub ✔️
+2. Describe properly - CFF but no full metadata 🛠️
+3. Give unique identity - Zenodo DOI ✔️
+4. Register online ❎
+5. Define access rules - open ✔️
+6. Use interoperable format - markdown, sphinx & GitHub pages ✔️
+7. Make reusable for trainers - CC-BY & instructor notes ✔️
+8. Make usable for trainees - target audience, prerequisites & learning objectives ✔️
+9. Welcome contributions - we do but no CONTRIBUTING file 🛠️
+10. Keep materials up to date - before every workshop ✔️
 
 
 ---
