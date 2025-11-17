@@ -4,9 +4,13 @@ class: center, middle
      alt="CodeRefinery logo"
      style="height: 250px;"/>
 
-## CodeRefinery ways of training
+## - Ways of teaching 
 
-Samantha Wittke, CSC - IT Center for Science, Finland
+Samantha Wittke
+
+CodeRefinery project manager, CSC - IT Center for Science, Finland
+
+samantha.wittke@csc.fi
 
 
 #### Meeting with LAIF WP1- Training 17.11.2025  
@@ -46,7 +50,7 @@ Samantha Wittke, CSC - IT Center for Science, Finland
 - Focus on integration into normal researcher workflow
 - Reusable teaching materials
 - Course format development
-- Open community for RSE and support enthusiasts
+- Open community for Research Software Engineers and support enthusiasts
 
 
 .center[
@@ -73,7 +77,8 @@ Similar efforts:
 - Automated testing
 - Modular code development
 
-<br>
+\+ [Installation guide](https://coderefinery.github.io/installation/)
+
 
 ### Developed over [11 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
@@ -84,20 +89,26 @@ Similar efforts:
 
 # How we teach and develop
 
-1. "Bring your own classroom" -> Maximum reach without losing local connection
-2. Collaborative lesson development with markdown, sphinx and GitHub pages
-3. Practical train the trainer
+<br>
+
+## 1. "Bring your own classroom" 
+→  Maximum reach without losing local connection
+## 2. Collaborative lesson development 
+with markdown, sphinx and GitHub pages
+## 3. Practical train the trainer
 
 ---
 
 # 1. Bring your own classroom
 
+
 .center[
 <img src="img/BYOC.png"
      alt="Infographic on bring your own classroom approach"
-     style="width: 320px;"/>
+     style="width: 720px;"/>
 ]
 
+<br>
 * Participants get local support, social learning, and community formation
 * Central instructors focus on teaching; hubs focus on mentoring
 
@@ -105,31 +116,27 @@ Similar efforts:
 
 # 2. Collaborative lesson development
 
-* Lesson material hosted under CodeRefinery GitHub organization
-* [CodeRefinery Lesson template with Sphinx](https://coderefinery.github.io/sphinx-lesson/)
-    * [Tabs](https://coderefinery.github.io/git-intro/commits/#solution-and-walk-through)
-    * [Scaffolding](https://coderefinery.github.io/reproducible-research/workflow-management/)
-* Open license - CC-BY
-* Citation.cff -> Zenodo DOI (manual)
-* Contribution guide (WIP)
-* Issues, branches, forks and Pull requests
+<br>
 
----
+- Lessons: <https://github.com/coderefinery/> (open license: CC-BY)
+- **Markdown** source, built with **Sphinx** + GitHub Actions 
+- →  **GitHub Pages** (self-learning ready)
+- `CITATION.cff` → Zenodo DOI
+- Maintainer + contribution guide (in progress)
 
-## Markdown + Sphinx Workflow 
+[CodeRefinery Lesson template](https://coderefinery.github.io/sphinx-lesson/)
+* [Tabs](https://coderefinery.github.io/git-intro/commits/#solution-and-walk-through)
+* [Scaffolding](https://coderefinery.github.io/reproducible-research/workflow-management/)
 
-* Source: Markdown (low barrier to entry)
-* Build: Sphinx, local preview 
-* CI/CD: automated rebuild on GitHub Actions
-* Output: beautiful static websites on GitHub Pages
+<br>
 
-“Material is code” -> versioned, reviewable, remixable
+→  Versioned, reviewable, remixable content
 
 ---
 
 # 3. Training collaborative
 
-## CodeRefinery teaching philosophy 
+### CodeRefinery teaching philosophy 
 
 * Training as a community skill
 * Co-teaching and practical instructor onboarding -> lowering barrier
@@ -137,5 +144,14 @@ Similar efforts:
 * Teaching as a shared practice across institutions
 
 
+### Train the trainer / facilitator
 
+- [Training materials](https://coderefinery.github.io/train-the-trainer/)
+- [Operation manuals](https://coderefinery.github.io/manuals/)
 
+---
+class: center, middle
+
+# Thank you for the invitation
+
+## Happy to answer any questions you may have :)
