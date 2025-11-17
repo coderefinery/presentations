@@ -82,36 +82,37 @@ Similar efforts:
 
 ---
 
-# Training - the CodeRefinery way
+# How we teach and develop
 
-1. Collaborative lesson development with markdown, sphinx and GitHub pages
-2. Maximum reach without losing connection -> "Bring your own classroom"
-3. Training collaborative and Train the trainer
+1. "Bring your own classroom" -> Maximum reach without losing local connection
+2. Collaborative lesson development with markdown, sphinx and GitHub pages
+3. Practical train the trainer
 
 ---
 
-# 1. Collaborative lesson development
+# 1. Bring your own classroom
+
+.center[
+<img src="img/BYOC.png"
+     alt="Infographic on bring your own classroom approach"
+     style="width: 320px;"/>
+]
+
+* Participants get local support, social learning, and community formation
+* Central instructors focus on teaching; hubs focus on mentoring
+
+---
+
+# 2. Collaborative lesson development
 
 * Lesson material hosted under CodeRefinery GitHub organization
-* CodeRefinery Lesson template
+* [CodeRefinery Lesson template with Sphinx](https://coderefinery.github.io/sphinx-lesson/)
+    * [Tabs](https://coderefinery.github.io/git-intro/commits/#solution-and-walk-through)
+    * [Scaffolding](https://coderefinery.github.io/reproducible-research/workflow-management/)
 * Open license - CC-BY
-* Citation.cff -> Zenodo DOI
+* Citation.cff -> Zenodo DOI (manual)
 * Contribution guide (WIP)
 * Issues, branches, forks and Pull requests
-
--> Transparancy and continuous improvement
-
----
-
-## CodeRefinery lesson template
-
-* Sphinx: GitHub template
-* Example and documentation: https://coderefinery.github.io/sphinx-lesson/
-* Features:
-  - Boxes
-  - Instructor guide
-  - Customizable
-  - Tabs
 
 ---
 
@@ -126,48 +127,15 @@ Similar efforts:
 
 ---
 
-## 2. Bring your own classroom
-
-* Main CodeRefinery model: a central livestream course + single learners / many local classrooms hosted by partners
-* Each room has a host/facilitator
-* Participants get local support, social learning, and community formation
-* Central instructors focus on teaching; hubs focus on mentoring
-* Extra support 
-
----
-
-## Why BYOC?
-
-* One course → hundreds of participants without losing human interaction
-* Distributed responsibility reduces teacher burnout
-* Easy for hubs to align with local priorities (add material) while using shared material
-* Works well with hybrid/remote infrastructure all across Nordics and beyond
-
----
-
-## 3. Training collaborative
+# 3. Training collaborative
 
 ## CodeRefinery teaching philosophy 
 
-* Training as a community skill, not a one-off event
-* Lower the barrier for becoming a trainer through co-teaching and practical instructor onboarding
+* Training as a community skill
+* Co-teaching and practical instructor onboarding -> lowering barrier
+  * Zoom, collab notes, terminal and screenshare setup, GitHub
 * Teaching as a shared practice across institutions
 
----
 
-## Instructor training
 
-* Motivation, live-coding pedagogy, demystifying teaching
-* Lesson maintenance and update practices + setup/installation instructions
-* Technical teaching: Zoom, collab notes, terminal and screenshare setup, GitHub
-* Instructor shadowing, onboarding new teachers
-
----
-
-## LAIF - Possibilities
-
-- Adapt lesson template to own needs and copy workflow
-- BYOC setup and structure perfect for LAIF hubs?
-- TTT materials adoption
-- COLLABORATION <3
 
