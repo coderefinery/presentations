@@ -47,6 +47,7 @@ body {
   color: #856190;
 }
 
+
 ul {
   list-style-type: '-   ';
 }
@@ -174,6 +175,16 @@ a {
   color: #856190;
   font-family: 'Kalam', cursive;
   font-size: 0.95em;
+}
+
+.small {
+  font-size: 0.45em;
+}
+
+.quote-small {
+  color: #856190;
+  font-family: 'Kalam', cursive;
+  font-size: 0.7em;
 }
 
 .cite {

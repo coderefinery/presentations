@@ -13,23 +13,23 @@ class: center, middle
      alt="CodeRefinery logo"
      style="height: 200px;"/>
 
-## Bring your own Classroom to a CodeRefinery workshop
+## Bring your own classroom to a CodeRefinery workshop
 
-Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)
-
-<img width="60px" src="img/neic.png" alt="logo: Nordic e-infrastructure Collaboartion">
-<img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
-<img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
+<img width="80px" src="img/neic.png" alt="logo: Nordic e-infrastructure Collaboartion">
+<img width="40px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
+<img width="60px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
 <img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
-<img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
-<br>
-<img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
-<img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
-<img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
-<img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
-<img width="90px" src="img/uh.png" alt="logo: University of Helsinki Center for Information Technology">
+<img width="60px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<img width="80px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
+<img width="80px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
+<img width="60px" src="img/nris-sigma2.png" alt="logo: NRIS/Sigma2">
+<img width="40px" src="img/uio.jpg" alt="logo: University of Oslo">
+<img width="40px" src="img/hi.png" alt="logo: University of Oslo">
+<img width="50px" src="img/uh.png" alt="logo: University of Helsinki Center for Information Technology">
 
-#### ELIXIR Training Coordinators, July 2026
+#### ELIXIR Traning Coordinators, July 2026
+
+.small[Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)]
 
 ---
 
@@ -42,6 +42,16 @@ Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)
 2. The bring your own classroom approach
 
 3. How we can support each other
+
+---
+
+# ELIXIR-FI collaboration ecosystem
+
+<br>
+
+.center[
+<img width="750px" src="img/ELIXIR_collab.png" alt="logo: ELIXIR-FI collaboration ecosystem">
+]
 
 ---
 
@@ -95,17 +105,23 @@ Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)
 
 ---
 
-# FAIR training material
+## Where are we wrt to FAIR training materials?
 
+.left-column60[
+.center[
 <img src="img/ten_simple_rules.png"
      alt="Ten simple rules for FAIR training material (https://doi.org/10.1371/journal.pcbi.1007854)"
-     style="height: 350px;"/>
+     style="height: 100px;"/>
+]]
 
-> Wiegers, L., & van Gelder, C. W. G. (2019). Illustration for "Ten simple rules for making training materials FAIR" (1.0). Zenodo. https://doi.org/10.5281/zenodo.3593258
+.right-column40[
+<br>
 
----
-
-# Where are we wrt to FAIR training materials?
+.small[
+Wiegers, L., & van Gelder, C. W. G. (2019). Illustration for "Ten simple rules for making training materials FAIR" (1.0). Zenodo. https://doi.org/10.5281/zenodo.3593258]
+<br>
+<br>
+]
 
 
 1. Share - GitHub ✔️
@@ -160,40 +176,35 @@ Interactivity & sense of community
 
 # Experiences
 
-<br>
 
-.quote[
+.quote-small[
 [...] allowed us to advance with the **implementation of our vision** for
 Research Data & Software Management training [...]
 ]
-(Paula Martinez Lavanchy, TU Delft, NL)
+.small[(Paula Martinez Lavanchy, TU Delft, NL)]
 
-<br>
 
-.quote[
+.quote-small[
 [...] really **allows to reach the biggest possible
 audience**, while also fostering the **creation of local communities**. [...]
 ]
-(Lisanna Paladin, EMBL, DE)
+.small[(Lisanna Paladin, EMBL, DE)]
 
-<br>
 
-.quote[
+.quote-small[
 [...] One of the biggest **challenge is to keep the whole classroom from first to last
 day** ... I think it's impossible 🙂 [...] 
 ]
-(Candy Deck, NTNU, NO)
+.small[(Candy Deck, NTNU, NO)]
 
-<br>
 
-.quote[
+.quote-small[
 [...] I believe **attending these workshops as a group helped tremendously**
 compared to attending individually [...] due to being able to learn together and discuss
 in person with team mates. 
 ]
-(Jakob Sauer Jørgensen, DTU, DK)
+.small[(Jakob Sauer Jørgensen, DTU, DK)]
 
-<br>
 
 Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classroom/)!
 
@@ -233,23 +244,19 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 ---
 
-# What we offer
+# What we can offer
 
-- Join as observer
+- Join a workshop as an observer
+
+- Local classroom .emph[onboarding and support]
+
 - Instructor training (co-teaching, technical setup)
+
 - Collaborative lesson development
-- Technical streaming setup 
-- Local classroom onboarding and support
 
-# How can you / your organization support the project?
+- .emph[Technical streaming setup] 
 
-<br>
-
-.center[
-<img src="img/joining.png"
-     alt="Graphics that summarizes how people and organizations can participate: by advertizing, by sending observers or organizing local classroom or through becoming a co-instructor. Each of the ways has a little graphic next to it: news scroll, telesecope, box with four figures, one of which with glasses, two figures with glasses and hats."
-     style="height: 400px;"/>
-]
+-> Contact us at support@coderefinery.org !
 
 ---
 
@@ -263,9 +270,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 - [Next Workshop](https://coderefinery.github.io/2026-09-22-workshop/) starting September 22nd! 
 
-#### These slides
-
-[xx]()
+<br>
 
 #### Credits and license
 
