@@ -1,3 +1,12 @@
+<!-- cicero
+engine: remark
+js:
+  - https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js
+css:
+  - 2026_ELIXIR_BYOC.css
+highlight: monokai
+-->
+
 class: center, middle
 
 <img src="img/coderefinery.png"
