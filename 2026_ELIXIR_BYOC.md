@@ -8,18 +8,19 @@ class: center, middle
 
 Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)
 
-
+<img width="60px" src="img/neic.png" alt="logo: Nordic e-infrastructure Collaboartion">
 <img width="60px" src="img/asc.png" alt="logo: Aalto Scientific Computing">
 <img width="80px" src="img/csc.png" alt="logo: CSC - IT Center for Science">
 <img width="80px" src="img/chc.png" alt="logo: Center for Humanities Computing">
 <img width="80px" src="img/deic.png" alt="logo: Danish e-Infrastructure Consortium">
+<br>
 <img width="90px" src="img/enccs.png" alt="logo: EuroCC National Competence Center Sweden (ENCCS)">
 <img width="90px" src="img/naiss_black.png" alt="logo: National Academic Infrastructure for Super­computing in Sweden (NAISS)">
 <img width="90px" src="img/nris.png" alt="logo: NRIS/Sigma2">
 <img width="90px" src="img/sigma2.png" alt="logo: NRIS/Sigma2">
 <img width="90px" src="img/uh.png" alt="logo: University of Helsinki Center for Information Technology">
 
-## ELIXIR Training Coordinators, July 2026
+#### ELIXIR Training Coordinators, July 2026
 
 ---
 
@@ -31,13 +32,13 @@ Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)
 
 2. The bring your own classroom approach
 
-3. What's in it for you
+3. How we can support each other
 
 ---
 
 # CodeRefinery - A hub for FAIR research software practices
 
-- Project currently funded by [NeIC](https://neic.no/)
+- Project currently funded by [NeIC](https://neic.no/) and partner organizations 
 
 - Tightly connected to [Nordic RSE](https://nordic-rse.org/)
 
@@ -141,6 +142,7 @@ Interactivity & sense of community
 <br>
 
 - (Local) partners host a "watching party"
+- Open for anyone or own research group
 - Online or in-person
 - Own team lead as support
 - Small group
@@ -153,22 +155,17 @@ Interactivity & sense of community
 
 .quote[
 [...] allowed us to advance with the **implementation of our vision** for
-Research Data & Software Management training and the implementation of TU Delft
-Research Software Policy [...]
+Research Data & Software Management training [...]
 ]
 (Paula Martinez Lavanchy, TU Delft, NL)
 
 <br>
 
 .quote[
-[...] I think your format really **allows to reach the biggest possible
+[...] really **allows to reach the biggest possible
 audience**, while also fostering the **creation of local communities**. [...]
 ]
 (Lisanna Paladin, EMBL, DE)
-
----
-
-# Experiences
 
 <br>
 
@@ -178,8 +175,10 @@ day** ... I think it's impossible 🙂 [...]
 ]
 (Candy Deck, NTNU, NO)
 
+<br>
+
 .quote[
-[...] In general, I believe **attending these workshops as a group helped tremendously**
+[...] I believe **attending these workshops as a group helped tremendously**
 compared to attending individually [...] due to being able to learn together and discuss
 in person with team mates. 
 ]
@@ -207,8 +206,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 
 ---
 
-
-# Benefits of bringing your own classroom
+# Benefits of bring your own classroom
 
 <br>
 
@@ -234,7 +232,7 @@ Read more in our [blogpost](https://coderefinery.org/blog/bring-your-own-classro
 - Technical streaming setup 
 - Local classroom onboarding and support
 
-# How can you / your organization join?
+# How can you / your organization support the project?
 
 <br>
 
