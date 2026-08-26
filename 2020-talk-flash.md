@@ -1,3 +1,11 @@
+<!-- cicero
+engine: remark
+js:
+  - https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js
+css:
+  - 2020-talk-flash.css
+-->
+
 class: center, middle
 
 <img src="img/coderefinery.png" style="height: 200px;"/>

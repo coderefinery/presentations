@@ -1,3 +1,11 @@
+<!-- cicero
+engine: remark
+js:
+  - https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js
+css:
+  - 2024-CodeRefinery-basic.css
+-->
+
 
 
 class: center, middle, gray-background
