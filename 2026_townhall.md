@@ -40,6 +40,11 @@ In one word: what does CodeRefinery mean to you?
 
 ---
 
+# Goal of these townhall meetings
+
+.quote[Through these townhall events, we want to create a space for open discussion, questions, and the sharing of ideas. We warmly invite all members of the extended CodeRefinery community to join the conversation and help explore possible paths forward for the community together. No need to be a project partner or active contributor.]
+
+----
 
 # CodeRefinery - A training network for research computing 
 
@@ -143,7 +148,7 @@ What have you always wondered about CodeRefinery but never asked?
 
 # Paths forward
 
-What should definitely continue, what could change, and what could stop?
+What options for continuing a project like CodeRefinery do you know of? What organizational structure would you like to see? Do you know of any suitable funding options?
 
 ---
 
