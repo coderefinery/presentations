@@ -93,18 +93,18 @@ In one word: what does CodeRefinery mean to you?
 
 .left-column50[
 
-- No NeIC
-- CSC to take ownership for 2027
-- Partner organizations are commited 
-- 
-
+- No NeIC after 2026
+- CSC to take ownership of CodeRefinery for 2027
+- Partner organizations are commited until end 2027
+- CodeRefinery lesson materials and manuals will stay available
 
 ]
 
 .right-column50[
 
-- indico registration
-- Meetup funds
+- Indico registration
+- Meetup, travel and domain/goodies funds
+- Continuation model beyond 2027
 
 ]
 
