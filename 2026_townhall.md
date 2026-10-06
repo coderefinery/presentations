@@ -99,6 +99,7 @@ In one word: what does CodeRefinery mean to you?
 # What we know and do not know (yet)
 
 .left-column50[
+We know about ...
 
 - No NeIC after 2026
 - CSC to take ownership of CodeRefinery for 2027
@@ -108,6 +109,7 @@ In one word: what does CodeRefinery mean to you?
 ]
 
 .right-column50[
+We do not know about ...
 
 - Indico registration
 - Meetup, travel and domain/goodies funds
