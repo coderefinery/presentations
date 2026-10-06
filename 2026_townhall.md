@@ -34,6 +34,8 @@ Samantha Wittke, CSC - IT Center for Science, Finland (samantha.wittke@csc.fi)
 
 ---
 
+class: center, middle
+
 # Warm up question to you
 
 In one word: what does CodeRefinery mean to you?
@@ -44,7 +46,7 @@ In one word: what does CodeRefinery mean to you?
 
 .quote[Through these townhall events, we want to create a space for open discussion, questions, and the sharing of ideas. We warmly invite all members of the extended CodeRefinery community to join the conversation and help explore possible paths forward for the community together. No need to be a project partner or active contributor.]
 
-----
+---
 
 # CodeRefinery - A training network for research computing 
 
